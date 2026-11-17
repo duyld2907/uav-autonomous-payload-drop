@@ -1,6 +1,0 @@
-timestamp,event,seq_index,current_color,target_found,aligned,err_x,err_y,center_x,center_y,radius,bbox,fixed_box,status,camera_info,frame_counter,detect_counter,advance_counter
-2026-04-18T07:24:32.036,node_started,0,red,,,,,,,,,"x=260,y=130,w=120,h=120",vision_node_started,camera_info_unknown,0,0,0
-2026-04-18T07:24:32.065,waiting_for_image,0,red,,,,,,,,,"x=260,y=130,w=120,h=120",no_frame_yet,camera_info_unknown,0,0,0
-2026-04-18T07:24:32.871,no_target,0,red,False,False,,,,,,,"x=260,y=130,w=120,h=120",no_target_red,camera_ok frames=1 fps=0.0 size=640x480,1,0,0
-2026-04-18T07:24:32.883,video_recording_started,0,red,,,,,,,,,"x=260,y=130,w=120,h=120",/ws/logs/vision_runs/vision_debug_launch.avi,camera_ok frames=1 fps=0.0 size=640x480,1,0,0
-2026-04-18T07:24:44.575,node_stopping,0,red,,,,,,,,,"x=260,y=130,w=120,h=120",destroy_node,camera_ok frames=77 fps=6.6 size=640x480,235,0,0

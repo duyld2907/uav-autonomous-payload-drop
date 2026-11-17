@@ -1,4 +1,0 @@
-timestamp,event,target_mode,current_color,target_found,aligned,err_x,err_y,center_x,center_y,radius,bbox,status,camera_info,frame_counter,detect_counter,mode_change_counter,reset_counter
-2026-04-20T10:46:28.225,node_started,idle,unknown,,,,,,,,,vision_node_started,camera_info_unknown,0,0,0,0
-2026-04-20T10:46:58.620,target_mode_changed,red_1,red,,,,,,,,,red_1,camera_ok frames=197 fps=6.7 size=640x480,592,0,1,0
-2026-04-20T10:47:33.563,target_mode_changed,red_2,red,,,,,,,,,red_2,camera_ok frames=426 fps=6.6 size=640x480,1291,156,2,1
