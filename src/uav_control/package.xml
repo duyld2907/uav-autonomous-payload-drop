@@ -2,16 +2,23 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>uav_control</name>
-  <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="orangepi@todo.todo">orangepi</maintainer>
-  <license>TODO: License declaration</license>
+  <version>1.0.0</version>
+  <description>Autonomous payload-drop mission for an ArduPilot quadcopter: camera, color-target vision and MAVLink flight-control nodes for ROS 2 Humble.</description>
+  <maintainer email="duyld2907@gmail.com">Le Duc Duy</maintainer>
+  <license>Proprietary</license>
+
+  <url type="repository">https://github.com/duyld2907/uav-autonomous-payload-drop</url>
+  <author email="duyld2907@gmail.com">Le Duc Duy</author>
 
   <depend>rclpy</depend>
   <depend>std_msgs</depend>
   <depend>geometry_msgs</depend>
   <depend>sensor_msgs</depend>
-  <depend>mavros_msgs</depend>
+
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+  <exec_depend>python3-opencv</exec_depend>
+  <exec_depend>python3-numpy</exec_depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
