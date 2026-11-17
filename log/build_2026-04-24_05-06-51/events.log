@@ -1,0 +1,42 @@
+[0.000000] (-) TimerEvent: {}
+[0.001035] (uav_control) JobQueued: {'identifier': 'uav_control', 'dependencies': OrderedDict()}
+[0.001622] (uav_control) JobStarted: {'identifier': 'uav_control'}
+[0.099473] (-) TimerEvent: {}
+[0.200333] (-) TimerEvent: {}
+[0.301130] (-) TimerEvent: {}
+[0.401838] (-) TimerEvent: {}
+[0.502447] (-) TimerEvent: {}
+[0.603096] (-) TimerEvent: {}
+[0.703772] (-) TimerEvent: {}
+[0.804456] (-) TimerEvent: {}
+[0.905252] (-) TimerEvent: {}
+[0.944883] (uav_control) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/ws/build/uav_control/build', '--no-deps', 'symlink_data'], 'cwd': '/ws/build/uav_control', 'env': {'HOSTNAME': 'orangepi5', 'SHLVL': '0', 'LD_LIBRARY_PATH': '/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/root', 'OLDPWD': '/ws', 'ROS_PYTHON_VERSION': '3', 'ROS_DISTRO': 'humble', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin', 'LANG': 'C.UTF-8', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'PWD': '/ws/build/uav_control', 'LC_ALL': 'C.UTF-8', 'PYTHONPATH': '/ws/build/uav_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/install/uav_control/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1'}, 'shell': False}
+[1.005492] (-) TimerEvent: {}
+[1.106333] (-) TimerEvent: {}
+[1.207130] (-) TimerEvent: {}
+[1.281644] (uav_control) StdoutLine: {'line': b'running develop\n'}
+[1.307311] (-) TimerEvent: {}
+[1.406404] (uav_control) StdoutLine: {'line': b'running egg_info\n'}
+[1.407020] (uav_control) StdoutLine: {'line': b'writing uav_control.egg-info/PKG-INFO\n'}
+[1.407371] (-) TimerEvent: {}
+[1.415090] (uav_control) StdoutLine: {'line': b'writing dependency_links to uav_control.egg-info/dependency_links.txt\n'}
+[1.415733] (uav_control) StdoutLine: {'line': b'writing entry points to uav_control.egg-info/entry_points.txt\n'}
+[1.416108] (uav_control) StdoutLine: {'line': b'writing requirements to uav_control.egg-info/requires.txt\n'}
+[1.416487] (uav_control) StdoutLine: {'line': b'writing top-level names to uav_control.egg-info/top_level.txt\n'}
+[1.419828] (uav_control) StdoutLine: {'line': b"reading manifest file 'uav_control.egg-info/SOURCES.txt'\n"}
+[1.421200] (uav_control) StdoutLine: {'line': b"writing manifest file 'uav_control.egg-info/SOURCES.txt'\n"}
+[1.425040] (uav_control) StdoutLine: {'line': b'running build_ext\n'}
+[1.425947] (uav_control) StdoutLine: {'line': b'Creating /ws/install/uav_control/lib/python3.10/site-packages/uav-control.egg-link (link to .)\n'}
+[1.431648] (uav_control) StdoutLine: {'line': b'Installing auto_control_node script to /ws/install/uav_control/lib/uav_control\n'}
+[1.432409] (uav_control) StdoutLine: {'line': b'Installing camera_node script to /ws/install/uav_control/lib/uav_control\n'}
+[1.432935] (uav_control) StdoutLine: {'line': b'Installing servo script to /ws/install/uav_control/lib/uav_control\n'}
+[1.433441] (uav_control) StdoutLine: {'line': b'Installing testservo script to /ws/install/uav_control/lib/uav_control\n'}
+[1.433908] (uav_control) StdoutLine: {'line': b'Installing vision_node script to /ws/install/uav_control/lib/uav_control\n'}
+[1.434431] (uav_control) StdoutLine: {'line': b'\n'}
+[1.434836] (uav_control) StdoutLine: {'line': b'Installed /ws/build/uav_control\n'}
+[1.435174] (uav_control) StdoutLine: {'line': b'running symlink_data\n'}
+[1.507639] (-) TimerEvent: {}
+[1.517696] (uav_control) CommandEnded: {'returncode': 0}
+[1.607849] (-) TimerEvent: {}
+[1.609168] (uav_control) JobEnded: {'identifier': 'uav_control', 'rc': 0}
+[1.613315] (-) EventReactorShutdown: {}

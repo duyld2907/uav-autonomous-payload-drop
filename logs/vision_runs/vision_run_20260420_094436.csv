@@ -1,0 +1,5 @@
+timestamp,event,target_mode,current_color,target_found,aligned,err_x,err_y,center_x,center_y,radius,bbox,status,camera_info,frame_counter,detect_counter,mode_change_counter,reset_counter
+2026-04-20T09:44:36.720,node_started,idle,unknown,,,,,,,,,vision_node_started,camera_info_unknown,0,0,0,0
+2026-04-20T09:44:36.747,waiting_for_image,idle,unknown,,,,,,,,,no_frame_yet,camera_info_unknown,0,0,0,0
+2026-04-20T09:44:37.624,video_recording_started,idle,unknown,,,,,,,,,/ws/logs/vision_runs/vision_debug_launch.avi,camera_ok frames=1 fps=0.0 size=640x480,1,0,0,0
+2026-04-20T09:44:44.177,node_stopping,idle,unknown,,,,,,,,,destroy_node,camera_ok frames=45 fps=6.7 size=640x480,132,0,0,0

@@ -1,0 +1,1594 @@
+timestamp,event,seq_index,current_color,target_found,err_x,err_y,radius,status,camera_info,frame_counter,detect_counter,drop_counter
+2026-04-17T10:00:09.124,node_started,0,red,,,,,vision_node_started,camera_info_unknown,0,0,0
+2026-04-17T10:00:09.156,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:10.154,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:11.204,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:12.204,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:13.254,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:14.256,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:15.305,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:16.351,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:17.354,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:18.404,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:19.452,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:20.502,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:21.504,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:22.554,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:23.601,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:24.603,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:25.651,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:26.702,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:27.701,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:28.753,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:29.754,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:30.801,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:31.804,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:32.851,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:33.901,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:34.904,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:35.951,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:36.952,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:37.951,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:39.001,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:40.001,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:41.051,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:42.053,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:43.102,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:44.152,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:45.152,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:46.155,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:47.203,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:48.253,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:49.302,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:50.352,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:51.403,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:52.403,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:53.404,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:54.452,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T10:00:55.094,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1 fps=0.0 size=640x480,0,0,0
+2026-04-17T10:00:55.183,no_target,0,red,False,,,,no_target_red,camera_ok frames=1 fps=0.0 size=640x480,1,0,0
+2026-04-17T10:00:55.209,video_recording_started,0,red,,,,,/ws/logs/vision_debug.avi,camera_ok frames=1 fps=0.0 size=640x480,1,0,0
+2026-04-17T10:00:55.233,debug_view_unavailable,0,red,,,,,"OpenCV(4.13.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+",camera_ok frames=1 fps=0.0 size=640x480,1,0,0
+2026-04-17T10:00:55.245,camera_info,0,red,,,,,camera_info_update,camera_ok frames=2 fps=0.0 size=640x480,2,0,0
+2026-04-17T10:00:55.391,camera_info,0,red,,,,,camera_info_update,camera_ok frames=3 fps=2.9 size=640x480,5,0,0
+2026-04-17T10:00:55.540,camera_info,0,red,,,,,camera_info_update,camera_ok frames=4 fps=2.9 size=640x480,8,0,0
+2026-04-17T10:00:55.689,camera_info,0,red,,,,,camera_info_update,camera_ok frames=5 fps=2.9 size=640x480,11,0,0
+2026-04-17T10:00:55.837,camera_info,0,red,,,,,camera_info_update,camera_ok frames=6 fps=2.9 size=640x480,14,0,0
+2026-04-17T10:00:55.986,camera_info,0,red,,,,,camera_info_update,camera_ok frames=7 fps=2.9 size=640x480,17,0,0
+2026-04-17T10:00:56.135,camera_info,0,red,,,,,camera_info_update,camera_ok frames=8 fps=2.9 size=640x480,20,0,0
+2026-04-17T10:00:56.287,camera_info,0,red,,,,,camera_info_update,camera_ok frames=9 fps=2.9 size=640x480,23,0,0
+2026-04-17T10:00:56.438,camera_info,0,red,,,,,camera_info_update,camera_ok frames=10 fps=6.7 size=640x480,26,0,0
+2026-04-17T10:00:56.588,camera_info,0,red,,,,,camera_info_update,camera_ok frames=11 fps=6.7 size=640x480,29,0,0
+2026-04-17T10:00:56.735,camera_info,0,red,,,,,camera_info_update,camera_ok frames=12 fps=6.7 size=640x480,32,0,0
+2026-04-17T10:00:56.885,camera_info,0,red,,,,,camera_info_update,camera_ok frames=13 fps=6.7 size=640x480,35,0,0
+2026-04-17T10:00:57.034,camera_info,0,red,,,,,camera_info_update,camera_ok frames=14 fps=6.7 size=640x480,38,0,0
+2026-04-17T10:00:57.182,camera_info,0,red,,,,,camera_info_update,camera_ok frames=15 fps=6.7 size=640x480,41,0,0
+2026-04-17T10:00:57.334,camera_info,0,red,,,,,camera_info_update,camera_ok frames=16 fps=6.7 size=640x480,44,0,0
+2026-04-17T10:00:57.484,camera_info,0,red,,,,,camera_info_update,camera_ok frames=17 fps=6.7 size=640x480,47,0,0
+2026-04-17T10:00:57.633,camera_info,0,red,,,,,camera_info_update,camera_ok frames=18 fps=6.7 size=640x480,50,0,0
+2026-04-17T10:00:57.779,camera_info,0,red,,,,,camera_info_update,camera_ok frames=19 fps=6.7 size=640x480,53,0,0
+2026-04-17T10:00:57.929,camera_info,0,red,,,,,camera_info_update,camera_ok frames=20 fps=6.7 size=640x480,56,0,0
+2026-04-17T10:00:58.081,camera_info,0,red,,,,,camera_info_update,camera_ok frames=21 fps=6.7 size=640x480,59,0,0
+2026-04-17T10:00:58.228,camera_info,0,red,,,,,camera_info_update,camera_ok frames=22 fps=6.7 size=640x480,62,0,0
+2026-04-17T10:00:58.378,camera_info,0,red,,,,,camera_info_update,camera_ok frames=23 fps=6.7 size=640x480,65,0,0
+2026-04-17T10:00:58.526,camera_info,0,red,,,,,camera_info_update,camera_ok frames=24 fps=6.7 size=640x480,68,0,0
+2026-04-17T10:00:58.680,camera_info,0,red,,,,,camera_info_update,camera_ok frames=25 fps=6.7 size=640x480,71,0,0
+2026-04-17T10:00:58.828,camera_info,0,red,,,,,camera_info_update,camera_ok frames=26 fps=6.7 size=640x480,74,0,0
+2026-04-17T10:00:58.978,camera_info,0,red,,,,,camera_info_update,camera_ok frames=27 fps=6.7 size=640x480,77,0,0
+2026-04-17T10:00:59.128,camera_info,0,red,,,,,camera_info_update,camera_ok frames=28 fps=6.7 size=640x480,80,0,0
+2026-04-17T10:00:59.277,camera_info,0,red,,,,,camera_info_update,camera_ok frames=29 fps=6.7 size=640x480,83,0,0
+2026-04-17T10:00:59.427,camera_info,0,red,,,,,camera_info_update,camera_ok frames=30 fps=6.7 size=640x480,86,0,0
+2026-04-17T10:00:59.579,camera_info,0,red,,,,,camera_info_update,camera_ok frames=31 fps=6.7 size=640x480,89,0,0
+2026-04-17T10:00:59.734,camera_info,0,red,,,,,camera_info_update,camera_ok frames=32 fps=6.7 size=640x480,92,0,0
+2026-04-17T10:00:59.885,camera_info,0,red,,,,,camera_info_update,camera_ok frames=33 fps=6.7 size=640x480,95,0,0
+2026-04-17T10:01:00.034,camera_info,0,red,,,,,camera_info_update,camera_ok frames=34 fps=6.7 size=640x480,98,0,0
+2026-04-17T10:01:00.184,camera_info,0,red,,,,,camera_info_update,camera_ok frames=35 fps=6.7 size=640x480,101,0,0
+2026-04-17T10:01:00.331,camera_info,0,red,,,,,camera_info_update,camera_ok frames=36 fps=6.7 size=640x480,104,0,0
+2026-04-17T10:01:00.481,camera_info,0,red,,,,,camera_info_update,camera_ok frames=37 fps=6.7 size=640x480,107,0,0
+2026-04-17T10:01:00.631,camera_info,0,red,,,,,camera_info_update,camera_ok frames=38 fps=6.6 size=640x480,110,0,0
+2026-04-17T10:01:00.794,camera_info,0,red,,,,,camera_info_update,camera_ok frames=39 fps=6.6 size=640x480,113,0,0
+2026-04-17T10:01:00.946,camera_info,0,red,,,,,camera_info_update,camera_ok frames=40 fps=6.6 size=640x480,116,0,0
+2026-04-17T10:01:01.097,camera_info,0,red,,,,,camera_info_update,camera_ok frames=41 fps=6.6 size=640x480,119,0,0
+2026-04-17T10:01:01.246,camera_info,0,red,,,,,camera_info_update,camera_ok frames=42 fps=6.6 size=640x480,122,0,0
+2026-04-17T10:01:01.396,camera_info,0,red,,,,,camera_info_update,camera_ok frames=43 fps=6.6 size=640x480,125,0,0
+2026-04-17T10:01:01.548,camera_info,0,red,,,,,camera_info_update,camera_ok frames=44 fps=6.6 size=640x480,128,0,0
+2026-04-17T10:01:01.696,camera_info,0,red,,,,,camera_info_update,camera_ok frames=45 fps=6.6 size=640x480,131,0,0
+2026-04-17T10:01:01.866,camera_info,0,red,,,,,camera_info_update,camera_ok frames=46 fps=6.6 size=640x480,135,0,0
+2026-04-17T10:01:02.010,camera_info,0,red,,,,,camera_info_update,camera_ok frames=47 fps=6.6 size=640x480,138,0,0
+2026-04-17T10:01:02.158,camera_info,0,red,,,,,camera_info_update,camera_ok frames=48 fps=6.6 size=640x480,141,0,0
+2026-04-17T10:01:02.309,camera_info,0,red,,,,,camera_info_update,camera_ok frames=49 fps=6.6 size=640x480,144,0,0
+2026-04-17T10:01:02.483,camera_info,0,red,,,,,camera_info_update,camera_ok frames=50 fps=6.6 size=640x480,147,0,0
+2026-04-17T10:01:02.613,camera_info,0,red,,,,,camera_info_update,camera_ok frames=51 fps=6.6 size=640x480,150,0,0
+2026-04-17T10:01:02.760,camera_info,0,red,,,,,camera_info_update,camera_ok frames=52 fps=6.6 size=640x480,153,0,0
+2026-04-17T10:01:02.911,camera_info,0,red,,,,,camera_info_update,camera_ok frames=53 fps=6.6 size=640x480,156,0,0
+2026-04-17T10:01:03.061,camera_info,0,red,,,,,camera_info_update,camera_ok frames=54 fps=6.6 size=640x480,159,0,0
+2026-04-17T10:01:03.213,camera_info,0,red,,,,,camera_info_update,camera_ok frames=55 fps=6.6 size=640x480,162,0,0
+2026-04-17T10:01:03.386,camera_info,0,red,,,,,camera_info_update,camera_ok frames=56 fps=6.6 size=640x480,165,0,0
+2026-04-17T10:01:03.510,camera_info,0,red,,,,,camera_info_update,camera_ok frames=57 fps=6.6 size=640x480,168,0,0
+2026-04-17T10:01:03.661,camera_info,0,red,,,,,camera_info_update,camera_ok frames=58 fps=6.6 size=640x480,171,0,0
+2026-04-17T10:01:03.814,camera_info,0,red,,,,,camera_info_update,camera_ok frames=59 fps=6.6 size=640x480,174,0,0
+2026-04-17T10:01:03.965,camera_info,0,red,,,,,camera_info_update,camera_ok frames=60 fps=6.6 size=640x480,177,0,0
+2026-04-17T10:01:04.114,camera_info,0,red,,,,,camera_info_update,camera_ok frames=61 fps=6.6 size=640x480,180,0,0
+2026-04-17T10:01:04.268,camera_info,0,red,,,,,camera_info_update,camera_ok frames=62 fps=6.6 size=640x480,183,0,0
+2026-04-17T10:01:04.419,camera_info,0,red,,,,,camera_info_update,camera_ok frames=63 fps=6.6 size=640x480,186,0,0
+2026-04-17T10:01:04.568,camera_info,0,red,,,,,camera_info_update,camera_ok frames=64 fps=6.6 size=640x480,189,0,0
+2026-04-17T10:01:04.721,camera_info,0,red,,,,,camera_info_update,camera_ok frames=65 fps=6.6 size=640x480,192,0,0
+2026-04-17T10:01:04.868,camera_info,0,red,,,,,camera_info_update,camera_ok frames=66 fps=6.6 size=640x480,195,0,0
+2026-04-17T10:01:05.020,camera_info,0,red,,,,,camera_info_update,camera_ok frames=67 fps=6.6 size=640x480,198,0,0
+2026-04-17T10:01:05.169,camera_info,0,red,,,,,camera_info_update,camera_ok frames=68 fps=6.6 size=640x480,201,0,0
+2026-04-17T10:01:05.319,camera_info,0,red,,,,,camera_info_update,camera_ok frames=69 fps=6.6 size=640x480,204,0,0
+2026-04-17T10:01:05.470,camera_info,0,red,,,,,camera_info_update,camera_ok frames=70 fps=6.6 size=640x480,207,0,0
+2026-04-17T10:01:05.629,camera_info,0,red,,,,,camera_info_update,camera_ok frames=71 fps=6.6 size=640x480,210,0,0
+2026-04-17T10:01:05.776,camera_info,0,red,,,,,camera_info_update,camera_ok frames=72 fps=6.6 size=640x480,213,0,0
+2026-04-17T10:01:05.920,camera_info,0,red,,,,,camera_info_update,camera_ok frames=73 fps=6.7 size=640x480,216,0,0
+2026-04-17T10:01:06.076,camera_info,0,red,,,,,camera_info_update,camera_ok frames=74 fps=6.7 size=640x480,219,0,0
+2026-04-17T10:01:06.227,camera_info,0,red,,,,,camera_info_update,camera_ok frames=75 fps=6.7 size=640x480,222,0,0
+2026-04-17T10:01:06.378,camera_info,0,red,,,,,camera_info_update,camera_ok frames=76 fps=6.7 size=640x480,225,0,0
+2026-04-17T10:01:06.528,camera_info,0,red,,,,,camera_info_update,camera_ok frames=77 fps=6.7 size=640x480,228,0,0
+2026-04-17T10:01:06.676,camera_info,0,red,,,,,camera_info_update,camera_ok frames=78 fps=6.7 size=640x480,231,0,0
+2026-04-17T10:01:06.840,camera_info,0,red,,,,,camera_info_update,camera_ok frames=79 fps=6.7 size=640x480,234,0,0
+2026-04-17T10:01:06.989,camera_info,0,red,,,,,camera_info_update,camera_ok frames=80 fps=6.5 size=640x480,237,0,0
+2026-04-17T10:01:07.139,camera_info,0,red,,,,,camera_info_update,camera_ok frames=81 fps=6.5 size=640x480,240,0,0
+2026-04-17T10:01:07.289,camera_info,0,red,,,,,camera_info_update,camera_ok frames=82 fps=6.5 size=640x480,243,0,0
+2026-04-17T10:01:07.438,camera_info,0,red,,,,,camera_info_update,camera_ok frames=83 fps=6.5 size=640x480,246,0,0
+2026-04-17T10:01:07.587,camera_info,0,red,,,,,camera_info_update,camera_ok frames=84 fps=6.5 size=640x480,249,0,0
+2026-04-17T10:01:07.736,camera_info,0,red,,,,,camera_info_update,camera_ok frames=85 fps=6.5 size=640x480,252,0,0
+2026-04-17T10:01:07.889,camera_info,0,red,,,,,camera_info_update,camera_ok frames=86 fps=6.5 size=640x480,255,0,0
+2026-04-17T10:01:08.038,camera_info,0,red,,,,,camera_info_update,camera_ok frames=87 fps=6.7 size=640x480,258,0,0
+2026-04-17T10:01:08.188,camera_info,0,red,,,,,camera_info_update,camera_ok frames=88 fps=6.7 size=640x480,261,0,0
+2026-04-17T10:01:08.335,camera_info,0,red,,,,,camera_info_update,camera_ok frames=89 fps=6.7 size=640x480,264,0,0
+2026-04-17T10:01:08.486,camera_info,0,red,,,,,camera_info_update,camera_ok frames=90 fps=6.7 size=640x480,267,0,0
+2026-04-17T10:01:08.632,camera_info,0,red,,,,,camera_info_update,camera_ok frames=91 fps=6.7 size=640x480,270,0,0
+2026-04-17T10:01:08.783,camera_info,0,red,,,,,camera_info_update,camera_ok frames=92 fps=6.7 size=640x480,273,0,0
+2026-04-17T10:01:08.934,camera_info,0,red,,,,,camera_info_update,camera_ok frames=93 fps=6.7 size=640x480,276,0,0
+2026-04-17T10:01:09.080,camera_info,0,red,,,,,camera_info_update,camera_ok frames=94 fps=6.7 size=640x480,279,0,0
+2026-04-17T10:01:09.231,camera_info,0,red,,,,,camera_info_update,camera_ok frames=95 fps=6.7 size=640x480,282,0,0
+2026-04-17T10:01:09.381,camera_info,0,red,,,,,camera_info_update,camera_ok frames=96 fps=6.7 size=640x480,285,0,0
+2026-04-17T10:01:09.530,camera_info,0,red,,,,,camera_info_update,camera_ok frames=97 fps=6.7 size=640x480,288,0,0
+2026-04-17T10:01:09.677,camera_info,0,red,,,,,camera_info_update,camera_ok frames=98 fps=6.7 size=640x480,291,0,0
+2026-04-17T10:01:09.831,camera_info,0,red,,,,,camera_info_update,camera_ok frames=99 fps=6.7 size=640x480,294,0,0
+2026-04-17T10:01:09.975,camera_info,0,red,,,,,camera_info_update,camera_ok frames=100 fps=6.7 size=640x480,297,0,0
+2026-04-17T10:01:10.125,camera_info,0,red,,,,,camera_info_update,camera_ok frames=101 fps=6.7 size=640x480,300,0,0
+2026-04-17T10:01:10.275,camera_info,0,red,,,,,camera_info_update,camera_ok frames=102 fps=6.7 size=640x480,303,0,0
+2026-04-17T10:01:10.426,camera_info,0,red,,,,,camera_info_update,camera_ok frames=103 fps=6.7 size=640x480,306,0,0
+2026-04-17T10:01:10.573,camera_info,0,red,,,,,camera_info_update,camera_ok frames=104 fps=6.7 size=640x480,309,0,0
+2026-04-17T10:01:10.723,camera_info,0,red,,,,,camera_info_update,camera_ok frames=105 fps=6.7 size=640x480,312,0,0
+2026-04-17T10:01:10.881,camera_info,0,red,,,,,camera_info_update,camera_ok frames=106 fps=6.7 size=640x480,315,0,0
+2026-04-17T10:01:11.022,camera_info,0,red,,,,,camera_info_update,camera_ok frames=107 fps=6.7 size=640x480,318,0,0
+2026-04-17T10:01:11.173,camera_info,0,red,,,,,camera_info_update,camera_ok frames=108 fps=6.7 size=640x480,321,0,0
+2026-04-17T10:01:11.325,camera_info,0,red,,,,,camera_info_update,camera_ok frames=109 fps=6.7 size=640x480,324,0,0
+2026-04-17T10:01:11.474,camera_info,0,red,,,,,camera_info_update,camera_ok frames=110 fps=6.7 size=640x480,327,0,0
+2026-04-17T10:01:11.628,camera_info,0,red,,,,,camera_info_update,camera_ok frames=111 fps=6.7 size=640x480,330,0,0
+2026-04-17T10:01:11.772,camera_info,0,red,,,,,camera_info_update,camera_ok frames=112 fps=6.7 size=640x480,333,0,0
+2026-04-17T10:01:11.923,camera_info,0,red,,,,,camera_info_update,camera_ok frames=113 fps=6.7 size=640x480,336,0,0
+2026-04-17T10:01:12.076,camera_info,0,red,,,,,camera_info_update,camera_ok frames=114 fps=6.7 size=640x480,339,0,0
+2026-04-17T10:01:12.233,camera_info,0,red,,,,,camera_info_update,camera_ok frames=115 fps=6.6 size=640x480,342,0,0
+2026-04-17T10:01:12.383,camera_info,0,red,,,,,camera_info_update,camera_ok frames=116 fps=6.6 size=640x480,345,0,0
+2026-04-17T10:01:12.531,camera_info,0,red,,,,,camera_info_update,camera_ok frames=117 fps=6.6 size=640x480,348,0,0
+2026-04-17T10:01:12.681,camera_info,0,red,,,,,camera_info_update,camera_ok frames=118 fps=6.6 size=640x480,351,0,0
+2026-04-17T10:01:12.829,camera_info,0,red,,,,,camera_info_update,camera_ok frames=119 fps=6.6 size=640x480,354,0,0
+2026-04-17T10:01:12.983,camera_info,0,red,,,,,camera_info_update,camera_ok frames=120 fps=6.6 size=640x480,357,0,0
+2026-04-17T10:01:13.132,camera_info,0,red,,,,,camera_info_update,camera_ok frames=121 fps=6.6 size=640x480,360,0,0
+2026-04-17T10:01:13.280,camera_info,0,red,,,,,camera_info_update,camera_ok frames=122 fps=6.6 size=640x480,363,0,0
+2026-04-17T10:01:13.431,camera_info,0,red,,,,,camera_info_update,camera_ok frames=123 fps=6.6 size=640x480,366,0,0
+2026-04-17T10:01:13.583,camera_info,0,red,,,,,camera_info_update,camera_ok frames=124 fps=6.6 size=640x480,369,0,0
+2026-04-17T10:01:13.732,camera_info,0,red,,,,,camera_info_update,camera_ok frames=125 fps=6.6 size=640x480,372,0,0
+2026-04-17T10:01:13.881,camera_info,0,red,,,,,camera_info_update,camera_ok frames=126 fps=6.6 size=640x480,375,0,0
+2026-04-17T10:01:14.031,camera_info,0,red,,,,,camera_info_update,camera_ok frames=127 fps=6.6 size=640x480,378,0,0
+2026-04-17T10:01:14.181,camera_info,0,red,,,,,camera_info_update,camera_ok frames=128 fps=6.6 size=640x480,381,0,0
+2026-04-17T10:01:14.331,camera_info,0,red,,,,,camera_info_update,camera_ok frames=129 fps=6.7 size=640x480,384,0,0
+2026-04-17T10:01:14.484,camera_info,0,red,,,,,camera_info_update,camera_ok frames=130 fps=6.7 size=640x480,387,0,0
+2026-04-17T10:01:14.631,camera_info,0,red,,,,,camera_info_update,camera_ok frames=131 fps=6.7 size=640x480,390,0,0
+2026-04-17T10:01:14.782,camera_info,0,red,,,,,camera_info_update,camera_ok frames=132 fps=6.7 size=640x480,393,0,0
+2026-04-17T10:01:14.934,camera_info,0,red,,,,,camera_info_update,camera_ok frames=133 fps=6.7 size=640x480,396,0,0
+2026-04-17T10:01:15.082,camera_info,0,red,,,,,camera_info_update,camera_ok frames=134 fps=6.7 size=640x480,399,0,0
+2026-04-17T10:01:15.231,camera_info,0,red,,,,,camera_info_update,camera_ok frames=135 fps=6.7 size=640x480,402,0,0
+2026-04-17T10:01:15.380,camera_info,0,red,,,,,camera_info_update,camera_ok frames=136 fps=6.7 size=640x480,405,0,0
+2026-04-17T10:01:15.533,camera_info,0,red,,,,,camera_info_update,camera_ok frames=137 fps=6.7 size=640x480,408,0,0
+2026-04-17T10:01:15.678,camera_info,0,red,,,,,camera_info_update,camera_ok frames=138 fps=6.7 size=640x480,411,0,0
+2026-04-17T10:01:15.827,camera_info,0,red,,,,,camera_info_update,camera_ok frames=139 fps=6.7 size=640x480,414,0,0
+2026-04-17T10:01:15.976,camera_info,0,red,,,,,camera_info_update,camera_ok frames=140 fps=6.7 size=640x480,417,0,0
+2026-04-17T10:01:16.123,camera_info,0,red,,,,,camera_info_update,camera_ok frames=141 fps=6.7 size=640x480,420,0,0
+2026-04-17T10:01:16.273,camera_info,0,red,,,,,camera_info_update,camera_ok frames=142 fps=6.7 size=640x480,423,0,0
+2026-04-17T10:01:16.421,camera_info,0,red,,,,,camera_info_update,camera_ok frames=143 fps=6.7 size=640x480,426,0,0
+2026-04-17T10:01:16.570,camera_info,0,red,,,,,camera_info_update,camera_ok frames=144 fps=6.7 size=640x480,429,0,0
+2026-04-17T10:01:16.718,camera_info,0,red,,,,,camera_info_update,camera_ok frames=145 fps=6.7 size=640x480,432,0,0
+2026-04-17T10:01:16.875,camera_info,0,red,,,,,camera_info_update,camera_ok frames=146 fps=6.7 size=640x480,435,0,0
+2026-04-17T10:01:17.018,camera_info,0,red,,,,,camera_info_update,camera_ok frames=147 fps=6.7 size=640x480,438,0,0
+2026-04-17T10:01:17.178,camera_info,0,red,,,,,camera_info_update,camera_ok frames=148 fps=6.7 size=640x480,441,0,0
+2026-04-17T10:01:17.331,camera_info,0,red,,,,,camera_info_update,camera_ok frames=149 fps=6.7 size=640x480,444,0,0
+2026-04-17T10:01:17.482,camera_info,0,red,,,,,camera_info_update,camera_ok frames=150 fps=6.6 size=640x480,447,0,0
+2026-04-17T10:01:17.633,camera_info,0,red,,,,,camera_info_update,camera_ok frames=151 fps=6.6 size=640x480,450,0,0
+2026-04-17T10:01:17.782,camera_info,0,red,,,,,camera_info_update,camera_ok frames=152 fps=6.6 size=640x480,453,0,0
+2026-04-17T10:01:17.933,camera_info,0,red,,,,,camera_info_update,camera_ok frames=153 fps=6.6 size=640x480,456,0,0
+2026-04-17T10:01:18.086,camera_info,0,red,,,,,camera_info_update,camera_ok frames=154 fps=6.6 size=640x480,459,0,0
+2026-04-17T10:01:18.239,camera_info,0,red,,,,,camera_info_update,camera_ok frames=155 fps=6.6 size=640x480,462,0,0
+2026-04-17T10:01:18.391,camera_info,0,red,,,,,camera_info_update,camera_ok frames=156 fps=6.6 size=640x480,465,0,0
+2026-04-17T10:01:18.541,camera_info,0,red,,,,,camera_info_update,camera_ok frames=157 fps=6.6 size=640x480,468,0,0
+2026-04-17T10:01:18.693,camera_info,0,red,,,,,camera_info_update,camera_ok frames=158 fps=6.6 size=640x480,471,0,0
+2026-04-17T10:01:18.867,camera_info,0,red,,,,,camera_info_update,camera_ok frames=159 fps=6.6 size=640x480,475,0,0
+2026-04-17T10:01:19.000,camera_info,0,red,,,,,camera_info_update,camera_ok frames=160 fps=6.6 size=640x480,477,0,0
+2026-04-17T10:01:19.149,camera_info,0,red,,,,,camera_info_update,camera_ok frames=161 fps=6.6 size=640x480,480,0,0
+2026-04-17T10:01:19.299,camera_info,0,red,,,,,camera_info_update,camera_ok frames=162 fps=6.6 size=640x480,483,0,0
+2026-04-17T10:01:19.482,camera_info,0,red,,,,,camera_info_update,camera_ok frames=163 fps=6.6 size=640x480,487,0,0
+2026-04-17T10:01:19.627,camera_info,0,red,,,,,camera_info_update,camera_ok frames=164 fps=6.6 size=640x480,490,0,0
+2026-04-17T10:01:19.748,camera_info,0,red,,,,,camera_info_update,camera_ok frames=165 fps=6.6 size=640x480,492,0,0
+2026-04-17T10:01:19.899,camera_info,0,red,,,,,camera_info_update,camera_ok frames=166 fps=6.6 size=640x480,495,0,0
+2026-04-17T10:01:20.049,camera_info,0,red,,,,,camera_info_update,camera_ok frames=167 fps=6.6 size=640x480,498,0,0
+2026-04-17T10:01:20.197,camera_info,0,red,,,,,camera_info_update,camera_ok frames=168 fps=6.6 size=640x480,501,0,0
+2026-04-17T10:01:20.343,camera_info,0,red,,,,,camera_info_update,camera_ok frames=169 fps=6.6 size=640x480,504,0,0
+2026-04-17T10:01:20.497,camera_info,0,red,,,,,camera_info_update,camera_ok frames=170 fps=6.6 size=640x480,507,0,0
+2026-04-17T10:01:20.642,camera_info,0,red,,,,,camera_info_update,camera_ok frames=171 fps=6.7 size=640x480,510,0,0
+2026-04-17T10:01:20.796,camera_info,0,red,,,,,camera_info_update,camera_ok frames=172 fps=6.7 size=640x480,513,0,0
+2026-04-17T10:01:20.941,camera_info,0,red,,,,,camera_info_update,camera_ok frames=173 fps=6.7 size=640x480,516,0,0
+2026-04-17T10:01:21.091,camera_info,0,red,,,,,camera_info_update,camera_ok frames=174 fps=6.7 size=640x480,519,0,0
+2026-04-17T10:01:21.239,camera_info,0,red,,,,,camera_info_update,camera_ok frames=175 fps=6.7 size=640x480,522,0,0
+2026-04-17T10:01:21.388,camera_info,0,red,,,,,camera_info_update,camera_ok frames=176 fps=6.7 size=640x480,525,0,0
+2026-04-17T10:01:21.538,camera_info,0,red,,,,,camera_info_update,camera_ok frames=177 fps=6.7 size=640x480,528,0,0
+2026-04-17T10:01:21.688,camera_info,0,red,,,,,camera_info_update,camera_ok frames=178 fps=6.7 size=640x480,531,0,0
+2026-04-17T10:01:21.839,camera_info,0,red,,,,,camera_info_update,camera_ok frames=179 fps=6.7 size=640x480,534,0,0
+2026-04-17T10:01:21.988,camera_info,0,red,,,,,camera_info_update,camera_ok frames=180 fps=6.7 size=640x480,537,0,0
+2026-04-17T10:01:22.139,camera_info,0,red,,,,,camera_info_update,camera_ok frames=181 fps=6.7 size=640x480,540,0,0
+2026-04-17T10:01:22.287,camera_info,0,red,,,,,camera_info_update,camera_ok frames=182 fps=6.7 size=640x480,543,0,0
+2026-04-17T10:01:22.436,camera_info,0,red,,,,,camera_info_update,camera_ok frames=183 fps=6.7 size=640x480,546,0,0
+2026-04-17T10:01:22.585,camera_info,0,red,,,,,camera_info_update,camera_ok frames=184 fps=6.7 size=640x480,549,0,0
+2026-04-17T10:01:22.733,camera_info,0,red,,,,,camera_info_update,camera_ok frames=185 fps=6.7 size=640x480,552,0,0
+2026-04-17T10:01:22.883,camera_info,0,red,,,,,camera_info_update,camera_ok frames=186 fps=6.7 size=640x480,555,0,0
+2026-04-17T10:01:23.034,camera_info,0,red,,,,,camera_info_update,camera_ok frames=187 fps=6.7 size=640x480,558,0,0
+2026-04-17T10:01:23.182,camera_info,0,red,,,,,camera_info_update,camera_ok frames=188 fps=6.7 size=640x480,561,0,0
+2026-04-17T10:01:23.331,camera_info,0,red,,,,,camera_info_update,camera_ok frames=189 fps=6.7 size=640x480,564,0,0
+2026-04-17T10:01:23.482,camera_info,0,red,,,,,camera_info_update,camera_ok frames=190 fps=6.7 size=640x480,567,0,0
+2026-04-17T10:01:23.632,camera_info,0,red,,,,,camera_info_update,camera_ok frames=191 fps=6.7 size=640x480,570,0,0
+2026-04-17T10:01:23.781,camera_info,0,red,,,,,camera_info_update,camera_ok frames=192 fps=6.7 size=640x480,573,0,0
+2026-04-17T10:01:23.935,camera_info,0,red,,,,,camera_info_update,camera_ok frames=193 fps=6.7 size=640x480,576,0,0
+2026-04-17T10:01:24.086,camera_info,0,red,,,,,camera_info_update,camera_ok frames=194 fps=6.7 size=640x480,579,0,0
+2026-04-17T10:01:24.243,camera_info,0,red,,,,,camera_info_update,camera_ok frames=195 fps=6.7 size=640x480,582,0,0
+2026-04-17T10:01:24.398,camera_info,0,red,,,,,camera_info_update,camera_ok frames=196 fps=6.7 size=640x480,585,0,0
+2026-04-17T10:01:24.566,camera_info,0,red,,,,,camera_info_update,camera_ok frames=197 fps=6.7 size=640x480,589,0,0
+2026-04-17T10:01:24.717,camera_info,0,red,,,,,camera_info_update,camera_ok frames=198 fps=6.7 size=640x480,592,0,0
+2026-04-17T10:01:24.880,camera_info,0,red,,,,,camera_info_update,camera_ok frames=199 fps=6.5 size=640x480,595,0,0
+2026-04-17T10:01:25.018,camera_info,0,red,,,,,camera_info_update,camera_ok frames=200 fps=6.5 size=640x480,598,0,0
+2026-04-17T10:01:25.170,camera_info,0,red,,,,,camera_info_update,camera_ok frames=201 fps=6.5 size=640x480,601,0,0
+2026-04-17T10:01:25.318,camera_info,0,red,,,,,camera_info_update,camera_ok frames=202 fps=6.5 size=640x480,604,0,0
+2026-04-17T10:01:25.468,camera_info,0,red,,,,,camera_info_update,camera_ok frames=203 fps=6.5 size=640x480,607,0,0
+2026-04-17T10:01:25.618,camera_info,0,red,,,,,camera_info_update,camera_ok frames=204 fps=6.5 size=640x480,610,0,0
+2026-04-17T10:01:25.766,camera_info,0,red,,,,,camera_info_update,camera_ok frames=205 fps=6.5 size=640x480,613,0,0
+2026-04-17T10:01:25.925,camera_info,0,red,,,,,camera_info_update,camera_ok frames=206 fps=6.6 size=640x480,616,0,0
+2026-04-17T10:01:26.096,camera_info,0,red,,,,,camera_info_update,camera_ok frames=207 fps=6.6 size=640x480,619,0,0
+2026-04-17T10:01:26.246,camera_info,0,red,,,,,camera_info_update,camera_ok frames=208 fps=6.6 size=640x480,622,0,0
+2026-04-17T10:01:26.398,camera_info,0,red,,,,,camera_info_update,camera_ok frames=209 fps=6.6 size=640x480,625,0,0
+2026-04-17T10:01:26.547,camera_info,0,red,,,,,camera_info_update,camera_ok frames=210 fps=6.6 size=640x480,628,0,0
+2026-04-17T10:01:26.700,camera_info,0,red,,,,,camera_info_update,camera_ok frames=211 fps=6.6 size=640x480,631,0,0
+2026-04-17T10:01:26.847,camera_info,0,red,,,,,camera_info_update,camera_ok frames=212 fps=6.6 size=640x480,634,0,0
+2026-04-17T10:01:26.999,camera_info,0,red,,,,,camera_info_update,camera_ok frames=213 fps=6.5 size=640x480,637,0,0
+2026-04-17T10:01:27.164,camera_info,0,red,,,,,camera_info_update,camera_ok frames=214 fps=6.5 size=640x480,641,0,0
+2026-04-17T10:01:27.312,camera_info,0,red,,,,,camera_info_update,camera_ok frames=215 fps=6.5 size=640x480,644,0,0
+2026-04-17T10:01:27.467,camera_info,0,red,,,,,camera_info_update,camera_ok frames=216 fps=6.5 size=640x480,647,0,0
+2026-04-17T10:01:27.615,camera_info,0,red,,,,,camera_info_update,camera_ok frames=217 fps=6.5 size=640x480,650,0,0
+2026-04-17T10:01:27.778,camera_info,0,red,,,,,camera_info_update,camera_ok frames=218 fps=6.5 size=640x480,653,0,0
+2026-04-17T10:01:27.914,camera_info,0,red,,,,,camera_info_update,camera_ok frames=219 fps=6.5 size=640x480,656,0,0
+2026-04-17T10:01:28.064,camera_info,0,red,,,,,camera_info_update,camera_ok frames=220 fps=6.6 size=640x480,659,0,0
+2026-04-17T10:01:28.219,camera_info,0,red,,,,,camera_info_update,camera_ok frames=221 fps=6.6 size=640x480,662,0,0
+2026-04-17T10:01:28.365,camera_info,0,red,,,,,camera_info_update,camera_ok frames=222 fps=6.6 size=640x480,665,0,0
+2026-04-17T10:01:28.515,camera_info,0,red,,,,,camera_info_update,camera_ok frames=223 fps=6.6 size=640x480,668,0,0
+2026-04-17T10:01:28.677,camera_info,0,red,,,,,camera_info_update,camera_ok frames=224 fps=6.6 size=640x480,671,0,0
+2026-04-17T10:01:28.816,camera_info,0,red,,,,,camera_info_update,camera_ok frames=225 fps=6.6 size=640x480,674,0,0
+2026-04-17T10:01:28.979,camera_info,0,red,,,,,camera_info_update,camera_ok frames=226 fps=6.6 size=640x480,677,0,0
+2026-04-17T10:01:29.120,camera_info,0,red,,,,,camera_info_update,camera_ok frames=227 fps=6.6 size=640x480,680,0,0
+2026-04-17T10:01:29.274,camera_info,0,red,,,,,camera_info_update,camera_ok frames=228 fps=6.6 size=640x480,683,0,0
+2026-04-17T10:01:29.425,camera_info,0,red,,,,,camera_info_update,camera_ok frames=229 fps=6.6 size=640x480,686,0,0
+2026-04-17T10:01:29.574,camera_info,0,red,,,,,camera_info_update,camera_ok frames=230 fps=6.6 size=640x480,689,0,0
+2026-04-17T10:01:29.725,camera_info,0,red,,,,,camera_info_update,camera_ok frames=231 fps=6.6 size=640x480,692,0,0
+2026-04-17T10:01:29.890,camera_info,0,red,,,,,camera_info_update,camera_ok frames=232 fps=6.6 size=640x480,695,0,0
+2026-04-17T10:01:30.043,camera_info,0,red,,,,,camera_info_update,camera_ok frames=233 fps=6.6 size=640x480,698,0,0
+2026-04-17T10:01:30.193,camera_info,0,red,,,,,camera_info_update,camera_ok frames=234 fps=6.5 size=640x480,701,0,0
+2026-04-17T10:01:30.360,camera_info,0,red,,,,,camera_info_update,camera_ok frames=235 fps=6.5 size=640x480,705,0,0
+2026-04-17T10:01:30.509,camera_info,0,red,,,,,camera_info_update,camera_ok frames=236 fps=6.5 size=640x480,708,0,0
+2026-04-17T10:01:30.649,camera_info,0,red,,,,,camera_info_update,camera_ok frames=237 fps=6.5 size=640x480,710,0,0
+2026-04-17T10:01:30.799,camera_info,0,red,,,,,camera_info_update,camera_ok frames=238 fps=6.5 size=640x480,713,0,0
+2026-04-17T10:01:30.950,camera_info,0,red,,,,,camera_info_update,camera_ok frames=239 fps=6.5 size=640x480,716,0,0
+2026-04-17T10:01:31.110,camera_info,0,red,,,,,camera_info_update,camera_ok frames=240 fps=6.5 size=640x480,720,0,0
+2026-04-17T10:01:31.250,camera_info,0,red,,,,,camera_info_update,camera_ok frames=241 fps=6.6 size=640x480,722,0,0
+2026-04-17T10:01:31.415,camera_info,0,red,,,,,camera_info_update,camera_ok frames=242 fps=6.6 size=640x480,726,0,0
+2026-04-17T10:01:31.560,camera_info,0,red,,,,,camera_info_update,camera_ok frames=243 fps=6.6 size=640x480,729,0,0
+2026-04-17T10:01:31.708,camera_info,0,red,,,,,camera_info_update,camera_ok frames=244 fps=6.6 size=640x480,732,0,0
+2026-04-17T10:01:31.860,camera_info,0,red,,,,,camera_info_update,camera_ok frames=245 fps=6.6 size=640x480,735,0,0
+2026-04-17T10:01:32.009,camera_info,0,red,,,,,camera_info_update,camera_ok frames=246 fps=6.6 size=640x480,738,0,0
+2026-04-17T10:01:32.179,camera_info,0,red,,,,,camera_info_update,camera_ok frames=247 fps=6.6 size=640x480,741,0,0
+2026-04-17T10:01:32.311,camera_info,0,red,,,,,camera_info_update,camera_ok frames=248 fps=6.6 size=640x480,744,0,0
+2026-04-17T10:01:32.460,camera_info,0,red,,,,,camera_info_update,camera_ok frames=249 fps=6.6 size=640x480,747,0,0
+2026-04-17T10:01:32.630,camera_info,0,red,,,,,camera_info_update,camera_ok frames=250 fps=6.6 size=640x480,750,0,0
+2026-04-17T10:01:32.759,camera_info,0,red,,,,,camera_info_update,camera_ok frames=251 fps=6.6 size=640x480,753,0,0
+2026-04-17T10:01:32.909,camera_info,0,red,,,,,camera_info_update,camera_ok frames=252 fps=6.6 size=640x480,756,0,0
+2026-04-17T10:01:33.062,camera_info,0,red,,,,,camera_info_update,camera_ok frames=253 fps=6.6 size=640x480,759,0,0
+2026-04-17T10:01:33.214,camera_info,0,red,,,,,camera_info_update,camera_ok frames=254 fps=6.6 size=640x480,762,0,0
+2026-04-17T10:01:33.364,camera_info,0,red,,,,,camera_info_update,camera_ok frames=255 fps=6.6 size=640x480,765,0,0
+2026-04-17T10:01:33.515,camera_info,0,red,,,,,camera_info_update,camera_ok frames=256 fps=6.6 size=640x480,768,0,0
+2026-04-17T10:01:33.665,camera_info,0,red,,,,,camera_info_update,camera_ok frames=257 fps=6.6 size=640x480,771,0,0
+2026-04-17T10:01:33.814,camera_info,0,red,,,,,camera_info_update,camera_ok frames=258 fps=6.6 size=640x480,774,0,0
+2026-04-17T10:01:33.964,camera_info,0,red,,,,,camera_info_update,camera_ok frames=259 fps=6.6 size=640x480,777,0,0
+2026-04-17T10:01:34.115,camera_info,0,red,,,,,camera_info_update,camera_ok frames=260 fps=6.6 size=640x480,780,0,0
+2026-04-17T10:01:34.266,camera_info,0,red,,,,,camera_info_update,camera_ok frames=261 fps=6.6 size=640x480,783,0,0
+2026-04-17T10:01:34.417,camera_info,0,red,,,,,camera_info_update,camera_ok frames=262 fps=6.6 size=640x480,786,0,0
+2026-04-17T10:01:34.571,camera_info,0,red,,,,,camera_info_update,camera_ok frames=263 fps=6.6 size=640x480,789,0,0
+2026-04-17T10:01:34.720,camera_info,0,red,,,,,camera_info_update,camera_ok frames=264 fps=6.6 size=640x480,792,0,0
+2026-04-17T10:01:34.869,camera_info,0,red,,,,,camera_info_update,camera_ok frames=265 fps=6.6 size=640x480,795,0,0
+2026-04-17T10:01:35.018,camera_info,0,red,,,,,camera_info_update,camera_ok frames=266 fps=6.6 size=640x480,798,0,0
+2026-04-17T10:01:35.167,camera_info,0,red,,,,,camera_info_update,camera_ok frames=267 fps=6.6 size=640x480,801,0,0
+2026-04-17T10:01:35.316,camera_info,0,red,,,,,camera_info_update,camera_ok frames=268 fps=6.6 size=640x480,804,0,0
+2026-04-17T10:01:35.467,camera_info,0,red,,,,,camera_info_update,camera_ok frames=269 fps=6.7 size=640x480,807,0,0
+2026-04-17T10:01:35.617,camera_info,0,red,,,,,camera_info_update,camera_ok frames=270 fps=6.7 size=640x480,810,0,0
+2026-04-17T10:01:35.767,camera_info,0,red,,,,,camera_info_update,camera_ok frames=271 fps=6.7 size=640x480,813,0,0
+2026-04-17T10:01:35.918,camera_info,0,red,,,,,camera_info_update,camera_ok frames=272 fps=6.7 size=640x480,816,0,0
+2026-04-17T10:01:36.082,camera_info,0,red,,,,,camera_info_update,camera_ok frames=273 fps=6.7 size=640x480,819,0,0
+2026-04-17T10:01:36.217,camera_info,0,red,,,,,camera_info_update,camera_ok frames=274 fps=6.7 size=640x480,822,0,0
+2026-04-17T10:01:36.379,camera_info,0,red,,,,,camera_info_update,camera_ok frames=275 fps=6.7 size=640x480,825,0,0
+2026-04-17T10:01:36.525,camera_info,0,red,,,,,camera_info_update,camera_ok frames=276 fps=6.6 size=640x480,828,0,0
+2026-04-17T10:01:36.675,camera_info,0,red,,,,,camera_info_update,camera_ok frames=277 fps=6.6 size=640x480,831,0,0
+2026-04-17T10:01:36.827,camera_info,0,red,,,,,camera_info_update,camera_ok frames=278 fps=6.6 size=640x480,834,0,0
+2026-04-17T10:01:36.976,camera_info,0,red,,,,,camera_info_update,camera_ok frames=279 fps=6.6 size=640x480,837,0,0
+2026-04-17T10:01:37.124,camera_info,0,red,,,,,camera_info_update,camera_ok frames=280 fps=6.6 size=640x480,840,0,0
+2026-04-17T10:01:37.273,camera_info,0,red,,,,,camera_info_update,camera_ok frames=281 fps=6.6 size=640x480,843,0,0
+2026-04-17T10:01:37.423,camera_info,0,red,,,,,camera_info_update,camera_ok frames=282 fps=6.6 size=640x480,846,0,0
+2026-04-17T10:01:37.575,camera_info,0,red,,,,,camera_info_update,camera_ok frames=283 fps=6.6 size=640x480,849,0,0
+2026-04-17T10:01:37.723,camera_info,0,red,,,,,camera_info_update,camera_ok frames=284 fps=6.6 size=640x480,852,0,0
+2026-04-17T10:01:37.873,camera_info,0,red,,,,,camera_info_update,camera_ok frames=285 fps=6.6 size=640x480,855,0,0
+2026-04-17T10:01:38.022,camera_info,0,red,,,,,camera_info_update,camera_ok frames=286 fps=6.6 size=640x480,858,0,0
+2026-04-17T10:01:38.171,camera_info,0,red,,,,,camera_info_update,camera_ok frames=287 fps=6.6 size=640x480,861,0,0
+2026-04-17T10:01:38.323,camera_info,0,red,,,,,camera_info_update,camera_ok frames=288 fps=6.6 size=640x480,864,0,0
+2026-04-17T10:01:38.471,camera_info,0,red,,,,,camera_info_update,camera_ok frames=289 fps=6.6 size=640x480,867,0,0
+2026-04-17T10:01:38.624,camera_info,0,red,,,,,camera_info_update,camera_ok frames=290 fps=6.7 size=640x480,870,0,0
+2026-04-17T10:01:38.777,camera_info,0,red,,,,,camera_info_update,camera_ok frames=291 fps=6.7 size=640x480,873,0,0
+2026-04-17T10:01:38.923,camera_info,0,red,,,,,camera_info_update,camera_ok frames=292 fps=6.7 size=640x480,876,0,0
+2026-04-17T10:01:39.073,camera_info,0,red,,,,,camera_info_update,camera_ok frames=293 fps=6.7 size=640x480,879,0,0
+2026-04-17T10:01:39.222,camera_info,0,red,,,,,camera_info_update,camera_ok frames=294 fps=6.7 size=640x480,882,0,0
+2026-04-17T10:01:39.371,camera_info,0,red,,,,,camera_info_update,camera_ok frames=295 fps=6.7 size=640x480,885,0,0
+2026-04-17T10:01:39.532,camera_info,0,red,,,,,camera_info_update,camera_ok frames=296 fps=6.7 size=640x480,888,0,0
+2026-04-17T10:01:39.673,camera_info,0,red,,,,,camera_info_update,camera_ok frames=297 fps=6.7 size=640x480,891,0,0
+2026-04-17T10:01:39.823,camera_info,0,red,,,,,camera_info_update,camera_ok frames=298 fps=6.7 size=640x480,894,0,0
+2026-04-17T10:01:39.973,camera_info,0,red,,,,,camera_info_update,camera_ok frames=299 fps=6.7 size=640x480,897,0,0
+2026-04-17T10:01:40.122,camera_info,0,red,,,,,camera_info_update,camera_ok frames=300 fps=6.7 size=640x480,900,0,0
+2026-04-17T10:01:40.271,camera_info,0,red,,,,,camera_info_update,camera_ok frames=301 fps=6.7 size=640x480,903,0,0
+2026-04-17T10:01:40.424,camera_info,0,red,,,,,camera_info_update,camera_ok frames=302 fps=6.7 size=640x480,906,0,0
+2026-04-17T10:01:40.571,camera_info,0,red,,,,,camera_info_update,camera_ok frames=303 fps=6.7 size=640x480,909,0,0
+2026-04-17T10:01:40.720,camera_info,0,red,,,,,camera_info_update,camera_ok frames=304 fps=6.7 size=640x480,912,0,0
+2026-04-17T10:01:40.873,camera_info,0,red,,,,,camera_info_update,camera_ok frames=305 fps=6.7 size=640x480,915,0,0
+2026-04-17T10:01:41.022,camera_info,0,red,,,,,camera_info_update,camera_ok frames=306 fps=6.7 size=640x480,918,0,0
+2026-04-17T10:01:41.195,camera_info,0,red,,,,,camera_info_update,camera_ok frames=307 fps=6.7 size=640x480,921,0,0
+2026-04-17T10:01:41.346,camera_info,0,red,,,,,camera_info_update,camera_ok frames=308 fps=6.7 size=640x480,924,0,0
+2026-04-17T10:01:41.528,camera_info,0,red,,,,,camera_info_update,camera_ok frames=309 fps=6.7 size=640x480,928,0,0
+2026-04-17T10:01:41.671,camera_info,0,red,,,,,camera_info_update,camera_ok frames=310 fps=6.7 size=640x480,931,0,0
+2026-04-17T10:01:41.811,camera_info,0,red,,,,,camera_info_update,camera_ok frames=311 fps=6.4 size=640x480,934,0,0
+2026-04-17T10:01:41.965,camera_info,0,red,,,,,camera_info_update,camera_ok frames=312 fps=6.4 size=640x480,937,0,0
+2026-04-17T10:01:42.117,camera_info,0,red,,,,,camera_info_update,camera_ok frames=313 fps=6.4 size=640x480,940,0,0
+2026-04-17T10:01:42.273,camera_info,0,red,,,,,camera_info_update,camera_ok frames=314 fps=6.4 size=640x480,943,0,0
+2026-04-17T10:01:42.419,camera_info,0,red,,,,,camera_info_update,camera_ok frames=315 fps=6.4 size=640x480,946,0,0
+2026-04-17T10:01:42.568,camera_info,0,red,,,,,camera_info_update,camera_ok frames=316 fps=6.4 size=640x480,949,0,0
+2026-04-17T10:01:42.720,camera_info,0,red,,,,,camera_info_update,camera_ok frames=317 fps=6.4 size=640x480,952,0,0
+2026-04-17T10:01:42.878,camera_info,0,red,,,,,camera_info_update,camera_ok frames=318 fps=6.6 size=640x480,955,0,0
+2026-04-17T10:01:43.025,camera_info,0,red,,,,,camera_info_update,camera_ok frames=319 fps=6.6 size=640x480,958,0,0
+2026-04-17T10:01:43.174,camera_info,0,red,,,,,camera_info_update,camera_ok frames=320 fps=6.6 size=640x480,961,0,0
+2026-04-17T10:01:43.321,camera_info,0,red,,,,,camera_info_update,camera_ok frames=321 fps=6.6 size=640x480,964,0,0
+2026-04-17T10:01:43.471,camera_info,0,red,,,,,camera_info_update,camera_ok frames=322 fps=6.6 size=640x480,967,0,0
+2026-04-17T10:01:43.620,camera_info,0,red,,,,,camera_info_update,camera_ok frames=323 fps=6.6 size=640x480,970,0,0
+2026-04-17T10:01:43.770,camera_info,0,red,,,,,camera_info_update,camera_ok frames=324 fps=6.6 size=640x480,973,0,0
+2026-04-17T10:01:43.920,camera_info,0,red,,,,,camera_info_update,camera_ok frames=325 fps=6.7 size=640x480,976,0,0
+2026-04-17T10:01:44.071,camera_info,0,red,,,,,camera_info_update,camera_ok frames=326 fps=6.7 size=640x480,979,0,0
+2026-04-17T10:01:44.220,camera_info,0,red,,,,,camera_info_update,camera_ok frames=327 fps=6.7 size=640x480,982,0,0
+2026-04-17T10:01:44.369,camera_info,0,red,,,,,camera_info_update,camera_ok frames=328 fps=6.7 size=640x480,985,0,0
+2026-04-17T10:01:44.526,camera_info,0,red,,,,,camera_info_update,camera_ok frames=329 fps=6.7 size=640x480,988,0,0
+2026-04-17T10:01:44.668,camera_info,0,red,,,,,camera_info_update,camera_ok frames=330 fps=6.7 size=640x480,991,0,0
+2026-04-17T10:01:44.817,camera_info,0,red,,,,,camera_info_update,camera_ok frames=331 fps=6.7 size=640x480,994,0,0
+2026-04-17T10:01:44.966,camera_info,0,red,,,,,camera_info_update,camera_ok frames=332 fps=6.7 size=640x480,997,0,0
+2026-04-17T10:01:45.131,camera_info,0,red,,,,,camera_info_update,camera_ok frames=333 fps=6.7 size=640x480,1000,0,0
+2026-04-17T10:01:45.284,camera_info,0,red,,,,,camera_info_update,camera_ok frames=334 fps=6.7 size=640x480,1003,0,0
+2026-04-17T10:01:45.429,camera_info,0,red,,,,,camera_info_update,camera_ok frames=335 fps=6.7 size=640x480,1006,0,0
+2026-04-17T10:01:45.578,camera_info,0,red,,,,,camera_info_update,camera_ok frames=336 fps=6.7 size=640x480,1009,0,0
+2026-04-17T10:01:45.728,camera_info,0,red,,,,,camera_info_update,camera_ok frames=337 fps=6.7 size=640x480,1012,0,0
+2026-04-17T10:01:45.878,camera_info,0,red,,,,,camera_info_update,camera_ok frames=338 fps=6.7 size=640x480,1015,0,0
+2026-04-17T10:01:46.031,camera_info,0,red,,,,,camera_info_update,camera_ok frames=339 fps=6.6 size=640x480,1018,0,0
+2026-04-17T10:01:46.181,camera_info,0,red,,,,,camera_info_update,camera_ok frames=340 fps=6.6 size=640x480,1021,0,0
+2026-04-17T10:01:46.337,camera_info,0,red,,,,,camera_info_update,camera_ok frames=341 fps=6.6 size=640x480,1024,0,0
+2026-04-17T10:01:46.483,camera_info,0,red,,,,,camera_info_update,camera_ok frames=342 fps=6.6 size=640x480,1027,0,0
+2026-04-17T10:01:46.636,camera_info,0,red,,,,,camera_info_update,camera_ok frames=343 fps=6.6 size=640x480,1030,0,0
+2026-04-17T10:01:46.785,camera_info,0,red,,,,,camera_info_update,camera_ok frames=344 fps=6.6 size=640x480,1033,0,0
+2026-04-17T10:01:46.936,camera_info,0,red,,,,,camera_info_update,camera_ok frames=345 fps=6.6 size=640x480,1036,0,0
+2026-04-17T10:01:47.087,camera_info,0,red,,,,,camera_info_update,camera_ok frames=346 fps=6.6 size=640x480,1039,0,0
+2026-04-17T10:01:47.114,target_detected,0,red,True,-320.00,190.00,52.00,red err_x=-320 err_y=190 r=52,camera_ok frames=346 fps=6.6 size=640x480,1040,1,0
+2026-04-17T10:01:47.152,target_detected,0,red,True,-280.00,182.00,52.00,red err_x=-280 err_y=182 r=52,camera_ok frames=346 fps=6.6 size=640x480,1041,2,0
+2026-04-17T10:01:47.202,target_detected,0,red,True,-146.00,154.00,52.00,red err_x=-146 err_y=154 r=52,camera_ok frames=346 fps=6.6 size=640x480,1042,3,0
+2026-04-17T10:01:47.238,camera_info,0,red,,,,,camera_info_update,camera_ok frames=347 fps=6.6 size=640x480,1042,3,0
+2026-04-17T10:01:47.256,target_detected,0,red,True,-113.00,147.00,52.00,red err_x=-113 err_y=147 r=52,camera_ok frames=347 fps=6.6 size=640x480,1043,4,0
+2026-04-17T10:01:47.304,target_detected,0,red,True,-79.00,140.00,52.00,red err_x=-79 err_y=140 r=52,camera_ok frames=347 fps=6.6 size=640x480,1044,5,0
+2026-04-17T10:01:47.353,target_detected,0,red,True,-45.00,133.00,52.00,red err_x=-45 err_y=133 r=52,camera_ok frames=347 fps=6.6 size=640x480,1045,6,0
+2026-04-17T10:01:47.389,camera_info,0,red,,,,,camera_info_update,camera_ok frames=348 fps=6.6 size=640x480,1045,6,0
+2026-04-17T10:01:47.402,target_detected,0,red,True,-11.00,125.00,52.00,red err_x=-11 err_y=125 r=52,camera_ok frames=348 fps=6.6 size=640x480,1046,7,0
+2026-04-17T10:01:47.453,target_detected,0,red,True,23.00,118.00,52.00,red err_x=23 err_y=118 r=52,camera_ok frames=348 fps=6.6 size=640x480,1047,8,0
+2026-04-17T10:01:47.503,target_detected,0,red,True,57.00,111.00,52.00,red err_x=57 err_y=111 r=52,camera_ok frames=348 fps=6.6 size=640x480,1048,9,0
+2026-04-17T10:01:47.540,camera_info,0,red,,,,,camera_info_update,camera_ok frames=349 fps=6.6 size=640x480,1048,9,0
+2026-04-17T10:01:47.552,target_detected,0,red,True,90.00,104.00,52.00,red err_x=90 err_y=104 r=52,camera_ok frames=349 fps=6.6 size=640x480,1049,10,0
+2026-04-17T10:01:47.603,target_detected,0,red,True,124.00,97.00,52.00,red err_x=124 err_y=97 r=52,camera_ok frames=349 fps=6.6 size=640x480,1050,11,0
+2026-04-17T10:01:47.654,target_detected,0,red,True,158.00,90.00,52.00,red err_x=158 err_y=90 r=52,camera_ok frames=349 fps=6.6 size=640x480,1051,12,0
+2026-04-17T10:01:47.691,camera_info,0,red,,,,,camera_info_update,camera_ok frames=350 fps=6.6 size=640x480,1051,12,0
+2026-04-17T10:01:47.703,target_detected,0,red,True,192.00,83.00,52.00,red err_x=192 err_y=83 r=52,camera_ok frames=350 fps=6.6 size=640x480,1052,13,0
+2026-04-17T10:01:47.754,target_detected,0,red,True,226.00,76.00,52.00,red err_x=226 err_y=76 r=52,camera_ok frames=350 fps=6.6 size=640x480,1053,14,0
+2026-04-17T10:01:47.802,target_detected,0,red,True,260.00,69.00,52.00,red err_x=260 err_y=69 r=52,camera_ok frames=350 fps=6.6 size=640x480,1054,15,0
+2026-04-17T10:01:47.841,camera_info,0,red,,,,,camera_info_update,camera_ok frames=351 fps=6.6 size=640x480,1054,15,0
+2026-04-17T10:01:47.854,target_detected,0,red,True,294.00,61.00,52.00,red err_x=294 err_y=61 r=52,camera_ok frames=351 fps=6.6 size=640x480,1055,16,0
+2026-04-17T10:01:47.904,target_detected,0,red,True,327.00,54.00,52.00,red err_x=327 err_y=54 r=52,camera_ok frames=351 fps=6.6 size=640x480,1056,17,0
+2026-04-17T10:01:47.954,target_detected,0,red,True,361.00,47.00,52.00,red err_x=361 err_y=47 r=52,camera_ok frames=351 fps=6.6 size=640x480,1057,18,0
+2026-04-17T10:01:47.994,camera_info,0,red,,,,,camera_info_update,camera_ok frames=352 fps=6.6 size=640x480,1057,18,0
+2026-04-17T10:01:48.002,target_detected,0,red,True,395.00,40.00,52.00,red err_x=395 err_y=40 r=52,camera_ok frames=352 fps=6.6 size=640x480,1058,19,0
+2026-04-17T10:01:48.052,target_detected,0,red,True,429.00,33.00,52.00,red err_x=429 err_y=33 r=52,camera_ok frames=352 fps=6.6 size=640x480,1059,20,0
+2026-04-17T10:01:48.106,target_detected,0,red,True,463.00,26.00,52.00,red err_x=463 err_y=26 r=52,camera_ok frames=352 fps=6.6 size=640x480,1060,21,0
+2026-04-17T10:01:48.143,camera_info,0,red,,,,,camera_info_update,camera_ok frames=353 fps=6.6 size=640x480,1060,21,0
+2026-04-17T10:01:48.156,target_detected,0,red,True,497.00,19.00,52.00,red err_x=497 err_y=19 r=52,camera_ok frames=353 fps=6.6 size=640x480,1061,22,0
+2026-04-17T10:01:48.211,target_detected,0,red,True,530.00,12.00,52.00,red err_x=530 err_y=12 r=52,camera_ok frames=353 fps=6.6 size=640x480,1062,23,0
+2026-04-17T10:01:48.253,target_detected,0,red,True,564.00,5.00,52.00,red err_x=564 err_y=5 r=52,camera_ok frames=353 fps=6.6 size=640x480,1063,24,0
+2026-04-17T10:01:48.296,camera_info,0,red,,,,,camera_info_update,camera_ok frames=354 fps=6.6 size=640x480,1063,24,0
+2026-04-17T10:01:48.303,target_lost_timeout,0,red,,,,,target_lost_timeout,camera_ok frames=354 fps=6.6 size=640x480,1064,24,0
+2026-04-17T10:01:48.353,no_target,0,red,False,,,,no_target_red,camera_ok frames=354 fps=6.6 size=640x480,1065,24,0
+2026-04-17T10:01:48.445,camera_info,0,red,,,,,camera_info_update,camera_ok frames=355 fps=6.6 size=640x480,1066,24,0
+2026-04-17T10:01:48.597,camera_info,0,red,,,,,camera_info_update,camera_ok frames=356 fps=6.6 size=640x480,1069,24,0
+2026-04-17T10:01:48.749,camera_info,0,red,,,,,camera_info_update,camera_ok frames=357 fps=6.6 size=640x480,1072,24,0
+2026-04-17T10:01:48.895,camera_info,0,red,,,,,camera_info_update,camera_ok frames=358 fps=6.6 size=640x480,1075,24,0
+2026-04-17T10:01:49.044,camera_info,0,red,,,,,camera_info_update,camera_ok frames=359 fps=6.6 size=640x480,1078,24,0
+2026-04-17T10:01:49.194,camera_info,0,red,,,,,camera_info_update,camera_ok frames=360 fps=6.7 size=640x480,1081,24,0
+2026-04-17T10:01:49.347,camera_info,0,red,,,,,camera_info_update,camera_ok frames=361 fps=6.7 size=640x480,1084,24,0
+2026-04-17T10:01:49.496,camera_info,0,red,,,,,camera_info_update,camera_ok frames=362 fps=6.7 size=640x480,1087,24,0
+2026-04-17T10:01:49.646,camera_info,0,red,,,,,camera_info_update,camera_ok frames=363 fps=6.7 size=640x480,1090,24,0
+2026-04-17T10:01:49.795,camera_info,0,red,,,,,camera_info_update,camera_ok frames=364 fps=6.7 size=640x480,1093,24,0
+2026-04-17T10:01:49.946,camera_info,0,red,,,,,camera_info_update,camera_ok frames=365 fps=6.7 size=640x480,1096,24,0
+2026-04-17T10:01:50.097,camera_info,0,red,,,,,camera_info_update,camera_ok frames=366 fps=6.7 size=640x480,1099,24,0
+2026-04-17T10:01:50.248,camera_info,0,red,,,,,camera_info_update,camera_ok frames=367 fps=6.6 size=640x480,1102,24,0
+2026-04-17T10:01:50.398,camera_info,0,red,,,,,camera_info_update,camera_ok frames=368 fps=6.6 size=640x480,1105,24,0
+2026-04-17T10:01:50.548,camera_info,0,red,,,,,camera_info_update,camera_ok frames=369 fps=6.6 size=640x480,1108,24,0
+2026-04-17T10:01:50.698,camera_info,0,red,,,,,camera_info_update,camera_ok frames=370 fps=6.6 size=640x480,1111,24,0
+2026-04-17T10:01:50.865,camera_info,0,red,,,,,camera_info_update,camera_ok frames=371 fps=6.6 size=640x480,1115,24,0
+2026-04-17T10:01:51.015,camera_info,0,red,,,,,camera_info_update,camera_ok frames=372 fps=6.6 size=640x480,1118,24,0
+2026-04-17T10:01:51.177,camera_info,0,red,,,,,camera_info_update,camera_ok frames=373 fps=6.6 size=640x480,1121,24,0
+2026-04-17T10:01:51.322,camera_info,0,red,,,,,camera_info_update,camera_ok frames=374 fps=6.6 size=640x480,1124,24,0
+2026-04-17T10:01:51.472,camera_info,0,red,,,,,camera_info_update,camera_ok frames=375 fps=6.6 size=640x480,1127,24,0
+2026-04-17T10:01:51.609,camera_info,0,red,,,,,camera_info_update,camera_ok frames=376 fps=6.6 size=640x480,1130,24,0
+2026-04-17T10:01:51.770,camera_info,0,red,,,,,camera_info_update,camera_ok frames=377 fps=6.6 size=640x480,1133,24,0
+2026-04-17T10:01:51.909,camera_info,0,red,,,,,camera_info_update,camera_ok frames=378 fps=6.6 size=640x480,1136,24,0
+2026-04-17T10:01:52.063,camera_info,0,red,,,,,camera_info_update,camera_ok frames=379 fps=6.6 size=640x480,1139,24,0
+2026-04-17T10:01:52.209,camera_info,0,red,,,,,camera_info_update,camera_ok frames=380 fps=6.6 size=640x480,1142,24,0
+2026-04-17T10:01:52.360,camera_info,0,red,,,,,camera_info_update,camera_ok frames=381 fps=6.6 size=640x480,1145,24,0
+2026-04-17T10:01:52.510,camera_info,0,red,,,,,camera_info_update,camera_ok frames=382 fps=6.6 size=640x480,1148,24,0
+2026-04-17T10:01:52.660,camera_info,0,red,,,,,camera_info_update,camera_ok frames=383 fps=6.6 size=640x480,1151,24,0
+2026-04-17T10:01:52.828,camera_info,0,red,,,,,camera_info_update,camera_ok frames=384 fps=6.6 size=640x480,1154,24,0
+2026-04-17T10:01:52.961,camera_info,0,red,,,,,camera_info_update,camera_ok frames=385 fps=6.6 size=640x480,1157,24,0
+2026-04-17T10:01:53.114,camera_info,0,red,,,,,camera_info_update,camera_ok frames=386 fps=6.6 size=640x480,1160,24,0
+2026-04-17T10:01:53.259,camera_info,0,red,,,,,camera_info_update,camera_ok frames=387 fps=6.6 size=640x480,1163,24,0
+2026-04-17T10:01:53.409,camera_info,0,red,,,,,camera_info_update,camera_ok frames=388 fps=6.6 size=640x480,1166,24,0
+2026-04-17T10:01:53.560,camera_info,0,red,,,,,camera_info_update,camera_ok frames=389 fps=6.6 size=640x480,1169,24,0
+2026-04-17T10:01:53.722,camera_info,0,red,,,,,camera_info_update,camera_ok frames=390 fps=6.6 size=640x480,1172,24,0
+2026-04-17T10:01:53.865,camera_info,0,red,,,,,camera_info_update,camera_ok frames=391 fps=6.6 size=640x480,1175,24,0
+2026-04-17T10:01:54.011,camera_info,0,red,,,,,camera_info_update,camera_ok frames=392 fps=6.6 size=640x480,1178,24,0
+2026-04-17T10:01:54.167,camera_info,0,red,,,,,camera_info_update,camera_ok frames=393 fps=6.6 size=640x480,1181,24,0
+2026-04-17T10:01:54.309,camera_info,0,red,,,,,camera_info_update,camera_ok frames=394 fps=6.6 size=640x480,1184,24,0
+2026-04-17T10:01:54.459,camera_info,0,red,,,,,camera_info_update,camera_ok frames=395 fps=6.7 size=640x480,1187,24,0
+2026-04-17T10:01:54.612,camera_info,0,red,,,,,camera_info_update,camera_ok frames=396 fps=6.7 size=640x480,1190,24,0
+2026-04-17T10:01:54.769,camera_info,0,red,,,,,camera_info_update,camera_ok frames=397 fps=6.7 size=640x480,1193,24,0
+2026-04-17T10:01:54.913,camera_info,0,red,,,,,camera_info_update,camera_ok frames=398 fps=6.7 size=640x480,1196,24,0
+2026-04-17T10:01:55.064,camera_info,0,red,,,,,camera_info_update,camera_ok frames=399 fps=6.7 size=640x480,1199,24,0
+2026-04-17T10:01:55.215,camera_info,0,red,,,,,camera_info_update,camera_ok frames=400 fps=6.7 size=640x480,1202,24,0
+2026-04-17T10:01:55.367,camera_info,0,red,,,,,camera_info_update,camera_ok frames=401 fps=6.7 size=640x480,1205,24,0
+2026-04-17T10:01:55.519,camera_info,0,red,,,,,camera_info_update,camera_ok frames=402 fps=6.6 size=640x480,1208,24,0
+2026-04-17T10:01:55.664,camera_info,0,red,,,,,camera_info_update,camera_ok frames=403 fps=6.6 size=640x480,1211,24,0
+2026-04-17T10:01:55.815,camera_info,0,red,,,,,camera_info_update,camera_ok frames=404 fps=6.6 size=640x480,1214,24,0
+2026-04-17T10:01:55.963,camera_info,0,red,,,,,camera_info_update,camera_ok frames=405 fps=6.6 size=640x480,1217,24,0
+2026-04-17T10:01:56.112,camera_info,0,red,,,,,camera_info_update,camera_ok frames=406 fps=6.6 size=640x480,1220,24,0
+2026-04-17T10:01:56.270,camera_info,0,red,,,,,camera_info_update,camera_ok frames=407 fps=6.6 size=640x480,1223,24,0
+2026-04-17T10:01:56.420,camera_info,0,red,,,,,camera_info_update,camera_ok frames=408 fps=6.6 size=640x480,1226,24,0
+2026-04-17T10:01:56.564,camera_info,0,red,,,,,camera_info_update,camera_ok frames=409 fps=6.7 size=640x480,1229,24,0
+2026-04-17T10:01:56.712,camera_info,0,red,,,,,camera_info_update,camera_ok frames=410 fps=6.7 size=640x480,1232,24,0
+2026-04-17T10:01:56.865,camera_info,0,red,,,,,camera_info_update,camera_ok frames=411 fps=6.7 size=640x480,1235,24,0
+2026-04-17T10:01:57.015,camera_info,0,red,,,,,camera_info_update,camera_ok frames=412 fps=6.7 size=640x480,1238,24,0
+2026-04-17T10:01:57.164,camera_info,0,red,,,,,camera_info_update,camera_ok frames=413 fps=6.7 size=640x480,1241,24,0
+2026-04-17T10:01:57.319,camera_info,0,red,,,,,camera_info_update,camera_ok frames=414 fps=6.7 size=640x480,1244,24,0
+2026-04-17T10:01:57.464,camera_info,0,red,,,,,camera_info_update,camera_ok frames=415 fps=6.7 size=640x480,1247,24,0
+2026-04-17T10:01:57.620,camera_info,0,red,,,,,camera_info_update,camera_ok frames=416 fps=6.7 size=640x480,1250,24,0
+2026-04-17T10:01:57.768,camera_info,0,red,,,,,camera_info_update,camera_ok frames=417 fps=6.7 size=640x480,1253,24,0
+2026-04-17T10:01:57.919,camera_info,0,red,,,,,camera_info_update,camera_ok frames=418 fps=6.7 size=640x480,1256,24,0
+2026-04-17T10:01:58.068,camera_info,0,red,,,,,camera_info_update,camera_ok frames=419 fps=6.7 size=640x480,1259,24,0
+2026-04-17T10:01:58.217,camera_info,0,red,,,,,camera_info_update,camera_ok frames=420 fps=6.7 size=640x480,1262,24,0
+2026-04-17T10:01:58.371,camera_info,0,red,,,,,camera_info_update,camera_ok frames=421 fps=6.7 size=640x480,1265,24,0
+2026-04-17T10:01:58.523,camera_info,0,red,,,,,camera_info_update,camera_ok frames=422 fps=6.7 size=640x480,1268,24,0
+2026-04-17T10:01:58.673,camera_info,0,red,,,,,camera_info_update,camera_ok frames=423 fps=6.6 size=640x480,1271,24,0
+2026-04-17T10:01:58.827,camera_info,0,red,,,,,camera_info_update,camera_ok frames=424 fps=6.6 size=640x480,1274,24,0
+2026-04-17T10:01:58.978,camera_info,0,red,,,,,camera_info_update,camera_ok frames=425 fps=6.6 size=640x480,1277,24,0
+2026-04-17T10:01:59.126,camera_info,0,red,,,,,camera_info_update,camera_ok frames=426 fps=6.6 size=640x480,1280,24,0
+2026-04-17T10:01:59.279,camera_info,0,red,,,,,camera_info_update,camera_ok frames=427 fps=6.6 size=640x480,1283,24,0
+2026-04-17T10:01:59.427,camera_info,0,red,,,,,camera_info_update,camera_ok frames=428 fps=6.6 size=640x480,1286,24,0
+2026-04-17T10:01:59.579,camera_info,0,red,,,,,camera_info_update,camera_ok frames=429 fps=6.6 size=640x480,1289,24,0
+2026-04-17T10:01:59.729,camera_info,0,red,,,,,camera_info_update,camera_ok frames=430 fps=6.6 size=640x480,1292,24,0
+2026-04-17T10:01:59.883,camera_info,0,red,,,,,camera_info_update,camera_ok frames=431 fps=6.6 size=640x480,1295,24,0
+2026-04-17T10:02:00.035,camera_info,0,red,,,,,camera_info_update,camera_ok frames=432 fps=6.6 size=640x480,1298,24,0
+2026-04-17T10:02:00.186,camera_info,0,red,,,,,camera_info_update,camera_ok frames=433 fps=6.6 size=640x480,1301,24,0
+2026-04-17T10:02:00.337,camera_info,0,red,,,,,camera_info_update,camera_ok frames=434 fps=6.6 size=640x480,1304,24,0
+2026-04-17T10:02:00.495,camera_info,0,red,,,,,camera_info_update,camera_ok frames=435 fps=6.6 size=640x480,1307,24,0
+2026-04-17T10:02:00.648,camera_info,0,red,,,,,camera_info_update,camera_ok frames=436 fps=6.6 size=640x480,1310,24,0
+2026-04-17T10:02:00.799,camera_info,0,red,,,,,camera_info_update,camera_ok frames=437 fps=6.5 size=640x480,1313,24,0
+2026-04-17T10:02:00.974,camera_info,0,red,,,,,camera_info_update,camera_ok frames=438 fps=6.5 size=640x480,1317,24,0
+2026-04-17T10:02:01.120,camera_info,0,red,,,,,camera_info_update,camera_ok frames=439 fps=6.5 size=640x480,1320,24,0
+2026-04-17T10:02:01.273,camera_info,0,red,,,,,camera_info_update,camera_ok frames=440 fps=6.5 size=640x480,1323,24,0
+2026-04-17T10:02:01.417,camera_info,0,red,,,,,camera_info_update,camera_ok frames=441 fps=6.5 size=640x480,1326,24,0
+2026-04-17T10:02:01.560,camera_info,0,red,,,,,camera_info_update,camera_ok frames=442 fps=6.5 size=640x480,1329,24,0
+2026-04-17T10:02:01.714,camera_info,0,red,,,,,camera_info_update,camera_ok frames=443 fps=6.5 size=640x480,1332,24,0
+2026-04-17T10:02:01.859,camera_info,0,red,,,,,camera_info_update,camera_ok frames=444 fps=6.6 size=640x480,1335,24,0
+2026-04-17T10:02:02.013,camera_info,0,red,,,,,camera_info_update,camera_ok frames=445 fps=6.6 size=640x480,1338,24,0
+2026-04-17T10:02:02.174,camera_info,0,red,,,,,camera_info_update,camera_ok frames=446 fps=6.6 size=640x480,1341,24,0
+2026-04-17T10:02:02.320,camera_info,0,red,,,,,camera_info_update,camera_ok frames=447 fps=6.6 size=640x480,1344,24,0
+2026-04-17T10:02:02.474,camera_info,0,red,,,,,camera_info_update,camera_ok frames=448 fps=6.6 size=640x480,1347,24,0
+2026-04-17T10:02:02.617,camera_info,0,red,,,,,camera_info_update,camera_ok frames=449 fps=6.6 size=640x480,1350,24,0
+2026-04-17T10:02:02.766,camera_info,0,red,,,,,camera_info_update,camera_ok frames=450 fps=6.6 size=640x480,1353,24,0
+2026-04-17T10:02:02.916,camera_info,0,red,,,,,camera_info_update,camera_ok frames=451 fps=6.6 size=640x480,1356,24,0
+2026-04-17T10:02:03.066,camera_info,0,red,,,,,camera_info_update,camera_ok frames=452 fps=6.6 size=640x480,1359,24,0
+2026-04-17T10:02:03.216,camera_info,0,red,,,,,camera_info_update,camera_ok frames=453 fps=6.6 size=640x480,1362,24,0
+2026-04-17T10:02:03.365,camera_info,0,red,,,,,camera_info_update,camera_ok frames=454 fps=6.6 size=640x480,1365,24,0
+2026-04-17T10:02:03.514,camera_info,0,red,,,,,camera_info_update,camera_ok frames=455 fps=6.6 size=640x480,1368,24,0
+2026-04-17T10:02:03.663,camera_info,0,red,,,,,camera_info_update,camera_ok frames=456 fps=6.6 size=640x480,1371,24,0
+2026-04-17T10:02:03.814,camera_info,0,red,,,,,camera_info_update,camera_ok frames=457 fps=6.6 size=640x480,1374,24,0
+2026-04-17T10:02:03.964,camera_info,0,red,,,,,camera_info_update,camera_ok frames=458 fps=6.7 size=640x480,1377,24,0
+2026-04-17T10:02:04.123,camera_info,0,red,,,,,camera_info_update,camera_ok frames=459 fps=6.7 size=640x480,1380,24,0
+2026-04-17T10:02:04.283,camera_info,0,red,,,,,camera_info_update,camera_ok frames=460 fps=6.7 size=640x480,1383,24,0
+2026-04-17T10:02:04.429,camera_info,0,red,,,,,camera_info_update,camera_ok frames=461 fps=6.7 size=640x480,1386,24,0
+2026-04-17T10:02:04.578,camera_info,0,red,,,,,camera_info_update,camera_ok frames=462 fps=6.7 size=640x480,1389,24,0
+2026-04-17T10:02:04.738,camera_info,0,red,,,,,camera_info_update,camera_ok frames=463 fps=6.7 size=640x480,1392,24,0
+2026-04-17T10:02:04.891,camera_info,0,red,,,,,camera_info_update,camera_ok frames=464 fps=6.7 size=640x480,1395,24,0
+2026-04-17T10:02:05.039,camera_info,0,red,,,,,camera_info_update,camera_ok frames=465 fps=6.5 size=640x480,1398,24,0
+2026-04-17T10:02:05.191,camera_info,0,red,,,,,camera_info_update,camera_ok frames=466 fps=6.5 size=640x480,1401,24,0
+2026-04-17T10:02:05.344,camera_info,0,red,,,,,camera_info_update,camera_ok frames=467 fps=6.5 size=640x480,1404,24,0
+2026-04-17T10:02:05.493,camera_info,0,red,,,,,camera_info_update,camera_ok frames=468 fps=6.5 size=640x480,1407,24,0
+2026-04-17T10:02:05.644,camera_info,0,red,,,,,camera_info_update,camera_ok frames=469 fps=6.5 size=640x480,1410,24,0
+2026-04-17T10:02:05.797,camera_info,0,red,,,,,camera_info_update,camera_ok frames=470 fps=6.5 size=640x480,1413,24,0
+2026-04-17T10:02:05.966,camera_info,0,red,,,,,camera_info_update,camera_ok frames=471 fps=6.5 size=640x480,1417,24,0
+2026-04-17T10:02:06.098,camera_info,0,red,,,,,camera_info_update,camera_ok frames=472 fps=6.6 size=640x480,1419,24,0
+2026-04-17T10:02:06.250,camera_info,0,red,,,,,camera_info_update,camera_ok frames=473 fps=6.6 size=640x480,1422,24,0
+2026-04-17T10:02:06.417,camera_info,0,red,,,,,camera_info_update,camera_ok frames=474 fps=6.6 size=640x480,1426,24,0
+2026-04-17T10:02:06.570,camera_info,0,red,,,,,camera_info_update,camera_ok frames=475 fps=6.6 size=640x480,1429,24,0
+2026-04-17T10:02:06.713,camera_info,0,red,,,,,camera_info_update,camera_ok frames=476 fps=6.6 size=640x480,1432,24,0
+2026-04-17T10:02:06.861,camera_info,0,red,,,,,camera_info_update,camera_ok frames=477 fps=6.6 size=640x480,1435,24,0
+2026-04-17T10:02:07.010,camera_info,0,red,,,,,camera_info_update,camera_ok frames=478 fps=6.6 size=640x480,1438,24,0
+2026-04-17T10:02:07.160,camera_info,0,red,,,,,camera_info_update,camera_ok frames=479 fps=6.6 size=640x480,1441,24,0
+2026-04-17T10:02:07.310,camera_info,0,red,,,,,camera_info_update,camera_ok frames=480 fps=6.6 size=640x480,1444,24,0
+2026-04-17T10:02:07.460,camera_info,0,red,,,,,camera_info_update,camera_ok frames=481 fps=6.6 size=640x480,1447,24,0
+2026-04-17T10:02:07.610,camera_info,0,red,,,,,camera_info_update,camera_ok frames=482 fps=6.6 size=640x480,1450,24,0
+2026-04-17T10:02:07.759,camera_info,0,red,,,,,camera_info_update,camera_ok frames=483 fps=6.6 size=640x480,1453,24,0
+2026-04-17T10:02:07.914,camera_info,0,red,,,,,camera_info_update,camera_ok frames=484 fps=6.6 size=640x480,1456,24,0
+2026-04-17T10:02:08.066,camera_info,0,red,,,,,camera_info_update,camera_ok frames=485 fps=6.6 size=640x480,1459,24,0
+2026-04-17T10:02:08.216,camera_info,0,red,,,,,camera_info_update,camera_ok frames=486 fps=6.6 size=640x480,1462,24,0
+2026-04-17T10:02:08.368,camera_info,0,red,,,,,camera_info_update,camera_ok frames=487 fps=6.6 size=640x480,1465,24,0
+2026-04-17T10:02:08.518,camera_info,0,red,,,,,camera_info_update,camera_ok frames=488 fps=6.6 size=640x480,1468,24,0
+2026-04-17T10:02:08.670,camera_info,0,red,,,,,camera_info_update,camera_ok frames=489 fps=6.6 size=640x480,1471,24,0
+2026-04-17T10:02:08.827,camera_info,0,red,,,,,camera_info_update,camera_ok frames=490 fps=6.6 size=640x480,1474,24,0
+2026-04-17T10:02:08.973,camera_info,0,red,,,,,camera_info_update,camera_ok frames=491 fps=6.6 size=640x480,1477,24,0
+2026-04-17T10:02:09.122,camera_info,0,red,,,,,camera_info_update,camera_ok frames=492 fps=6.6 size=640x480,1480,24,0
+2026-04-17T10:02:09.279,camera_info,0,red,,,,,camera_info_update,camera_ok frames=493 fps=6.6 size=640x480,1483,24,0
+2026-04-17T10:02:09.426,camera_info,0,red,,,,,camera_info_update,camera_ok frames=494 fps=6.6 size=640x480,1486,24,0
+2026-04-17T10:02:09.574,camera_info,0,red,,,,,camera_info_update,camera_ok frames=495 fps=6.6 size=640x480,1489,24,0
+2026-04-17T10:02:09.723,camera_info,0,red,,,,,camera_info_update,camera_ok frames=496 fps=6.6 size=640x480,1492,24,0
+2026-04-17T10:02:09.875,camera_info,0,red,,,,,camera_info_update,camera_ok frames=497 fps=6.6 size=640x480,1495,24,0
+2026-04-17T10:02:10.026,camera_info,0,red,,,,,camera_info_update,camera_ok frames=498 fps=6.6 size=640x480,1498,24,0
+2026-04-17T10:02:10.174,camera_info,0,red,,,,,camera_info_update,camera_ok frames=499 fps=6.6 size=640x480,1501,24,0
+2026-04-17T10:02:10.324,camera_info,0,red,,,,,camera_info_update,camera_ok frames=500 fps=6.7 size=640x480,1504,24,0
+2026-04-17T10:02:10.474,camera_info,0,red,,,,,camera_info_update,camera_ok frames=501 fps=6.7 size=640x480,1507,24,0
+2026-04-17T10:02:10.625,camera_info,0,red,,,,,camera_info_update,camera_ok frames=502 fps=6.7 size=640x480,1510,24,0
+2026-04-17T10:02:10.775,camera_info,0,red,,,,,camera_info_update,camera_ok frames=503 fps=6.7 size=640x480,1513,24,0
+2026-04-17T10:02:10.927,camera_info,0,red,,,,,camera_info_update,camera_ok frames=504 fps=6.7 size=640x480,1516,24,0
+2026-04-17T10:02:11.084,camera_info,0,red,,,,,camera_info_update,camera_ok frames=505 fps=6.7 size=640x480,1519,24,0
+2026-04-17T10:02:11.236,camera_info,0,red,,,,,camera_info_update,camera_ok frames=506 fps=6.7 size=640x480,1522,24,0
+2026-04-17T10:02:11.385,camera_info,0,red,,,,,camera_info_update,camera_ok frames=507 fps=6.6 size=640x480,1525,24,0
+2026-04-17T10:02:11.538,camera_info,0,red,,,,,camera_info_update,camera_ok frames=508 fps=6.6 size=640x480,1528,24,0
+2026-04-17T10:02:11.686,camera_info,0,red,,,,,camera_info_update,camera_ok frames=509 fps=6.6 size=640x480,1531,24,0
+2026-04-17T10:02:11.840,camera_info,0,red,,,,,camera_info_update,camera_ok frames=510 fps=6.6 size=640x480,1534,24,0
+2026-04-17T10:02:11.987,camera_info,0,red,,,,,camera_info_update,camera_ok frames=511 fps=6.6 size=640x480,1537,24,0
+2026-04-17T10:02:12.158,camera_info,0,red,,,,,camera_info_update,camera_ok frames=512 fps=6.6 size=640x480,1541,24,0
+2026-04-17T10:02:12.311,camera_info,0,red,,,,,camera_info_update,camera_ok frames=513 fps=6.6 size=640x480,1544,24,0
+2026-04-17T10:02:12.464,camera_info,0,red,,,,,camera_info_update,camera_ok frames=514 fps=6.5 size=640x480,1547,24,0
+2026-04-17T10:02:12.629,camera_info,0,red,,,,,camera_info_update,camera_ok frames=515 fps=6.5 size=640x480,1550,24,0
+2026-04-17T10:02:12.778,camera_info,0,red,,,,,camera_info_update,camera_ok frames=516 fps=6.5 size=640x480,1553,24,0
+2026-04-17T10:02:12.927,camera_info,0,red,,,,,camera_info_update,camera_ok frames=517 fps=6.5 size=640x480,1556,24,0
+2026-04-17T10:02:13.078,camera_info,0,red,,,,,camera_info_update,camera_ok frames=518 fps=6.5 size=640x480,1559,24,0
+2026-04-17T10:02:13.228,camera_info,0,red,,,,,camera_info_update,camera_ok frames=519 fps=6.5 size=640x480,1562,24,0
+2026-04-17T10:02:13.379,camera_info,0,red,,,,,camera_info_update,camera_ok frames=520 fps=6.5 size=640x480,1565,24,0
+2026-04-17T10:02:13.534,camera_info,0,red,,,,,camera_info_update,camera_ok frames=521 fps=6.5 size=640x480,1568,24,0
+2026-04-17T10:02:13.683,camera_info,0,red,,,,,camera_info_update,camera_ok frames=522 fps=6.5 size=640x480,1571,24,0
+2026-04-17T10:02:13.833,camera_info,0,red,,,,,camera_info_update,camera_ok frames=523 fps=6.5 size=640x480,1574,24,0
+2026-04-17T10:02:13.984,camera_info,0,red,,,,,camera_info_update,camera_ok frames=524 fps=6.5 size=640x480,1577,24,0
+2026-04-17T10:02:14.149,camera_info,0,red,,,,,camera_info_update,camera_ok frames=525 fps=6.5 size=640x480,1580,24,0
+2026-04-17T10:02:14.294,camera_info,0,red,,,,,camera_info_update,camera_ok frames=526 fps=6.5 size=640x480,1583,24,0
+2026-04-17T10:02:14.443,camera_info,0,red,,,,,camera_info_update,camera_ok frames=527 fps=6.5 size=640x480,1586,24,0
+2026-04-17T10:02:14.596,camera_info,0,red,,,,,camera_info_update,camera_ok frames=528 fps=6.6 size=640x480,1589,24,0
+2026-04-17T10:02:14.747,camera_info,0,red,,,,,camera_info_update,camera_ok frames=529 fps=6.6 size=640x480,1592,24,0
+2026-04-17T10:02:14.895,camera_info,0,red,,,,,camera_info_update,camera_ok frames=530 fps=6.6 size=640x480,1595,24,0
+2026-04-17T10:02:15.045,camera_info,0,red,,,,,camera_info_update,camera_ok frames=531 fps=6.6 size=640x480,1598,24,0
+2026-04-17T10:02:15.193,camera_info,0,red,,,,,camera_info_update,camera_ok frames=532 fps=6.6 size=640x480,1601,24,0
+2026-04-17T10:02:15.343,camera_info,0,red,,,,,camera_info_update,camera_ok frames=533 fps=6.6 size=640x480,1604,24,0
+2026-04-17T10:02:15.493,camera_info,0,red,,,,,camera_info_update,camera_ok frames=534 fps=6.6 size=640x480,1607,24,0
+2026-04-17T10:02:15.642,camera_info,0,red,,,,,camera_info_update,camera_ok frames=535 fps=6.7 size=640x480,1610,24,0
+2026-04-17T10:02:15.792,camera_info,0,red,,,,,camera_info_update,camera_ok frames=536 fps=6.7 size=640x480,1613,24,0
+2026-04-17T10:02:15.942,camera_info,0,red,,,,,camera_info_update,camera_ok frames=537 fps=6.7 size=640x480,1616,24,0
+2026-04-17T10:02:16.090,camera_info,0,red,,,,,camera_info_update,camera_ok frames=538 fps=6.7 size=640x480,1619,24,0
+2026-04-17T10:02:16.241,camera_info,0,red,,,,,camera_info_update,camera_ok frames=539 fps=6.7 size=640x480,1622,24,0
+2026-04-17T10:02:16.391,camera_info,0,red,,,,,camera_info_update,camera_ok frames=540 fps=6.7 size=640x480,1625,24,0
+2026-04-17T10:02:16.541,camera_info,0,red,,,,,camera_info_update,camera_ok frames=541 fps=6.7 size=640x480,1628,24,0
+2026-04-17T10:02:16.692,camera_info,0,red,,,,,camera_info_update,camera_ok frames=542 fps=6.7 size=640x480,1631,24,0
+2026-04-17T10:02:16.842,camera_info,0,red,,,,,camera_info_update,camera_ok frames=543 fps=6.7 size=640x480,1634,24,0
+2026-04-17T10:02:16.990,camera_info,0,red,,,,,camera_info_update,camera_ok frames=544 fps=6.7 size=640x480,1637,24,0
+2026-04-17T10:02:17.142,camera_info,0,red,,,,,camera_info_update,camera_ok frames=545 fps=6.7 size=640x480,1640,24,0
+2026-04-17T10:02:17.288,camera_info,0,red,,,,,camera_info_update,camera_ok frames=546 fps=6.7 size=640x480,1643,24,0
+2026-04-17T10:02:17.443,camera_info,0,red,,,,,camera_info_update,camera_ok frames=547 fps=6.7 size=640x480,1646,24,0
+2026-04-17T10:02:17.591,camera_info,0,red,,,,,camera_info_update,camera_ok frames=548 fps=6.7 size=640x480,1649,24,0
+2026-04-17T10:02:17.739,camera_info,0,red,,,,,camera_info_update,camera_ok frames=549 fps=6.7 size=640x480,1652,24,0
+2026-04-17T10:02:17.891,camera_info,0,red,,,,,camera_info_update,camera_ok frames=550 fps=6.7 size=640x480,1655,24,0
+2026-04-17T10:02:18.045,camera_info,0,red,,,,,camera_info_update,camera_ok frames=551 fps=6.7 size=640x480,1658,24,0
+2026-04-17T10:02:18.191,camera_info,0,red,,,,,camera_info_update,camera_ok frames=552 fps=6.7 size=640x480,1661,24,0
+2026-04-17T10:02:18.342,camera_info,0,red,,,,,camera_info_update,camera_ok frames=553 fps=6.7 size=640x480,1664,24,0
+2026-04-17T10:02:18.496,camera_info,0,red,,,,,camera_info_update,camera_ok frames=554 fps=6.7 size=640x480,1667,24,0
+2026-04-17T10:02:18.643,camera_info,0,red,,,,,camera_info_update,camera_ok frames=555 fps=6.7 size=640x480,1670,24,0
+2026-04-17T10:02:18.792,camera_info,0,red,,,,,camera_info_update,camera_ok frames=556 fps=6.6 size=640x480,1673,24,0
+2026-04-17T10:02:18.947,camera_info,0,red,,,,,camera_info_update,camera_ok frames=557 fps=6.6 size=640x480,1676,24,0
+2026-04-17T10:02:19.096,camera_info,0,red,,,,,camera_info_update,camera_ok frames=558 fps=6.6 size=640x480,1679,24,0
+2026-04-17T10:02:19.245,camera_info,0,red,,,,,camera_info_update,camera_ok frames=559 fps=6.6 size=640x480,1682,24,0
+2026-04-17T10:02:19.395,camera_info,0,red,,,,,camera_info_update,camera_ok frames=560 fps=6.6 size=640x480,1685,24,0
+2026-04-17T10:02:19.542,camera_info,0,red,,,,,camera_info_update,camera_ok frames=561 fps=6.6 size=640x480,1688,24,0
+2026-04-17T10:02:19.692,camera_info,0,red,,,,,camera_info_update,camera_ok frames=562 fps=6.6 size=640x480,1691,24,0
+2026-04-17T10:02:19.842,camera_info,0,red,,,,,camera_info_update,camera_ok frames=563 fps=6.7 size=640x480,1694,24,0
+2026-04-17T10:02:19.995,camera_info,0,red,,,,,camera_info_update,camera_ok frames=564 fps=6.7 size=640x480,1697,24,0
+2026-04-17T10:02:20.143,camera_info,0,red,,,,,camera_info_update,camera_ok frames=565 fps=6.7 size=640x480,1700,24,0
+2026-04-17T10:02:20.297,camera_info,0,red,,,,,camera_info_update,camera_ok frames=566 fps=6.7 size=640x480,1703,24,0
+2026-04-17T10:02:20.441,camera_info,0,red,,,,,camera_info_update,camera_ok frames=567 fps=6.7 size=640x480,1706,24,0
+2026-04-17T10:02:20.590,camera_info,0,red,,,,,camera_info_update,camera_ok frames=568 fps=6.7 size=640x480,1709,24,0
+2026-04-17T10:02:20.740,camera_info,0,red,,,,,camera_info_update,camera_ok frames=569 fps=6.7 size=640x480,1712,24,0
+2026-04-17T10:02:20.891,camera_info,0,red,,,,,camera_info_update,camera_ok frames=570 fps=6.7 size=640x480,1715,24,0
+2026-04-17T10:02:21.043,camera_info,0,red,,,,,camera_info_update,camera_ok frames=571 fps=6.7 size=640x480,1718,24,0
+2026-04-17T10:02:21.192,camera_info,0,red,,,,,camera_info_update,camera_ok frames=572 fps=6.7 size=640x480,1721,24,0
+2026-04-17T10:02:21.342,camera_info,0,red,,,,,camera_info_update,camera_ok frames=573 fps=6.7 size=640x480,1724,24,0
+2026-04-17T10:02:21.492,camera_info,0,red,,,,,camera_info_update,camera_ok frames=574 fps=6.7 size=640x480,1727,24,0
+2026-04-17T10:02:21.641,camera_info,0,red,,,,,camera_info_update,camera_ok frames=575 fps=6.7 size=640x480,1730,24,0
+2026-04-17T10:02:21.790,camera_info,0,red,,,,,camera_info_update,camera_ok frames=576 fps=6.7 size=640x480,1733,24,0
+2026-04-17T10:02:21.938,camera_info,0,red,,,,,camera_info_update,camera_ok frames=577 fps=6.7 size=640x480,1736,24,0
+2026-04-17T10:02:22.091,camera_info,0,red,,,,,camera_info_update,camera_ok frames=578 fps=6.7 size=640x480,1739,24,0
+2026-04-17T10:02:22.239,camera_info,0,red,,,,,camera_info_update,camera_ok frames=579 fps=6.7 size=640x480,1742,24,0
+2026-04-17T10:02:22.386,camera_info,0,red,,,,,camera_info_update,camera_ok frames=580 fps=6.7 size=640x480,1745,24,0
+2026-04-17T10:02:22.537,camera_info,0,red,,,,,camera_info_update,camera_ok frames=581 fps=6.7 size=640x480,1748,24,0
+2026-04-17T10:02:22.685,camera_info,0,red,,,,,camera_info_update,camera_ok frames=582 fps=6.7 size=640x480,1751,24,0
+2026-04-17T10:02:22.838,camera_info,0,red,,,,,camera_info_update,camera_ok frames=583 fps=6.7 size=640x480,1754,24,0
+2026-04-17T10:02:22.987,camera_info,0,red,,,,,camera_info_update,camera_ok frames=584 fps=6.7 size=640x480,1757,24,0
+2026-04-17T10:02:23.136,camera_info,0,red,,,,,camera_info_update,camera_ok frames=585 fps=6.7 size=640x480,1760,24,0
+2026-04-17T10:02:23.283,camera_info,0,red,,,,,camera_info_update,camera_ok frames=586 fps=6.7 size=640x480,1763,24,0
+2026-04-17T10:02:23.435,camera_info,0,red,,,,,camera_info_update,camera_ok frames=587 fps=6.7 size=640x480,1766,24,0
+2026-04-17T10:02:23.582,camera_info,0,red,,,,,camera_info_update,camera_ok frames=588 fps=6.7 size=640x480,1769,24,0
+2026-04-17T10:02:23.731,camera_info,0,red,,,,,camera_info_update,camera_ok frames=589 fps=6.7 size=640x480,1772,24,0
+2026-04-17T10:02:23.881,camera_info,0,red,,,,,camera_info_update,camera_ok frames=590 fps=6.7 size=640x480,1775,24,0
+2026-04-17T10:02:24.033,camera_info,0,red,,,,,camera_info_update,camera_ok frames=591 fps=6.7 size=640x480,1778,24,0
+2026-04-17T10:02:24.184,camera_info,0,red,,,,,camera_info_update,camera_ok frames=592 fps=6.7 size=640x480,1781,24,0
+2026-04-17T10:02:24.336,camera_info,0,red,,,,,camera_info_update,camera_ok frames=593 fps=6.7 size=640x480,1784,24,0
+2026-04-17T10:02:24.484,camera_info,0,red,,,,,camera_info_update,camera_ok frames=594 fps=6.7 size=640x480,1787,24,0
+2026-04-17T10:02:24.641,camera_info,0,red,,,,,camera_info_update,camera_ok frames=595 fps=6.7 size=640x480,1790,24,0
+2026-04-17T10:02:24.792,camera_info,0,red,,,,,camera_info_update,camera_ok frames=596 fps=6.7 size=640x480,1793,24,0
+2026-04-17T10:02:24.941,camera_info,0,red,,,,,camera_info_update,camera_ok frames=597 fps=6.7 size=640x480,1796,24,0
+2026-04-17T10:02:25.094,camera_info,0,red,,,,,camera_info_update,camera_ok frames=598 fps=6.6 size=640x480,1799,24,0
+2026-04-17T10:02:25.262,camera_info,0,red,,,,,camera_info_update,camera_ok frames=599 fps=6.6 size=640x480,1803,24,0
+2026-04-17T10:02:25.409,camera_info,0,red,,,,,camera_info_update,camera_ok frames=600 fps=6.6 size=640x480,1806,24,0
+2026-04-17T10:02:25.563,camera_info,0,red,,,,,camera_info_update,camera_ok frames=601 fps=6.6 size=640x480,1809,24,0
+2026-04-17T10:02:25.711,camera_info,0,red,,,,,camera_info_update,camera_ok frames=602 fps=6.6 size=640x480,1812,24,0
+2026-04-17T10:02:25.860,camera_info,0,red,,,,,camera_info_update,camera_ok frames=603 fps=6.6 size=640x480,1815,24,0
+2026-04-17T10:02:26.017,camera_info,0,red,,,,,camera_info_update,camera_ok frames=604 fps=6.6 size=640x480,1818,24,0
+2026-04-17T10:02:26.165,camera_info,0,red,,,,,camera_info_update,camera_ok frames=605 fps=6.5 size=640x480,1821,24,0
+2026-04-17T10:02:26.327,camera_info,0,red,,,,,camera_info_update,camera_ok frames=606 fps=6.5 size=640x480,1824,24,0
+2026-04-17T10:02:26.477,camera_info,0,red,,,,,camera_info_update,camera_ok frames=607 fps=6.5 size=640x480,1827,24,0
+2026-04-17T10:02:26.627,camera_info,0,red,,,,,camera_info_update,camera_ok frames=608 fps=6.5 size=640x480,1830,24,0
+2026-04-17T10:02:26.776,camera_info,0,red,,,,,camera_info_update,camera_ok frames=609 fps=6.5 size=640x480,1833,24,0
+2026-04-17T10:02:26.930,camera_info,0,red,,,,,camera_info_update,camera_ok frames=610 fps=6.5 size=640x480,1836,24,0
+2026-04-17T10:02:27.081,camera_info,0,red,,,,,camera_info_update,camera_ok frames=611 fps=6.5 size=640x480,1839,24,0
+2026-04-17T10:02:27.237,camera_info,0,red,,,,,camera_info_update,camera_ok frames=612 fps=6.6 size=640x480,1842,24,0
+2026-04-17T10:02:27.389,camera_info,0,red,,,,,camera_info_update,camera_ok frames=613 fps=6.6 size=640x480,1845,24,0
+2026-04-17T10:02:27.543,camera_info,0,red,,,,,camera_info_update,camera_ok frames=614 fps=6.6 size=640x480,1848,24,0
+2026-04-17T10:02:27.692,camera_info,0,red,,,,,camera_info_update,camera_ok frames=615 fps=6.6 size=640x480,1851,24,0
+2026-04-17T10:02:27.843,camera_info,0,red,,,,,camera_info_update,camera_ok frames=616 fps=6.6 size=640x480,1854,24,0
+2026-04-17T10:02:27.992,camera_info,0,red,,,,,camera_info_update,camera_ok frames=617 fps=6.6 size=640x480,1857,24,0
+2026-04-17T10:02:28.142,camera_info,0,red,,,,,camera_info_update,camera_ok frames=618 fps=6.6 size=640x480,1860,24,0
+2026-04-17T10:02:28.293,camera_info,0,red,,,,,camera_info_update,camera_ok frames=619 fps=6.6 size=640x480,1863,24,0
+2026-04-17T10:02:28.442,camera_info,0,red,,,,,camera_info_update,camera_ok frames=620 fps=6.6 size=640x480,1866,24,0
+2026-04-17T10:02:28.592,camera_info,0,red,,,,,camera_info_update,camera_ok frames=621 fps=6.6 size=640x480,1869,24,0
+2026-04-17T10:02:28.741,camera_info,0,red,,,,,camera_info_update,camera_ok frames=622 fps=6.6 size=640x480,1872,24,0
+2026-04-17T10:02:28.891,camera_info,0,red,,,,,camera_info_update,camera_ok frames=623 fps=6.6 size=640x480,1875,24,0
+2026-04-17T10:02:29.040,camera_info,0,red,,,,,camera_info_update,camera_ok frames=624 fps=6.6 size=640x480,1878,24,0
+2026-04-17T10:02:29.189,camera_info,0,red,,,,,camera_info_update,camera_ok frames=625 fps=6.6 size=640x480,1881,24,0
+2026-04-17T10:02:29.341,camera_info,0,red,,,,,camera_info_update,camera_ok frames=626 fps=6.7 size=640x480,1884,24,0
+2026-04-17T10:02:29.497,camera_info,0,red,,,,,camera_info_update,camera_ok frames=627 fps=6.7 size=640x480,1887,24,0
+2026-04-17T10:02:29.669,camera_info,0,red,,,,,camera_info_update,camera_ok frames=628 fps=6.7 size=640x480,1891,24,0
+2026-04-17T10:02:29.822,camera_info,0,red,,,,,camera_info_update,camera_ok frames=629 fps=6.7 size=640x480,1894,24,0
+2026-04-17T10:02:29.971,camera_info,0,red,,,,,camera_info_update,camera_ok frames=630 fps=6.7 size=640x480,1897,24,0
+2026-04-17T10:02:30.123,camera_info,0,red,,,,,camera_info_update,camera_ok frames=631 fps=6.7 size=640x480,1900,24,0
+2026-04-17T10:02:30.272,camera_info,0,red,,,,,camera_info_update,camera_ok frames=632 fps=6.7 size=640x480,1903,24,0
+2026-04-17T10:02:30.425,camera_info,0,red,,,,,camera_info_update,camera_ok frames=633 fps=6.5 size=640x480,1906,24,0
+2026-04-17T10:02:30.581,camera_info,0,red,,,,,camera_info_update,camera_ok frames=634 fps=6.5 size=640x480,1909,24,0
+2026-04-17T10:02:30.731,camera_info,0,red,,,,,camera_info_update,camera_ok frames=635 fps=6.5 size=640x480,1912,24,0
+2026-04-17T10:02:30.882,camera_info,0,red,,,,,camera_info_update,camera_ok frames=636 fps=6.5 size=640x480,1915,24,0
+2026-04-17T10:02:31.032,camera_info,0,red,,,,,camera_info_update,camera_ok frames=637 fps=6.5 size=640x480,1918,24,0
+2026-04-17T10:02:31.184,camera_info,0,red,,,,,camera_info_update,camera_ok frames=638 fps=6.5 size=640x480,1921,24,0
+2026-04-17T10:02:31.336,camera_info,0,red,,,,,camera_info_update,camera_ok frames=639 fps=6.5 size=640x480,1924,24,0
+2026-04-17T10:02:31.489,camera_info,0,red,,,,,camera_info_update,camera_ok frames=640 fps=6.6 size=640x480,1927,24,0
+2026-04-17T10:02:31.637,camera_info,0,red,,,,,camera_info_update,camera_ok frames=641 fps=6.6 size=640x480,1930,24,0
+2026-04-17T10:02:31.789,camera_info,0,red,,,,,camera_info_update,camera_ok frames=642 fps=6.6 size=640x480,1933,24,0
+2026-04-17T10:02:31.938,camera_info,0,red,,,,,camera_info_update,camera_ok frames=643 fps=6.6 size=640x480,1936,24,0
+2026-04-17T10:02:32.090,camera_info,0,red,,,,,camera_info_update,camera_ok frames=644 fps=6.6 size=640x480,1939,24,0
+2026-04-17T10:02:32.240,camera_info,0,red,,,,,camera_info_update,camera_ok frames=645 fps=6.6 size=640x480,1942,24,0
+2026-04-17T10:02:32.390,camera_info,0,red,,,,,camera_info_update,camera_ok frames=646 fps=6.6 size=640x480,1945,24,0
+2026-04-17T10:02:32.542,camera_info,0,red,,,,,camera_info_update,camera_ok frames=647 fps=6.6 size=640x480,1948,24,0
+2026-04-17T10:02:32.693,camera_info,0,red,,,,,camera_info_update,camera_ok frames=648 fps=6.6 size=640x480,1951,24,0
+2026-04-17T10:02:32.849,camera_info,0,red,,,,,camera_info_update,camera_ok frames=649 fps=6.6 size=640x480,1954,24,0
+2026-04-17T10:02:32.997,camera_info,0,red,,,,,camera_info_update,camera_ok frames=650 fps=6.6 size=640x480,1957,24,0
+2026-04-17T10:02:33.147,camera_info,0,red,,,,,camera_info_update,camera_ok frames=651 fps=6.6 size=640x480,1960,24,0
+2026-04-17T10:02:33.300,camera_info,0,red,,,,,camera_info_update,camera_ok frames=652 fps=6.6 size=640x480,1963,24,0
+2026-04-17T10:02:33.449,camera_info,0,red,,,,,camera_info_update,camera_ok frames=653 fps=6.6 size=640x480,1966,24,0
+2026-04-17T10:02:33.612,camera_info,0,red,,,,,camera_info_update,camera_ok frames=654 fps=6.6 size=640x480,1970,24,0
+2026-04-17T10:02:33.759,camera_info,0,red,,,,,camera_info_update,camera_ok frames=655 fps=6.6 size=640x480,1973,24,0
+2026-04-17T10:02:33.911,camera_info,0,red,,,,,camera_info_update,camera_ok frames=656 fps=6.6 size=640x480,1976,24,0
+2026-04-17T10:02:34.059,camera_info,0,red,,,,,camera_info_update,camera_ok frames=657 fps=6.6 size=640x480,1979,24,0
+2026-04-17T10:02:34.218,camera_info,0,red,,,,,camera_info_update,camera_ok frames=658 fps=6.6 size=640x480,1982,24,0
+2026-04-17T10:02:34.360,camera_info,0,red,,,,,camera_info_update,camera_ok frames=659 fps=6.6 size=640x480,1985,24,0
+2026-04-17T10:02:34.518,camera_info,0,red,,,,,camera_info_update,camera_ok frames=660 fps=6.6 size=640x480,1988,24,0
+2026-04-17T10:02:34.665,camera_info,0,red,,,,,camera_info_update,camera_ok frames=661 fps=6.6 size=640x480,1991,24,0
+2026-04-17T10:02:34.812,camera_info,0,red,,,,,camera_info_update,camera_ok frames=662 fps=6.6 size=640x480,1994,24,0
+2026-04-17T10:02:34.963,camera_info,0,red,,,,,camera_info_update,camera_ok frames=663 fps=6.6 size=640x480,1997,24,0
+2026-04-17T10:02:35.112,camera_info,0,red,,,,,camera_info_update,camera_ok frames=664 fps=6.6 size=640x480,2000,24,0
+2026-04-17T10:02:35.267,camera_info,0,red,,,,,camera_info_update,camera_ok frames=665 fps=6.6 size=640x480,2003,24,0
+2026-04-17T10:02:35.413,camera_info,0,red,,,,,camera_info_update,camera_ok frames=666 fps=6.6 size=640x480,2006,24,0
+2026-04-17T10:02:35.563,camera_info,0,red,,,,,camera_info_update,camera_ok frames=667 fps=6.6 size=640x480,2009,24,0
+2026-04-17T10:02:35.714,camera_info,0,red,,,,,camera_info_update,camera_ok frames=668 fps=6.6 size=640x480,2012,24,0
+2026-04-17T10:02:35.872,camera_info,0,red,,,,,camera_info_update,camera_ok frames=669 fps=6.6 size=640x480,2015,24,0
+2026-04-17T10:02:36.022,camera_info,0,red,,,,,camera_info_update,camera_ok frames=670 fps=6.6 size=640x480,2018,24,0
+2026-04-17T10:02:36.169,camera_info,0,red,,,,,camera_info_update,camera_ok frames=671 fps=6.6 size=640x480,2021,24,0
+2026-04-17T10:02:36.320,camera_info,0,red,,,,,camera_info_update,camera_ok frames=672 fps=6.6 size=640x480,2024,24,0
+2026-04-17T10:02:36.470,camera_info,0,red,,,,,camera_info_update,camera_ok frames=673 fps=6.6 size=640x480,2027,24,0
+2026-04-17T10:02:36.625,camera_info,0,red,,,,,camera_info_update,camera_ok frames=674 fps=6.6 size=640x480,2030,24,0
+2026-04-17T10:02:36.781,camera_info,0,red,,,,,camera_info_update,camera_ok frames=675 fps=6.6 size=640x480,2033,24,0
+2026-04-17T10:02:36.927,camera_info,0,red,,,,,camera_info_update,camera_ok frames=676 fps=6.6 size=640x480,2036,24,0
+2026-04-17T10:02:37.077,camera_info,0,red,,,,,camera_info_update,camera_ok frames=677 fps=6.6 size=640x480,2039,24,0
+2026-04-17T10:02:37.227,camera_info,0,red,,,,,camera_info_update,camera_ok frames=678 fps=6.6 size=640x480,2042,24,0
+2026-04-17T10:02:37.378,camera_info,0,red,,,,,camera_info_update,camera_ok frames=679 fps=6.6 size=640x480,2045,24,0
+2026-04-17T10:02:37.529,camera_info,0,red,,,,,camera_info_update,camera_ok frames=680 fps=6.6 size=640x480,2048,24,0
+2026-04-17T10:02:37.680,camera_info,0,red,,,,,camera_info_update,camera_ok frames=681 fps=6.6 size=640x480,2051,24,0
+2026-04-17T10:02:37.834,camera_info,0,red,,,,,camera_info_update,camera_ok frames=682 fps=6.6 size=640x480,2054,24,0
+2026-04-17T10:02:37.982,camera_info,0,red,,,,,camera_info_update,camera_ok frames=683 fps=6.6 size=640x480,2057,24,0
+2026-04-17T10:02:38.133,camera_info,0,red,,,,,camera_info_update,camera_ok frames=684 fps=6.6 size=640x480,2060,24,0
+2026-04-17T10:02:38.283,camera_info,0,red,,,,,camera_info_update,camera_ok frames=685 fps=6.6 size=640x480,2063,24,0
+2026-04-17T10:02:38.433,camera_info,0,red,,,,,camera_info_update,camera_ok frames=686 fps=6.6 size=640x480,2066,24,0
+2026-04-17T10:02:38.585,camera_info,0,red,,,,,camera_info_update,camera_ok frames=687 fps=6.6 size=640x480,2069,24,0
+2026-04-17T10:02:38.744,camera_info,0,red,,,,,camera_info_update,camera_ok frames=688 fps=6.6 size=640x480,2072,24,0
+2026-04-17T10:02:38.895,camera_info,0,red,,,,,camera_info_update,camera_ok frames=689 fps=6.6 size=640x480,2075,24,0
+2026-04-17T10:02:39.062,camera_info,0,red,,,,,camera_info_update,camera_ok frames=690 fps=6.6 size=640x480,2079,24,0
+2026-04-17T10:02:39.209,camera_info,0,red,,,,,camera_info_update,camera_ok frames=691 fps=6.6 size=640x480,2082,24,0
+2026-04-17T10:02:39.359,camera_info,0,red,,,,,camera_info_update,camera_ok frames=692 fps=6.6 size=640x480,2085,24,0
+2026-04-17T10:02:39.519,camera_info,0,red,,,,,camera_info_update,camera_ok frames=693 fps=6.6 size=640x480,2088,24,0
+2026-04-17T10:02:39.660,camera_info,0,red,,,,,camera_info_update,camera_ok frames=694 fps=6.6 size=640x480,2091,24,0
+2026-04-17T10:02:39.812,camera_info,0,red,,,,,camera_info_update,camera_ok frames=695 fps=6.6 size=640x480,2094,24,0
+2026-04-17T10:02:39.968,camera_info,0,red,,,,,camera_info_update,camera_ok frames=696 fps=6.6 size=640x480,2097,24,0
+2026-04-17T10:02:40.119,camera_info,0,red,,,,,camera_info_update,camera_ok frames=697 fps=6.6 size=640x480,2100,24,0
+2026-04-17T10:02:40.271,camera_info,0,red,,,,,camera_info_update,camera_ok frames=698 fps=6.6 size=640x480,2103,24,0
+2026-04-17T10:02:40.418,camera_info,0,red,,,,,camera_info_update,camera_ok frames=699 fps=6.6 size=640x480,2106,24,0
+2026-04-17T10:02:40.579,camera_info,0,red,,,,,camera_info_update,camera_ok frames=700 fps=6.6 size=640x480,2109,24,0
+2026-04-17T10:02:40.719,camera_info,0,red,,,,,camera_info_update,camera_ok frames=701 fps=6.6 size=640x480,2112,24,0
+2026-04-17T10:02:40.879,camera_info,0,red,,,,,camera_info_update,camera_ok frames=702 fps=6.6 size=640x480,2115,24,0
+2026-04-17T10:02:41.017,camera_info,0,red,,,,,camera_info_update,camera_ok frames=703 fps=6.6 size=640x480,2118,24,0
+2026-04-17T10:02:41.170,camera_info,0,red,,,,,camera_info_update,camera_ok frames=704 fps=6.6 size=640x480,2121,24,0
+2026-04-17T10:02:41.321,camera_info,0,red,,,,,camera_info_update,camera_ok frames=705 fps=6.6 size=640x480,2124,24,0
+2026-04-17T10:02:41.465,camera_info,0,red,,,,,camera_info_update,camera_ok frames=706 fps=6.6 size=640x480,2127,24,0
+2026-04-17T10:02:41.616,camera_info,0,red,,,,,camera_info_update,camera_ok frames=707 fps=6.6 size=640x480,2130,24,0
+2026-04-17T10:02:41.770,camera_info,0,red,,,,,camera_info_update,camera_ok frames=708 fps=6.6 size=640x480,2133,24,0
+2026-04-17T10:02:41.924,camera_info,0,red,,,,,camera_info_update,camera_ok frames=709 fps=6.6 size=640x480,2136,24,0
+2026-04-17T10:02:42.073,camera_info,0,red,,,,,camera_info_update,camera_ok frames=710 fps=6.6 size=640x480,2139,24,0
+2026-04-17T10:02:42.227,camera_info,0,red,,,,,camera_info_update,camera_ok frames=711 fps=6.6 size=640x480,2142,24,0
+2026-04-17T10:02:42.380,camera_info,0,red,,,,,camera_info_update,camera_ok frames=712 fps=6.6 size=640x480,2145,24,0
+2026-04-17T10:02:42.532,camera_info,0,red,,,,,camera_info_update,camera_ok frames=713 fps=6.6 size=640x480,2148,24,0
+2026-04-17T10:02:42.683,camera_info,0,red,,,,,camera_info_update,camera_ok frames=714 fps=6.6 size=640x480,2151,24,0
+2026-04-17T10:02:42.836,camera_info,0,red,,,,,camera_info_update,camera_ok frames=715 fps=6.6 size=640x480,2154,24,0
+2026-04-17T10:02:42.984,camera_info,0,red,,,,,camera_info_update,camera_ok frames=716 fps=6.6 size=640x480,2157,24,0
+2026-04-17T10:02:43.135,camera_info,0,red,,,,,camera_info_update,camera_ok frames=717 fps=6.6 size=640x480,2160,24,0
+2026-04-17T10:02:43.290,camera_info,0,red,,,,,camera_info_update,camera_ok frames=718 fps=6.6 size=640x480,2163,24,0
+2026-04-17T10:02:43.438,camera_info,0,red,,,,,camera_info_update,camera_ok frames=719 fps=6.6 size=640x480,2166,24,0
+2026-04-17T10:02:43.590,camera_info,0,red,,,,,camera_info_update,camera_ok frames=720 fps=6.6 size=640x480,2169,24,0
+2026-04-17T10:02:43.741,camera_info,0,red,,,,,camera_info_update,camera_ok frames=721 fps=6.6 size=640x480,2172,24,0
+2026-04-17T10:02:43.893,camera_info,0,red,,,,,camera_info_update,camera_ok frames=722 fps=6.6 size=640x480,2175,24,0
+2026-04-17T10:02:44.043,camera_info,0,red,,,,,camera_info_update,camera_ok frames=723 fps=6.6 size=640x480,2178,24,0
+2026-04-17T10:02:44.191,camera_info,0,red,,,,,camera_info_update,camera_ok frames=724 fps=6.6 size=640x480,2181,24,0
+2026-04-17T10:02:44.344,camera_info,0,red,,,,,camera_info_update,camera_ok frames=725 fps=6.6 size=640x480,2184,24,0
+2026-04-17T10:02:44.494,camera_info,0,red,,,,,camera_info_update,camera_ok frames=726 fps=6.6 size=640x480,2187,24,0
+2026-04-17T10:02:44.643,camera_info,0,red,,,,,camera_info_update,camera_ok frames=727 fps=6.6 size=640x480,2190,24,0
+2026-04-17T10:02:44.794,camera_info,0,red,,,,,camera_info_update,camera_ok frames=728 fps=6.6 size=640x480,2193,24,0
+2026-04-17T10:02:44.944,camera_info,0,red,,,,,camera_info_update,camera_ok frames=729 fps=6.6 size=640x480,2196,24,0
+2026-04-17T10:02:45.095,camera_info,0,red,,,,,camera_info_update,camera_ok frames=730 fps=6.6 size=640x480,2199,24,0
+2026-04-17T10:02:45.246,camera_info,0,red,,,,,camera_info_update,camera_ok frames=731 fps=6.6 size=640x480,2202,24,0
+2026-04-17T10:02:45.410,camera_info,0,red,,,,,camera_info_update,camera_ok frames=732 fps=6.6 size=640x480,2206,24,0
+2026-04-17T10:02:45.559,camera_info,0,red,,,,,camera_info_update,camera_ok frames=733 fps=6.6 size=640x480,2209,24,0
+2026-04-17T10:02:45.709,camera_info,0,red,,,,,camera_info_update,camera_ok frames=734 fps=6.6 size=640x480,2212,24,0
+2026-04-17T10:02:45.860,camera_info,0,red,,,,,camera_info_update,camera_ok frames=735 fps=6.6 size=640x480,2215,24,0
+2026-04-17T10:02:46.011,camera_info,0,red,,,,,camera_info_update,camera_ok frames=736 fps=6.6 size=640x480,2218,24,0
+2026-04-17T10:02:46.180,camera_info,0,red,,,,,camera_info_update,camera_ok frames=737 fps=6.6 size=640x480,2221,24,0
+2026-04-17T10:02:46.314,camera_info,0,red,,,,,camera_info_update,camera_ok frames=738 fps=6.6 size=640x480,2224,24,0
+2026-04-17T10:02:46.481,camera_info,0,red,,,,,camera_info_update,camera_ok frames=739 fps=6.6 size=640x480,2227,24,0
+2026-04-17T10:02:46.614,camera_info,0,red,,,,,camera_info_update,camera_ok frames=740 fps=6.6 size=640x480,2230,24,0
+2026-04-17T10:02:46.782,camera_info,0,red,,,,,camera_info_update,camera_ok frames=741 fps=6.6 size=640x480,2233,24,0
+2026-04-17T10:02:46.923,camera_info,0,red,,,,,camera_info_update,camera_ok frames=742 fps=6.6 size=640x480,2236,24,0
+2026-04-17T10:02:47.100,camera_info,0,red,,,,,camera_info_update,camera_ok frames=743 fps=6.6 size=640x480,2239,24,0
+2026-04-17T10:02:47.263,camera_info,0,red,,,,,camera_info_update,camera_ok frames=744 fps=6.6 size=640x480,2243,24,0
+2026-04-17T10:02:47.414,camera_info,0,red,,,,,camera_info_update,camera_ok frames=745 fps=6.4 size=640x480,2246,24,0
+2026-04-17T10:02:47.571,camera_info,0,red,,,,,camera_info_update,camera_ok frames=746 fps=6.4 size=640x480,2249,24,0
+2026-04-17T10:02:47.711,camera_info,0,red,,,,,camera_info_update,camera_ok frames=747 fps=6.4 size=640x480,2252,24,0
+2026-04-17T10:02:47.863,camera_info,0,red,,,,,camera_info_update,camera_ok frames=748 fps=6.4 size=640x480,2255,24,0
+2026-04-17T10:02:48.019,camera_info,0,red,,,,,camera_info_update,camera_ok frames=749 fps=6.4 size=640x480,2258,24,0
+2026-04-17T10:02:48.161,camera_info,0,red,,,,,camera_info_update,camera_ok frames=750 fps=6.4 size=640x480,2261,24,0
+2026-04-17T10:02:48.315,camera_info,0,red,,,,,camera_info_update,camera_ok frames=751 fps=6.4 size=640x480,2264,24,0
+2026-04-17T10:02:48.462,camera_info,0,red,,,,,camera_info_update,camera_ok frames=752 fps=6.6 size=640x480,2267,24,0
+2026-04-17T10:02:48.645,camera_info,0,red,,,,,camera_info_update,camera_ok frames=753 fps=6.6 size=640x480,2270,24,0
+2026-04-17T10:02:48.797,camera_info,0,red,,,,,camera_info_update,camera_ok frames=754 fps=6.6 size=640x480,2273,24,0
+2026-04-17T10:02:48.947,camera_info,0,red,,,,,camera_info_update,camera_ok frames=755 fps=6.6 size=640x480,2276,24,0
+2026-04-17T10:02:49.097,camera_info,0,red,,,,,camera_info_update,camera_ok frames=756 fps=6.6 size=640x480,2279,24,0
+2026-04-17T10:02:49.249,camera_info,0,red,,,,,camera_info_update,camera_ok frames=757 fps=6.6 size=640x480,2282,24,0
+2026-04-17T10:02:49.399,camera_info,0,red,,,,,camera_info_update,camera_ok frames=758 fps=6.6 size=640x480,2285,24,0
+2026-04-17T10:02:49.549,camera_info,0,red,,,,,camera_info_update,camera_ok frames=759 fps=6.4 size=640x480,2288,24,0
+2026-04-17T10:02:49.712,camera_info,0,red,,,,,camera_info_update,camera_ok frames=760 fps=6.4 size=640x480,2292,24,0
+2026-04-17T10:02:49.867,camera_info,0,red,,,,,camera_info_update,camera_ok frames=761 fps=6.4 size=640x480,2295,24,0
+2026-04-17T10:02:50.027,camera_info,0,red,,,,,camera_info_update,camera_ok frames=762 fps=6.4 size=640x480,2298,24,0
+2026-04-17T10:02:50.161,camera_info,0,red,,,,,camera_info_update,camera_ok frames=763 fps=6.4 size=640x480,2301,24,0
+2026-04-17T10:02:50.310,camera_info,0,red,,,,,camera_info_update,camera_ok frames=764 fps=6.4 size=640x480,2304,24,0
+2026-04-17T10:02:50.460,camera_info,0,red,,,,,camera_info_update,camera_ok frames=765 fps=6.4 size=640x480,2307,24,0
+2026-04-17T10:02:50.613,camera_info,0,red,,,,,camera_info_update,camera_ok frames=766 fps=6.6 size=640x480,2310,24,0
+2026-04-17T10:02:50.760,camera_info,0,red,,,,,camera_info_update,camera_ok frames=767 fps=6.6 size=640x480,2313,24,0
+2026-04-17T10:02:50.908,camera_info,0,red,,,,,camera_info_update,camera_ok frames=768 fps=6.6 size=640x480,2316,24,0
+2026-04-17T10:02:51.060,camera_info,0,red,,,,,camera_info_update,camera_ok frames=769 fps=6.6 size=640x480,2319,24,0
+2026-04-17T10:02:51.212,camera_info,0,red,,,,,camera_info_update,camera_ok frames=770 fps=6.6 size=640x480,2322,24,0
+2026-04-17T10:02:51.360,camera_info,0,red,,,,,camera_info_update,camera_ok frames=771 fps=6.6 size=640x480,2325,24,0
+2026-04-17T10:02:51.533,camera_info,0,red,,,,,camera_info_update,camera_ok frames=772 fps=6.6 size=640x480,2328,24,0
+2026-04-17T10:02:51.663,camera_info,0,red,,,,,camera_info_update,camera_ok frames=773 fps=6.6 size=640x480,2331,24,0
+2026-04-17T10:02:51.825,camera_info,0,red,,,,,camera_info_update,camera_ok frames=774 fps=6.6 size=640x480,2334,24,0
+2026-04-17T10:02:51.975,camera_info,0,red,,,,,camera_info_update,camera_ok frames=775 fps=6.6 size=640x480,2337,24,0
+2026-04-17T10:02:52.127,camera_info,0,red,,,,,camera_info_update,camera_ok frames=776 fps=6.6 size=640x480,2340,24,0
+2026-04-17T10:02:52.277,camera_info,0,red,,,,,camera_info_update,camera_ok frames=777 fps=6.6 size=640x480,2343,24,0
+2026-04-17T10:02:52.417,camera_info,0,red,,,,,camera_info_update,camera_ok frames=778 fps=6.6 size=640x480,2346,24,0
+2026-04-17T10:02:52.565,camera_info,0,red,,,,,camera_info_update,camera_ok frames=779 fps=6.6 size=640x480,2349,24,0
+2026-04-17T10:02:52.712,camera_info,0,red,,,,,camera_info_update,camera_ok frames=780 fps=6.7 size=640x480,2352,24,0
+2026-04-17T10:02:52.872,camera_info,0,red,,,,,camera_info_update,camera_ok frames=781 fps=6.7 size=640x480,2355,24,0
+2026-04-17T10:02:53.021,camera_info,0,red,,,,,camera_info_update,camera_ok frames=782 fps=6.7 size=640x480,2358,24,0
+2026-04-17T10:02:53.180,camera_info,0,red,,,,,camera_info_update,camera_ok frames=783 fps=6.7 size=640x480,2361,24,0
+2026-04-17T10:02:53.322,camera_info,0,red,,,,,camera_info_update,camera_ok frames=784 fps=6.7 size=640x480,2364,24,0
+2026-04-17T10:02:53.473,camera_info,0,red,,,,,camera_info_update,camera_ok frames=785 fps=6.7 size=640x480,2367,24,0
+2026-04-17T10:02:53.630,camera_info,0,red,,,,,camera_info_update,camera_ok frames=786 fps=6.7 size=640x480,2370,24,0
+2026-04-17T10:02:53.782,camera_info,0,red,,,,,camera_info_update,camera_ok frames=787 fps=6.5 size=640x480,2373,24,0
+2026-04-17T10:02:53.936,camera_info,0,red,,,,,camera_info_update,camera_ok frames=788 fps=6.5 size=640x480,2376,24,0
+2026-04-17T10:02:54.098,camera_info,0,red,,,,,camera_info_update,camera_ok frames=789 fps=6.5 size=640x480,2379,24,0
+2026-04-17T10:02:54.250,camera_info,0,red,,,,,camera_info_update,camera_ok frames=790 fps=6.5 size=640x480,2382,24,0
+2026-04-17T10:02:54.397,camera_info,0,red,,,,,camera_info_update,camera_ok frames=791 fps=6.5 size=640x480,2385,24,0
+2026-04-17T10:02:54.548,camera_info,0,red,,,,,camera_info_update,camera_ok frames=792 fps=6.5 size=640x480,2388,24,0
+2026-04-17T10:02:54.698,camera_info,0,red,,,,,camera_info_update,camera_ok frames=793 fps=6.5 size=640x480,2391,24,0
+2026-04-17T10:02:54.849,camera_info,0,red,,,,,camera_info_update,camera_ok frames=794 fps=6.6 size=640x480,2394,24,0
+2026-04-17T10:02:55.019,camera_info,0,red,,,,,camera_info_update,camera_ok frames=795 fps=6.6 size=640x480,2398,24,0
+2026-04-17T10:02:55.179,camera_info,0,red,,,,,camera_info_update,camera_ok frames=796 fps=6.6 size=640x480,2401,24,0
+2026-04-17T10:02:55.321,camera_info,0,red,,,,,camera_info_update,camera_ok frames=797 fps=6.6 size=640x480,2404,24,0
+2026-04-17T10:02:55.461,camera_info,0,red,,,,,camera_info_update,camera_ok frames=798 fps=6.6 size=640x480,2407,24,0
+2026-04-17T10:02:55.611,camera_info,0,red,,,,,camera_info_update,camera_ok frames=799 fps=6.6 size=640x480,2410,24,0
+2026-04-17T10:02:55.760,camera_info,0,red,,,,,camera_info_update,camera_ok frames=800 fps=6.6 size=640x480,2413,24,0
+2026-04-17T10:02:55.909,camera_info,0,red,,,,,camera_info_update,camera_ok frames=801 fps=6.6 size=640x480,2416,24,0
+2026-04-17T10:02:56.062,camera_info,0,red,,,,,camera_info_update,camera_ok frames=802 fps=6.6 size=640x480,2419,24,0
+2026-04-17T10:02:56.226,camera_info,0,red,,,,,camera_info_update,camera_ok frames=803 fps=6.6 size=640x480,2422,24,0
+2026-04-17T10:02:56.378,camera_info,0,red,,,,,camera_info_update,camera_ok frames=804 fps=6.6 size=640x480,2425,24,0
+2026-04-17T10:02:56.518,camera_info,0,red,,,,,camera_info_update,camera_ok frames=805 fps=6.6 size=640x480,2428,24,0
+2026-04-17T10:02:56.663,camera_info,0,red,,,,,camera_info_update,camera_ok frames=806 fps=6.6 size=640x480,2431,24,0
+2026-04-17T10:02:56.813,camera_info,0,red,,,,,camera_info_update,camera_ok frames=807 fps=6.6 size=640x480,2434,24,0
+2026-04-17T10:02:56.959,camera_info,0,red,,,,,camera_info_update,camera_ok frames=808 fps=6.6 size=640x480,2437,24,0
+2026-04-17T10:02:57.113,camera_info,0,red,,,,,camera_info_update,camera_ok frames=809 fps=6.6 size=640x480,2440,24,0
+2026-04-17T10:02:57.260,camera_info,0,red,,,,,camera_info_update,camera_ok frames=810 fps=6.6 size=640x480,2443,24,0
+2026-04-17T10:02:57.422,camera_info,0,red,,,,,camera_info_update,camera_ok frames=811 fps=6.6 size=640x480,2446,24,0
+2026-04-17T10:02:57.564,camera_info,0,red,,,,,camera_info_update,camera_ok frames=812 fps=6.6 size=640x480,2449,24,0
+2026-04-17T10:02:57.726,camera_info,0,red,,,,,camera_info_update,camera_ok frames=813 fps=6.6 size=640x480,2452,24,0
+2026-04-17T10:02:57.860,camera_info,0,red,,,,,camera_info_update,camera_ok frames=814 fps=6.6 size=640x480,2455,24,0
+2026-04-17T10:02:58.012,camera_info,0,red,,,,,camera_info_update,camera_ok frames=815 fps=6.7 size=640x480,2458,24,0
+2026-04-17T10:02:58.178,camera_info,0,red,,,,,camera_info_update,camera_ok frames=816 fps=6.7 size=640x480,2461,24,0
+2026-04-17T10:02:58.320,camera_info,0,red,,,,,camera_info_update,camera_ok frames=817 fps=6.7 size=640x480,2464,24,0
+2026-04-17T10:02:58.472,camera_info,0,red,,,,,camera_info_update,camera_ok frames=818 fps=6.7 size=640x480,2467,24,0
+2026-04-17T10:02:58.623,camera_info,0,red,,,,,camera_info_update,camera_ok frames=819 fps=6.7 size=640x480,2470,24,0
+2026-04-17T10:02:58.774,camera_info,0,red,,,,,camera_info_update,camera_ok frames=820 fps=6.7 size=640x480,2473,24,0
+2026-04-17T10:02:58.925,camera_info,0,red,,,,,camera_info_update,camera_ok frames=821 fps=6.7 size=640x480,2476,24,0
+2026-04-17T10:02:59.076,camera_info,0,red,,,,,camera_info_update,camera_ok frames=822 fps=6.6 size=640x480,2479,24,0
+2026-04-17T10:02:59.246,camera_info,0,red,,,,,camera_info_update,camera_ok frames=823 fps=6.6 size=640x480,2482,24,0
+2026-04-17T10:02:59.398,camera_info,0,red,,,,,camera_info_update,camera_ok frames=824 fps=6.6 size=640x480,2485,24,0
+2026-04-17T10:02:59.547,camera_info,0,red,,,,,camera_info_update,camera_ok frames=825 fps=6.6 size=640x480,2488,24,0
+2026-04-17T10:02:59.699,camera_info,0,red,,,,,camera_info_update,camera_ok frames=826 fps=6.6 size=640x480,2491,24,0
+2026-04-17T10:02:59.865,camera_info,0,red,,,,,camera_info_update,camera_ok frames=827 fps=6.6 size=640x480,2495,24,0
+2026-04-17T10:03:00.014,camera_info,0,red,,,,,camera_info_update,camera_ok frames=828 fps=6.6 size=640x480,2498,24,0
+2026-04-17T10:03:00.187,camera_info,0,red,,,,,camera_info_update,camera_ok frames=829 fps=6.5 size=640x480,2501,24,0
+2026-04-17T10:03:00.321,camera_info,0,red,,,,,camera_info_update,camera_ok frames=830 fps=6.5 size=640x480,2504,24,0
+2026-04-17T10:03:00.471,camera_info,0,red,,,,,camera_info_update,camera_ok frames=831 fps=6.5 size=640x480,2507,24,0
+2026-04-17T10:03:00.621,camera_info,0,red,,,,,camera_info_update,camera_ok frames=832 fps=6.5 size=640x480,2510,24,0
+2026-04-17T10:03:00.770,camera_info,0,red,,,,,camera_info_update,camera_ok frames=833 fps=6.5 size=640x480,2513,24,0
+2026-04-17T10:03:00.921,camera_info,0,red,,,,,camera_info_update,camera_ok frames=834 fps=6.5 size=640x480,2516,24,0
+2026-04-17T10:03:01.072,camera_info,0,red,,,,,camera_info_update,camera_ok frames=835 fps=6.5 size=640x480,2519,24,0
+2026-04-17T10:03:01.219,camera_info,0,red,,,,,camera_info_update,camera_ok frames=836 fps=6.6 size=640x480,2522,24,0
+2026-04-17T10:03:01.369,camera_info,0,red,,,,,camera_info_update,camera_ok frames=837 fps=6.6 size=640x480,2525,24,0
+2026-04-17T10:03:01.522,camera_info,0,red,,,,,camera_info_update,camera_ok frames=838 fps=6.6 size=640x480,2528,24,0
+2026-04-17T10:03:01.673,camera_info,0,red,,,,,camera_info_update,camera_ok frames=839 fps=6.6 size=640x480,2531,24,0
+2026-04-17T10:03:01.818,camera_info,0,red,,,,,camera_info_update,camera_ok frames=840 fps=6.6 size=640x480,2534,24,0
+2026-04-17T10:03:01.969,camera_info,0,red,,,,,camera_info_update,camera_ok frames=841 fps=6.6 size=640x480,2537,24,0
+2026-04-17T10:03:02.119,camera_info,0,red,,,,,camera_info_update,camera_ok frames=842 fps=6.6 size=640x480,2540,24,0
+2026-04-17T10:03:02.270,camera_info,0,red,,,,,camera_info_update,camera_ok frames=843 fps=6.7 size=640x480,2543,24,0
+2026-04-17T10:03:02.418,camera_info,0,red,,,,,camera_info_update,camera_ok frames=844 fps=6.7 size=640x480,2546,24,0
+2026-04-17T10:03:02.568,camera_info,0,red,,,,,camera_info_update,camera_ok frames=845 fps=6.7 size=640x480,2549,24,0
+2026-04-17T10:03:02.725,camera_info,0,red,,,,,camera_info_update,camera_ok frames=846 fps=6.7 size=640x480,2552,24,0
+2026-04-17T10:03:02.876,camera_info,0,red,,,,,camera_info_update,camera_ok frames=847 fps=6.7 size=640x480,2555,24,0
+2026-04-17T10:03:03.018,camera_info,0,red,,,,,camera_info_update,camera_ok frames=848 fps=6.7 size=640x480,2558,24,0
+2026-04-17T10:03:03.169,camera_info,0,red,,,,,camera_info_update,camera_ok frames=849 fps=6.7 size=640x480,2561,24,0
+2026-04-17T10:03:03.322,camera_info,0,red,,,,,camera_info_update,camera_ok frames=850 fps=6.7 size=640x480,2564,24,0
+2026-04-17T10:03:03.478,camera_info,0,red,,,,,camera_info_update,camera_ok frames=851 fps=6.7 size=640x480,2567,24,0
+2026-04-17T10:03:03.621,camera_info,0,red,,,,,camera_info_update,camera_ok frames=852 fps=6.7 size=640x480,2570,24,0
+2026-04-17T10:03:03.765,camera_info,0,red,,,,,camera_info_update,camera_ok frames=853 fps=6.7 size=640x480,2573,24,0
+2026-04-17T10:03:03.914,camera_info,0,red,,,,,camera_info_update,camera_ok frames=854 fps=6.7 size=640x480,2576,24,0
+2026-04-17T10:03:04.077,camera_info,0,red,,,,,camera_info_update,camera_ok frames=855 fps=6.7 size=640x480,2579,24,0
+2026-04-17T10:03:04.215,camera_info,0,red,,,,,camera_info_update,camera_ok frames=856 fps=6.7 size=640x480,2582,24,0
+2026-04-17T10:03:04.363,camera_info,0,red,,,,,camera_info_update,camera_ok frames=857 fps=6.7 size=640x480,2585,24,0
+2026-04-17T10:03:04.516,camera_info,0,red,,,,,camera_info_update,camera_ok frames=858 fps=6.7 size=640x480,2588,24,0
+2026-04-17T10:03:04.666,camera_info,0,red,,,,,camera_info_update,camera_ok frames=859 fps=6.7 size=640x480,2591,24,0
+2026-04-17T10:03:04.816,camera_info,0,red,,,,,camera_info_update,camera_ok frames=860 fps=6.7 size=640x480,2594,24,0
+2026-04-17T10:03:04.989,camera_info,0,red,,,,,camera_info_update,camera_ok frames=861 fps=6.7 size=640x480,2597,24,0
+2026-04-17T10:03:05.119,camera_info,0,red,,,,,camera_info_update,camera_ok frames=862 fps=6.7 size=640x480,2600,24,0
+2026-04-17T10:03:05.267,camera_info,0,red,,,,,camera_info_update,camera_ok frames=863 fps=6.7 size=640x480,2603,24,0
+2026-04-17T10:03:05.430,camera_info,0,red,,,,,camera_info_update,camera_ok frames=864 fps=6.6 size=640x480,2606,24,0
+2026-04-17T10:03:05.568,camera_info,0,red,,,,,camera_info_update,camera_ok frames=865 fps=6.6 size=640x480,2609,24,0
+2026-04-17T10:03:05.718,camera_info,0,red,,,,,camera_info_update,camera_ok frames=866 fps=6.6 size=640x480,2612,24,0
+2026-04-17T10:03:05.876,camera_info,0,red,,,,,camera_info_update,camera_ok frames=867 fps=6.6 size=640x480,2615,24,0
+2026-04-17T10:03:06.029,camera_info,0,red,,,,,camera_info_update,camera_ok frames=868 fps=6.6 size=640x480,2618,24,0
+2026-04-17T10:03:06.181,camera_info,0,red,,,,,camera_info_update,camera_ok frames=869 fps=6.6 size=640x480,2621,24,0
+2026-04-17T10:03:06.330,camera_info,0,red,,,,,camera_info_update,camera_ok frames=870 fps=6.6 size=640x480,2624,24,0
+2026-04-17T10:03:06.479,camera_info,0,red,,,,,camera_info_update,camera_ok frames=871 fps=6.6 size=640x480,2627,24,0
+2026-04-17T10:03:06.633,camera_info,0,red,,,,,camera_info_update,camera_ok frames=872 fps=6.6 size=640x480,2630,24,0
+2026-04-17T10:03:06.781,camera_info,0,red,,,,,camera_info_update,camera_ok frames=873 fps=6.6 size=640x480,2633,24,0
+2026-04-17T10:03:06.932,camera_info,0,red,,,,,camera_info_update,camera_ok frames=874 fps=6.6 size=640x480,2636,24,0
+2026-04-17T10:03:07.082,camera_info,0,red,,,,,camera_info_update,camera_ok frames=875 fps=6.6 size=640x480,2639,24,0
+2026-04-17T10:03:07.233,camera_info,0,red,,,,,camera_info_update,camera_ok frames=876 fps=6.6 size=640x480,2642,24,0
+2026-04-17T10:03:07.382,camera_info,0,red,,,,,camera_info_update,camera_ok frames=877 fps=6.6 size=640x480,2645,24,0
+2026-04-17T10:03:07.534,camera_info,0,red,,,,,camera_info_update,camera_ok frames=878 fps=6.6 size=640x480,2648,24,0
+2026-04-17T10:03:07.686,camera_info,0,red,,,,,camera_info_update,camera_ok frames=879 fps=6.6 size=640x480,2651,24,0
+2026-04-17T10:03:07.835,camera_info,0,red,,,,,camera_info_update,camera_ok frames=880 fps=6.6 size=640x480,2654,24,0
+2026-04-17T10:03:07.985,camera_info,0,red,,,,,camera_info_update,camera_ok frames=881 fps=6.6 size=640x480,2657,24,0
+2026-04-17T10:03:08.135,camera_info,0,red,,,,,camera_info_update,camera_ok frames=882 fps=6.6 size=640x480,2660,24,0
+2026-04-17T10:03:08.287,camera_info,0,red,,,,,camera_info_update,camera_ok frames=883 fps=6.6 size=640x480,2663,24,0
+2026-04-17T10:03:08.440,camera_info,0,red,,,,,camera_info_update,camera_ok frames=884 fps=6.6 size=640x480,2666,24,0
+2026-04-17T10:03:08.591,camera_info,0,red,,,,,camera_info_update,camera_ok frames=885 fps=6.6 size=640x480,2669,24,0
+2026-04-17T10:03:08.741,camera_info,0,red,,,,,camera_info_update,camera_ok frames=886 fps=6.6 size=640x480,2672,24,0
+2026-04-17T10:03:08.890,camera_info,0,red,,,,,camera_info_update,camera_ok frames=887 fps=6.6 size=640x480,2675,24,0
+2026-04-17T10:03:09.042,camera_info,0,red,,,,,camera_info_update,camera_ok frames=888 fps=6.6 size=640x480,2678,24,0
+2026-04-17T10:03:09.191,camera_info,0,red,,,,,camera_info_update,camera_ok frames=889 fps=6.6 size=640x480,2681,24,0
+2026-04-17T10:03:09.339,camera_info,0,red,,,,,camera_info_update,camera_ok frames=890 fps=6.6 size=640x480,2684,24,0
+2026-04-17T10:03:09.495,camera_info,0,red,,,,,camera_info_update,camera_ok frames=891 fps=6.6 size=640x480,2687,24,0
+2026-04-17T10:03:09.642,camera_info,0,red,,,,,camera_info_update,camera_ok frames=892 fps=6.7 size=640x480,2690,24,0
+2026-04-17T10:03:09.795,camera_info,0,red,,,,,camera_info_update,camera_ok frames=893 fps=6.7 size=640x480,2693,24,0
+2026-04-17T10:03:09.950,camera_info,0,red,,,,,camera_info_update,camera_ok frames=894 fps=6.7 size=640x480,2696,24,0
+2026-04-17T10:03:10.121,camera_info,0,red,,,,,camera_info_update,camera_ok frames=895 fps=6.7 size=640x480,2700,24,0
+2026-04-17T10:03:10.277,camera_info,0,red,,,,,camera_info_update,camera_ok frames=896 fps=6.7 size=640x480,2703,24,0
+2026-04-17T10:03:10.422,camera_info,0,red,,,,,camera_info_update,camera_ok frames=897 fps=6.7 size=640x480,2706,24,0
+2026-04-17T10:03:10.569,camera_info,0,red,,,,,camera_info_update,camera_ok frames=898 fps=6.7 size=640x480,2709,24,0
+2026-04-17T10:03:10.711,camera_info,0,red,,,,,camera_info_update,camera_ok frames=899 fps=6.6 size=640x480,2712,24,0
+2026-04-17T10:03:10.862,camera_info,0,red,,,,,camera_info_update,camera_ok frames=900 fps=6.6 size=640x480,2715,24,0
+2026-04-17T10:03:11.010,camera_info,0,red,,,,,camera_info_update,camera_ok frames=901 fps=6.6 size=640x480,2718,24,0
+2026-04-17T10:03:11.158,camera_info,0,red,,,,,camera_info_update,camera_ok frames=902 fps=6.6 size=640x480,2721,24,0
+2026-04-17T10:03:11.310,camera_info,0,red,,,,,camera_info_update,camera_ok frames=903 fps=6.6 size=640x480,2724,24,0
+2026-04-17T10:03:11.460,camera_info,0,red,,,,,camera_info_update,camera_ok frames=904 fps=6.6 size=640x480,2727,24,0
+2026-04-17T10:03:11.608,camera_info,0,red,,,,,camera_info_update,camera_ok frames=905 fps=6.6 size=640x480,2730,24,0
+2026-04-17T10:03:11.761,camera_info,0,red,,,,,camera_info_update,camera_ok frames=906 fps=6.7 size=640x480,2733,24,0
+2026-04-17T10:03:11.929,camera_info,0,red,,,,,camera_info_update,camera_ok frames=907 fps=6.7 size=640x480,2736,24,0
+2026-04-17T10:03:12.081,camera_info,0,red,,,,,camera_info_update,camera_ok frames=908 fps=6.7 size=640x480,2739,24,0
+2026-04-17T10:03:12.232,camera_info,0,red,,,,,camera_info_update,camera_ok frames=909 fps=6.7 size=640x480,2742,24,0
+2026-04-17T10:03:12.382,camera_info,0,red,,,,,camera_info_update,camera_ok frames=910 fps=6.7 size=640x480,2745,24,0
+2026-04-17T10:03:12.533,camera_info,0,red,,,,,camera_info_update,camera_ok frames=911 fps=6.7 size=640x480,2748,24,0
+2026-04-17T10:03:12.684,camera_info,0,red,,,,,camera_info_update,camera_ok frames=912 fps=6.7 size=640x480,2751,24,0
+2026-04-17T10:03:12.863,camera_info,0,red,,,,,camera_info_update,camera_ok frames=913 fps=6.5 size=640x480,2754,24,0
+2026-04-17T10:03:12.994,camera_info,0,red,,,,,camera_info_update,camera_ok frames=914 fps=6.5 size=640x480,2757,24,0
+2026-04-17T10:03:13.145,camera_info,0,red,,,,,camera_info_update,camera_ok frames=915 fps=6.5 size=640x480,2760,24,0
+2026-04-17T10:03:13.296,camera_info,0,red,,,,,camera_info_update,camera_ok frames=916 fps=6.5 size=640x480,2763,24,0
+2026-04-17T10:03:13.442,camera_info,0,red,,,,,camera_info_update,camera_ok frames=917 fps=6.5 size=640x480,2766,24,0
+2026-04-17T10:03:13.592,camera_info,0,red,,,,,camera_info_update,camera_ok frames=918 fps=6.5 size=640x480,2769,24,0
+2026-04-17T10:03:13.744,camera_info,0,red,,,,,camera_info_update,camera_ok frames=919 fps=6.5 size=640x480,2772,24,0
+2026-04-17T10:03:13.892,camera_info,0,red,,,,,camera_info_update,camera_ok frames=920 fps=6.6 size=640x480,2775,24,0
+2026-04-17T10:03:14.040,camera_info,0,red,,,,,camera_info_update,camera_ok frames=921 fps=6.6 size=640x480,2778,24,0
+2026-04-17T10:03:14.191,camera_info,0,red,,,,,camera_info_update,camera_ok frames=922 fps=6.6 size=640x480,2781,24,0
+2026-04-17T10:03:14.339,camera_info,0,red,,,,,camera_info_update,camera_ok frames=923 fps=6.6 size=640x480,2784,24,0
+2026-04-17T10:03:14.489,camera_info,0,red,,,,,camera_info_update,camera_ok frames=924 fps=6.6 size=640x480,2787,24,0
+2026-04-17T10:03:14.638,camera_info,0,red,,,,,camera_info_update,camera_ok frames=925 fps=6.6 size=640x480,2790,24,0
+2026-04-17T10:03:14.787,camera_info,0,red,,,,,camera_info_update,camera_ok frames=926 fps=6.6 size=640x480,2793,24,0
+2026-04-17T10:03:14.937,camera_info,0,red,,,,,camera_info_update,camera_ok frames=927 fps=6.7 size=640x480,2796,24,0
+2026-04-17T10:03:15.086,camera_info,0,red,,,,,camera_info_update,camera_ok frames=928 fps=6.7 size=640x480,2799,24,0
+2026-04-17T10:03:15.237,camera_info,0,red,,,,,camera_info_update,camera_ok frames=929 fps=6.7 size=640x480,2802,24,0
+2026-04-17T10:03:15.386,camera_info,0,red,,,,,camera_info_update,camera_ok frames=930 fps=6.7 size=640x480,2805,24,0
+2026-04-17T10:03:15.542,camera_info,0,red,,,,,camera_info_update,camera_ok frames=931 fps=6.7 size=640x480,2808,24,0
+2026-04-17T10:03:15.691,camera_info,0,red,,,,,camera_info_update,camera_ok frames=932 fps=6.7 size=640x480,2811,24,0
+2026-04-17T10:03:15.838,camera_info,0,red,,,,,camera_info_update,camera_ok frames=933 fps=6.7 size=640x480,2814,24,0
+2026-04-17T10:03:15.992,camera_info,0,red,,,,,camera_info_update,camera_ok frames=934 fps=6.7 size=640x480,2817,24,0
+2026-04-17T10:03:16.140,camera_info,0,red,,,,,camera_info_update,camera_ok frames=935 fps=6.7 size=640x480,2820,24,0
+2026-04-17T10:03:16.289,camera_info,0,red,,,,,camera_info_update,camera_ok frames=936 fps=6.7 size=640x480,2823,24,0
+2026-04-17T10:03:16.438,camera_info,0,red,,,,,camera_info_update,camera_ok frames=937 fps=6.7 size=640x480,2826,24,0
+2026-04-17T10:03:16.588,camera_info,0,red,,,,,camera_info_update,camera_ok frames=938 fps=6.7 size=640x480,2829,24,0
+2026-04-17T10:03:16.737,camera_info,0,red,,,,,camera_info_update,camera_ok frames=939 fps=6.7 size=640x480,2832,24,0
+2026-04-17T10:03:16.887,camera_info,0,red,,,,,camera_info_update,camera_ok frames=940 fps=6.7 size=640x480,2835,24,0
+2026-04-17T10:03:17.038,camera_info,0,red,,,,,camera_info_update,camera_ok frames=941 fps=6.7 size=640x480,2838,24,0
+2026-04-17T10:03:17.190,camera_info,0,red,,,,,camera_info_update,camera_ok frames=942 fps=6.7 size=640x480,2841,24,0
+2026-04-17T10:03:17.336,camera_info,0,red,,,,,camera_info_update,camera_ok frames=943 fps=6.7 size=640x480,2844,24,0
+2026-04-17T10:03:17.485,camera_info,0,red,,,,,camera_info_update,camera_ok frames=944 fps=6.7 size=640x480,2847,24,0
+2026-04-17T10:03:17.634,camera_info,0,red,,,,,camera_info_update,camera_ok frames=945 fps=6.7 size=640x480,2850,24,0
+2026-04-17T10:03:17.785,camera_info,0,red,,,,,camera_info_update,camera_ok frames=946 fps=6.7 size=640x480,2853,24,0
+2026-04-17T10:03:17.933,camera_info,0,red,,,,,camera_info_update,camera_ok frames=947 fps=6.7 size=640x480,2856,24,0
+2026-04-17T10:03:18.086,camera_info,0,red,,,,,camera_info_update,camera_ok frames=948 fps=6.7 size=640x480,2859,24,0
+2026-04-17T10:03:18.237,camera_info,0,red,,,,,camera_info_update,camera_ok frames=949 fps=6.7 size=640x480,2862,24,0
+2026-04-17T10:03:18.384,camera_info,0,red,,,,,camera_info_update,camera_ok frames=950 fps=6.7 size=640x480,2865,24,0
+2026-04-17T10:03:18.537,camera_info,0,red,,,,,camera_info_update,camera_ok frames=951 fps=6.7 size=640x480,2868,24,0
+2026-04-17T10:03:18.685,camera_info,0,red,,,,,camera_info_update,camera_ok frames=952 fps=6.7 size=640x480,2871,24,0
+2026-04-17T10:03:18.832,camera_info,0,red,,,,,camera_info_update,camera_ok frames=953 fps=6.7 size=640x480,2874,24,0
+2026-04-17T10:03:18.982,camera_info,0,red,,,,,camera_info_update,camera_ok frames=954 fps=6.7 size=640x480,2877,24,0
+2026-04-17T10:03:19.131,camera_info,0,red,,,,,camera_info_update,camera_ok frames=955 fps=6.7 size=640x480,2880,24,0
+2026-04-17T10:03:19.280,camera_info,0,red,,,,,camera_info_update,camera_ok frames=956 fps=6.7 size=640x480,2883,24,0
+2026-04-17T10:03:19.431,camera_info,0,red,,,,,camera_info_update,camera_ok frames=957 fps=6.7 size=640x480,2886,24,0
+2026-04-17T10:03:19.578,camera_info,0,red,,,,,camera_info_update,camera_ok frames=958 fps=6.7 size=640x480,2889,24,0
+2026-04-17T10:03:19.728,camera_info,0,red,,,,,camera_info_update,camera_ok frames=959 fps=6.7 size=640x480,2892,24,0
+2026-04-17T10:03:19.880,camera_info,0,red,,,,,camera_info_update,camera_ok frames=960 fps=6.7 size=640x480,2895,24,0
+2026-04-17T10:03:20.026,camera_info,0,red,,,,,camera_info_update,camera_ok frames=961 fps=6.7 size=640x480,2898,24,0
+2026-04-17T10:03:20.178,camera_info,0,red,,,,,camera_info_update,camera_ok frames=962 fps=6.7 size=640x480,2901,24,0
+2026-04-17T10:03:20.327,camera_info,0,red,,,,,camera_info_update,camera_ok frames=963 fps=6.7 size=640x480,2904,24,0
+2026-04-17T10:03:20.476,camera_info,0,red,,,,,camera_info_update,camera_ok frames=964 fps=6.7 size=640x480,2907,24,0
+2026-04-17T10:03:20.624,camera_info,0,red,,,,,camera_info_update,camera_ok frames=965 fps=6.7 size=640x480,2910,24,0
+2026-04-17T10:03:20.773,camera_info,0,red,,,,,camera_info_update,camera_ok frames=966 fps=6.7 size=640x480,2913,24,0
+2026-04-17T10:03:20.925,camera_info,0,red,,,,,camera_info_update,camera_ok frames=967 fps=6.7 size=640x480,2916,24,0
+2026-04-17T10:03:21.073,camera_info,0,red,,,,,camera_info_update,camera_ok frames=968 fps=6.7 size=640x480,2919,24,0
+2026-04-17T10:03:21.221,camera_info,0,red,,,,,camera_info_update,camera_ok frames=969 fps=6.7 size=640x480,2922,24,0
+2026-04-17T10:03:21.371,camera_info,0,red,,,,,camera_info_update,camera_ok frames=970 fps=6.7 size=640x480,2925,24,0
+2026-04-17T10:03:21.520,camera_info,0,red,,,,,camera_info_update,camera_ok frames=971 fps=6.7 size=640x480,2928,24,0
+2026-04-17T10:03:21.669,camera_info,0,red,,,,,camera_info_update,camera_ok frames=972 fps=6.7 size=640x480,2931,24,0
+2026-04-17T10:03:21.818,camera_info,0,red,,,,,camera_info_update,camera_ok frames=973 fps=6.7 size=640x480,2934,24,0
+2026-04-17T10:03:21.976,camera_info,0,red,,,,,camera_info_update,camera_ok frames=974 fps=6.7 size=640x480,2937,24,0
+2026-04-17T10:03:22.118,camera_info,0,red,,,,,camera_info_update,camera_ok frames=975 fps=6.7 size=640x480,2940,24,0
+2026-04-17T10:03:22.265,camera_info,0,red,,,,,camera_info_update,camera_ok frames=976 fps=6.7 size=640x480,2943,24,0
+2026-04-17T10:03:22.441,camera_info,0,red,,,,,camera_info_update,camera_ok frames=977 fps=6.7 size=640x480,2946,24,0
+2026-04-17T10:03:22.566,camera_info,0,red,,,,,camera_info_update,camera_ok frames=978 fps=6.7 size=640x480,2949,24,0
+2026-04-17T10:03:22.716,camera_info,0,red,,,,,camera_info_update,camera_ok frames=979 fps=6.7 size=640x480,2952,24,0
+2026-04-17T10:03:22.880,camera_info,0,red,,,,,camera_info_update,camera_ok frames=980 fps=6.7 size=640x480,2955,24,0
+2026-04-17T10:03:23.019,camera_info,0,red,,,,,camera_info_update,camera_ok frames=981 fps=6.7 size=640x480,2958,24,0
+2026-04-17T10:03:23.167,camera_info,0,red,,,,,camera_info_update,camera_ok frames=982 fps=6.7 size=640x480,2961,24,0
+2026-04-17T10:03:23.316,camera_info,0,red,,,,,camera_info_update,camera_ok frames=983 fps=6.7 size=640x480,2964,24,0
+2026-04-17T10:03:23.468,camera_info,0,red,,,,,camera_info_update,camera_ok frames=984 fps=6.7 size=640x480,2967,24,0
+2026-04-17T10:03:23.622,camera_info,0,red,,,,,camera_info_update,camera_ok frames=985 fps=6.7 size=640x480,2970,24,0
+2026-04-17T10:03:23.771,camera_info,0,red,,,,,camera_info_update,camera_ok frames=986 fps=6.7 size=640x480,2973,24,0
+2026-04-17T10:03:23.925,camera_info,0,red,,,,,camera_info_update,camera_ok frames=987 fps=6.7 size=640x480,2976,24,0
+2026-04-17T10:03:24.076,camera_info,0,red,,,,,camera_info_update,camera_ok frames=988 fps=6.7 size=640x480,2979,24,0
+2026-04-17T10:03:24.225,camera_info,0,red,,,,,camera_info_update,camera_ok frames=989 fps=6.7 size=640x480,2982,24,0
+2026-04-17T10:03:24.377,camera_info,0,red,,,,,camera_info_update,camera_ok frames=990 fps=6.6 size=640x480,2985,24,0
+2026-04-17T10:03:24.531,camera_info,0,red,,,,,camera_info_update,camera_ok frames=991 fps=6.6 size=640x480,2988,24,0
+2026-04-17T10:03:24.680,camera_info,0,red,,,,,camera_info_update,camera_ok frames=992 fps=6.6 size=640x480,2991,24,0
+2026-04-17T10:03:24.830,camera_info,0,red,,,,,camera_info_update,camera_ok frames=993 fps=6.6 size=640x480,2994,24,0
+2026-04-17T10:03:24.980,camera_info,0,red,,,,,camera_info_update,camera_ok frames=994 fps=6.6 size=640x480,2997,24,0
+2026-04-17T10:03:25.131,camera_info,0,red,,,,,camera_info_update,camera_ok frames=995 fps=6.6 size=640x480,3000,24,0
+2026-04-17T10:03:25.281,camera_info,0,red,,,,,camera_info_update,camera_ok frames=996 fps=6.6 size=640x480,3003,24,0
+2026-04-17T10:03:25.430,camera_info,0,red,,,,,camera_info_update,camera_ok frames=997 fps=6.6 size=640x480,3006,24,0
+2026-04-17T10:03:25.584,camera_info,0,red,,,,,camera_info_update,camera_ok frames=998 fps=6.6 size=640x480,3009,24,0
+2026-04-17T10:03:25.732,camera_info,0,red,,,,,camera_info_update,camera_ok frames=999 fps=6.6 size=640x480,3012,24,0
+2026-04-17T10:03:25.882,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1000 fps=6.6 size=640x480,3015,24,0
+2026-04-17T10:03:26.033,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1001 fps=6.6 size=640x480,3018,24,0
+2026-04-17T10:03:26.187,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1002 fps=6.6 size=640x480,3021,24,0
+2026-04-17T10:03:26.341,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1003 fps=6.6 size=640x480,3024,24,0
+2026-04-17T10:03:26.488,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1004 fps=6.6 size=640x480,3027,24,0
+2026-04-17T10:03:26.640,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1005 fps=6.6 size=640x480,3030,24,0
+2026-04-17T10:03:26.791,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1006 fps=6.6 size=640x480,3033,24,0
+2026-04-17T10:03:26.941,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1007 fps=6.6 size=640x480,3036,24,0
+2026-04-17T10:03:27.093,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1008 fps=6.6 size=640x480,3039,24,0
+2026-04-17T10:03:27.243,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1009 fps=6.6 size=640x480,3042,24,0
+2026-04-17T10:03:27.393,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1010 fps=6.6 size=640x480,3045,24,0
+2026-04-17T10:03:27.544,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1011 fps=6.6 size=640x480,3048,24,0
+2026-04-17T10:03:27.699,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1012 fps=6.6 size=640x480,3051,24,0
+2026-04-17T10:03:27.849,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1013 fps=6.6 size=640x480,3054,24,0
+2026-04-17T10:03:27.998,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1014 fps=6.6 size=640x480,3057,24,0
+2026-04-17T10:03:28.148,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1015 fps=6.6 size=640x480,3060,24,0
+2026-04-17T10:03:28.331,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1016 fps=6.6 size=640x480,3064,24,0
+2026-04-17T10:03:28.448,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1017 fps=6.6 size=640x480,3066,24,0
+2026-04-17T10:03:28.622,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1018 fps=6.6 size=640x480,3070,24,0
+2026-04-17T10:03:28.750,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1019 fps=6.6 size=640x480,3072,24,0
+2026-04-17T10:03:28.917,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1020 fps=6.6 size=640x480,3076,24,0
+2026-04-17T10:03:29.048,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1021 fps=6.6 size=640x480,3078,24,0
+2026-04-17T10:03:29.198,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1022 fps=6.6 size=640x480,3081,24,0
+2026-04-17T10:03:29.347,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1023 fps=6.6 size=640x480,3084,24,0
+2026-04-17T10:03:29.495,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1024 fps=6.6 size=640x480,3087,24,0
+2026-04-17T10:03:29.649,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1025 fps=6.7 size=640x480,3090,24,0
+2026-04-17T10:03:29.811,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1026 fps=6.7 size=640x480,3094,24,0
+2026-04-17T10:03:29.976,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1027 fps=6.7 size=640x480,3097,24,0
+2026-04-17T10:03:30.126,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1028 fps=6.7 size=640x480,3100,24,0
+2026-04-17T10:03:30.276,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1029 fps=6.7 size=640x480,3103,24,0
+2026-04-17T10:03:30.424,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1030 fps=6.7 size=640x480,3106,24,0
+2026-04-17T10:03:30.559,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1031 fps=6.7 size=640x480,3109,24,0
+2026-04-17T10:03:30.710,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1032 fps=6.6 size=640x480,3112,24,0
+2026-04-17T10:03:30.875,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1033 fps=6.6 size=640x480,3115,24,0
+2026-04-17T10:03:31.019,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1034 fps=6.6 size=640x480,3118,24,0
+2026-04-17T10:03:31.168,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1035 fps=6.6 size=640x480,3121,24,0
+2026-04-17T10:03:31.331,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1036 fps=6.6 size=640x480,3124,24,0
+2026-04-17T10:03:31.460,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1037 fps=6.6 size=640x480,3127,24,0
+2026-04-17T10:03:31.613,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1038 fps=6.6 size=640x480,3130,24,0
+2026-04-17T10:03:31.765,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1039 fps=6.7 size=640x480,3133,24,0
+2026-04-17T10:03:31.908,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1040 fps=6.7 size=640x480,3136,24,0
+2026-04-17T10:03:32.070,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1041 fps=6.7 size=640x480,3139,24,0
+2026-04-17T10:03:32.213,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1042 fps=6.7 size=640x480,3142,24,0
+2026-04-17T10:03:32.359,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1043 fps=6.7 size=640x480,3145,24,0
+2026-04-17T10:03:32.533,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1044 fps=6.7 size=640x480,3148,24,0
+2026-04-17T10:03:32.665,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1045 fps=6.7 size=640x480,3151,24,0
+2026-04-17T10:03:32.808,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1046 fps=6.7 size=640x480,3154,24,0
+2026-04-17T10:03:32.973,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1047 fps=6.7 size=640x480,3157,24,0
+2026-04-17T10:03:33.110,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1048 fps=6.7 size=640x480,3160,24,0
+2026-04-17T10:03:33.262,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1049 fps=6.7 size=640x480,3163,24,0
+2026-04-17T10:03:33.308,target_detected,0,red,True,-320.00,190.00,60.00,red err_x=-320 err_y=190 r=60,camera_ok frames=1049 fps=6.7 size=640x480,3164,25,0
+2026-04-17T10:03:33.355,target_detected,0,red,True,-304.00,189.00,60.00,red err_x=-304 err_y=189 r=60,camera_ok frames=1049 fps=6.7 size=640x480,3165,26,0
+2026-04-17T10:03:33.409,target_detected,0,red,True,-251.00,184.00,60.00,red err_x=-251 err_y=184 r=60,camera_ok frames=1049 fps=6.7 size=640x480,3166,27,0
+2026-04-17T10:03:33.416,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1050 fps=6.7 size=640x480,3166,27,0
+2026-04-17T10:03:33.456,target_detected,0,red,True,-154.00,171.00,59.00,red err_x=-154 err_y=171 r=59,camera_ok frames=1050 fps=6.7 size=640x480,3167,28,0
+2026-04-17T10:03:33.507,target_detected,0,red,True,-66.00,159.00,59.00,red err_x=-66 err_y=159 r=59,camera_ok frames=1050 fps=6.7 size=640x480,3168,29,0
+2026-04-17T10:03:33.553,target_detected,0,red,True,-19.00,153.00,59.00,red err_x=-19 err_y=153 r=59,camera_ok frames=1050 fps=6.7 size=640x480,3169,30,0
+2026-04-17T10:03:33.560,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1051 fps=6.7 size=640x480,3169,30,0
+2026-04-17T10:03:33.602,target_detected,0,red,True,-5.00,145.00,59.00,red err_x=-5 err_y=145 r=59,camera_ok frames=1051 fps=6.7 size=640x480,3170,31,0
+2026-04-17T10:03:33.653,target_detected,0,red,True,-11.00,143.00,59.00,red err_x=-11 err_y=143 r=59,camera_ok frames=1051 fps=6.7 size=640x480,3171,32,0
+2026-04-17T10:03:33.702,target_detected,0,red,True,-24.00,144.00,59.00,red err_x=-24 err_y=144 r=59,camera_ok frames=1051 fps=6.7 size=640x480,3172,33,0
+2026-04-17T10:03:33.710,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1052 fps=6.7 size=640x480,3172,33,0
+2026-04-17T10:03:33.753,target_detected,0,red,True,-39.00,141.00,59.00,red err_x=-39 err_y=141 r=59,camera_ok frames=1052 fps=6.7 size=640x480,3173,34,0
+2026-04-17T10:03:33.802,target_detected,0,red,True,-52.00,140.00,59.00,red err_x=-52 err_y=140 r=59,camera_ok frames=1052 fps=6.7 size=640x480,3174,35,0
+2026-04-17T10:03:33.852,target_detected,0,red,True,-62.00,141.00,59.00,red err_x=-62 err_y=141 r=59,camera_ok frames=1052 fps=6.7 size=640x480,3175,36,0
+2026-04-17T10:03:33.861,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1053 fps=6.7 size=640x480,3175,36,0
+2026-04-17T10:03:33.902,target_detected,0,red,True,-71.00,138.00,59.00,red err_x=-71 err_y=138 r=59,camera_ok frames=1053 fps=6.7 size=640x480,3176,37,0
+2026-04-17T10:03:33.955,target_detected,0,red,True,-76.00,137.00,59.00,red err_x=-76 err_y=137 r=59,camera_ok frames=1053 fps=6.7 size=640x480,3177,38,0
+2026-04-17T10:03:34.009,target_detected,0,red,True,-78.00,137.00,59.00,red err_x=-78 err_y=137 r=59,camera_ok frames=1053 fps=6.7 size=640x480,3178,39,0
+2026-04-17T10:03:34.015,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1054 fps=6.7 size=640x480,3178,39,0
+2026-04-17T10:03:34.056,target_detected,0,red,True,-81.00,134.00,60.00,red err_x=-81 err_y=134 r=60,camera_ok frames=1054 fps=6.7 size=640x480,3179,40,0
+2026-04-17T10:03:34.105,target_detected,0,red,True,-82.00,133.00,60.00,red err_x=-82 err_y=133 r=60,camera_ok frames=1054 fps=6.7 size=640x480,3180,41,0
+2026-04-17T10:03:34.155,target_detected,0,red,True,-81.00,133.00,60.00,red err_x=-81 err_y=133 r=60,camera_ok frames=1054 fps=6.7 size=640x480,3181,42,0
+2026-04-17T10:03:34.172,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1055 fps=6.7 size=640x480,3181,42,0
+2026-04-17T10:03:34.207,target_detected,0,red,True,-81.00,132.00,59.00,red err_x=-81 err_y=132 r=59,camera_ok frames=1055 fps=6.7 size=640x480,3182,43,0
+2026-04-17T10:03:34.256,target_detected,0,red,True,-80.00,131.00,59.00,red err_x=-80 err_y=131 r=59,camera_ok frames=1055 fps=6.7 size=640x480,3183,44,0
+2026-04-17T10:03:34.309,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1056 fps=6.7 size=640x480,3184,45,0
+2026-04-17T10:03:34.353,target_detected,0,red,True,-79.00,109.00,58.00,red err_x=-79 err_y=109 r=58,camera_ok frames=1056 fps=6.7 size=640x480,3185,46,0
+2026-04-17T10:03:34.403,target_detected,0,red,True,-79.00,97.00,58.00,red err_x=-79 err_y=97 r=58,camera_ok frames=1056 fps=6.7 size=640x480,3186,47,0
+2026-04-17T10:03:34.459,target_detected,0,red,True,-79.00,93.00,58.00,red err_x=-79 err_y=93 r=58,camera_ok frames=1056 fps=6.7 size=640x480,3187,48,0
+2026-04-17T10:03:34.466,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1057 fps=6.7 size=640x480,3187,48,0
+2026-04-17T10:03:34.503,target_detected,0,red,True,-80.00,73.00,57.00,red err_x=-80 err_y=73 r=57,camera_ok frames=1057 fps=6.7 size=640x480,3188,49,0
+2026-04-17T10:03:34.556,target_detected,0,red,True,-81.00,64.00,57.00,red err_x=-81 err_y=64 r=57,camera_ok frames=1057 fps=6.7 size=640x480,3189,50,0
+2026-04-17T10:03:34.604,target_detected,0,red,True,-81.00,62.00,57.00,red err_x=-81 err_y=62 r=57,camera_ok frames=1057 fps=6.7 size=640x480,3190,51,0
+2026-04-17T10:03:34.610,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1058 fps=6.7 size=640x480,3190,51,0
+2026-04-17T10:03:34.654,target_detected,0,red,True,-85.00,60.00,57.00,red err_x=-85 err_y=60 r=57,camera_ok frames=1058 fps=6.7 size=640x480,3191,52,0
+2026-04-17T10:03:34.704,target_detected,0,red,True,-88.00,60.00,57.00,red err_x=-88 err_y=60 r=57,camera_ok frames=1058 fps=6.7 size=640x480,3192,53,0
+2026-04-17T10:03:34.752,target_detected,0,red,True,-88.00,62.00,57.00,red err_x=-88 err_y=62 r=57,camera_ok frames=1058 fps=6.7 size=640x480,3193,54,0
+2026-04-17T10:03:34.757,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1059 fps=6.7 size=640x480,3193,54,0
+2026-04-17T10:03:34.806,target_detected,0,red,True,-99.00,95.00,59.00,red err_x=-99 err_y=95 r=59,camera_ok frames=1059 fps=6.7 size=640x480,3194,55,0
+2026-04-17T10:03:34.856,target_detected,0,red,True,-104.00,113.00,59.00,red err_x=-104 err_y=113 r=59,camera_ok frames=1059 fps=6.7 size=640x480,3195,56,0
+2026-04-17T10:03:34.904,target_detected,0,red,True,-105.00,121.00,59.00,red err_x=-105 err_y=121 r=59,camera_ok frames=1059 fps=6.7 size=640x480,3196,57,0
+2026-04-17T10:03:34.910,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1060 fps=6.7 size=640x480,3196,57,0
+2026-04-17T10:03:34.952,target_detected,0,red,True,-109.00,129.00,59.00,red err_x=-109 err_y=129 r=59,camera_ok frames=1060 fps=6.7 size=640x480,3197,58,0
+2026-04-17T10:03:35.002,target_detected,0,red,True,-112.00,138.00,59.00,red err_x=-112 err_y=138 r=59,camera_ok frames=1060 fps=6.7 size=640x480,3198,59,0
+2026-04-17T10:03:35.053,target_detected,0,red,True,-115.00,147.00,59.00,red err_x=-115 err_y=147 r=59,camera_ok frames=1060 fps=6.7 size=640x480,3199,60,0
+2026-04-17T10:03:35.058,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1061 fps=6.7 size=640x480,3199,60,0
+2026-04-17T10:03:35.108,target_detected,0,red,True,-119.00,155.00,59.00,red err_x=-119 err_y=155 r=59,camera_ok frames=1061 fps=6.7 size=640x480,3200,61,0
+2026-04-17T10:03:35.157,target_detected,0,red,True,-122.00,164.00,59.00,red err_x=-122 err_y=164 r=59,camera_ok frames=1061 fps=6.7 size=640x480,3201,62,0
+2026-04-17T10:03:35.203,target_detected,0,red,True,-126.00,173.00,59.00,red err_x=-126 err_y=173 r=59,camera_ok frames=1061 fps=6.7 size=640x480,3202,63,0
+2026-04-17T10:03:35.209,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1062 fps=6.7 size=640x480,3202,63,0
+2026-04-17T10:03:35.253,target_detected,0,red,True,-129.00,181.00,59.00,red err_x=-129 err_y=181 r=59,camera_ok frames=1062 fps=6.7 size=640x480,3203,64,0
+2026-04-17T10:03:35.303,target_detected,0,red,True,-132.00,190.00,59.00,red err_x=-132 err_y=190 r=59,camera_ok frames=1062 fps=6.7 size=640x480,3204,65,0
+2026-04-17T10:03:35.356,target_detected,0,red,True,-136.00,197.00,59.00,red err_x=-136 err_y=197 r=59,camera_ok frames=1062 fps=6.7 size=640x480,3205,66,0
+2026-04-17T10:03:35.371,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1063 fps=6.7 size=640x480,3205,66,0
+2026-04-17T10:03:35.405,target_detected,0,red,True,-134.00,155.00,63.00,red err_x=-134 err_y=155 r=63,camera_ok frames=1063 fps=6.7 size=640x480,3206,67,0
+2026-04-17T10:03:35.455,target_detected,0,red,True,-135.00,155.00,63.00,red err_x=-135 err_y=155 r=63,camera_ok frames=1063 fps=6.7 size=640x480,3207,68,0
+2026-04-17T10:03:35.507,target_detected,0,red,True,-135.00,154.00,63.00,red err_x=-135 err_y=154 r=63,camera_ok frames=1063 fps=6.7 size=640x480,3208,69,0
+2026-04-17T10:03:35.526,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1064 fps=6.7 size=640x480,3208,69,0
+2026-04-17T10:03:35.553,target_detected,0,red,True,-137.00,156.00,63.00,red err_x=-137 err_y=156 r=63,camera_ok frames=1064 fps=6.7 size=640x480,3209,70,0
+2026-04-17T10:03:35.602,target_detected,0,red,True,-138.00,157.00,63.00,red err_x=-138 err_y=157 r=63,camera_ok frames=1064 fps=6.7 size=640x480,3210,71,0
+2026-04-17T10:03:35.654,target_detected,0,red,True,-140.00,159.00,63.00,red err_x=-140 err_y=159 r=63,camera_ok frames=1064 fps=6.7 size=640x480,3211,72,0
+2026-04-17T10:03:35.661,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1065 fps=6.7 size=640x480,3211,72,0
+2026-04-17T10:03:35.702,target_detected,0,red,True,-142.00,160.00,63.00,red err_x=-142 err_y=160 r=63,camera_ok frames=1065 fps=6.7 size=640x480,3212,73,0
+2026-04-17T10:03:35.757,target_detected,0,red,True,-143.00,162.00,63.00,red err_x=-143 err_y=162 r=63,camera_ok frames=1065 fps=6.7 size=640x480,3213,74,0
+2026-04-17T10:03:35.804,target_detected,0,red,True,-145.00,164.00,63.00,red err_x=-145 err_y=164 r=63,camera_ok frames=1065 fps=6.7 size=640x480,3214,75,0
+2026-04-17T10:03:35.812,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1066 fps=6.7 size=640x480,3214,75,0
+2026-04-17T10:03:35.852,target_detected,0,red,True,-147.00,165.00,63.00,red err_x=-147 err_y=165 r=63,camera_ok frames=1066 fps=6.7 size=640x480,3215,76,0
+2026-04-17T10:03:35.902,target_detected,0,red,True,-149.00,167.00,63.00,red err_x=-149 err_y=167 r=63,camera_ok frames=1066 fps=6.7 size=640x480,3216,77,0
+2026-04-17T10:03:35.953,target_detected,0,red,True,-150.00,169.00,63.00,red err_x=-150 err_y=169 r=63,camera_ok frames=1066 fps=6.7 size=640x480,3217,78,0
+2026-04-17T10:03:35.959,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1067 fps=6.7 size=640x480,3217,78,0
+2026-04-17T10:03:36.006,target_detected,0,red,True,-152.00,170.00,63.00,red err_x=-152 err_y=170 r=63,camera_ok frames=1067 fps=6.7 size=640x480,3218,79,0
+2026-04-17T10:03:36.056,target_detected,0,red,True,-154.00,172.00,63.00,red err_x=-154 err_y=172 r=63,camera_ok frames=1067 fps=6.7 size=640x480,3219,80,0
+2026-04-17T10:03:36.109,target_detected,0,red,True,-155.00,174.00,63.00,red err_x=-155 err_y=174 r=63,camera_ok frames=1067 fps=6.7 size=640x480,3220,81,0
+2026-04-17T10:03:36.143,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1068 fps=6.7 size=640x480,3220,81,0
+2026-04-17T10:03:36.157,target_detected,0,red,True,-157.00,175.00,63.00,red err_x=-157 err_y=175 r=63,camera_ok frames=1068 fps=6.7 size=640x480,3221,82,0
+2026-04-17T10:03:36.203,target_detected,0,red,True,-159.00,177.00,63.00,red err_x=-159 err_y=177 r=63,camera_ok frames=1068 fps=6.7 size=640x480,3222,83,0
+2026-04-17T10:03:36.252,target_detected,0,red,True,-161.00,178.00,63.00,red err_x=-161 err_y=178 r=63,camera_ok frames=1068 fps=6.7 size=640x480,3223,84,0
+2026-04-17T10:03:36.292,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1069 fps=6.7 size=640x480,3223,84,0
+2026-04-17T10:03:36.303,target_detected,0,red,True,-162.00,180.00,63.00,red err_x=-162 err_y=180 r=63,camera_ok frames=1069 fps=6.7 size=640x480,3224,85,0
+2026-04-17T10:03:36.354,target_detected,0,red,True,-164.00,182.00,63.00,red err_x=-164 err_y=182 r=63,camera_ok frames=1069 fps=6.7 size=640x480,3225,86,0
+2026-04-17T10:03:36.404,target_detected,0,red,True,-166.00,183.00,63.00,red err_x=-166 err_y=183 r=63,camera_ok frames=1069 fps=6.7 size=640x480,3226,87,0
+2026-04-17T10:03:36.445,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1070 fps=6.7 size=640x480,3226,87,0
+2026-04-17T10:03:36.453,target_detected,0,red,True,-167.00,185.00,63.00,red err_x=-167 err_y=185 r=63,camera_ok frames=1070 fps=6.7 size=640x480,3227,88,0
+2026-04-17T10:03:36.502,target_detected,0,red,True,-169.00,187.00,63.00,red err_x=-169 err_y=187 r=63,camera_ok frames=1070 fps=6.7 size=640x480,3228,89,0
+2026-04-17T10:03:36.553,target_lost_timeout,0,red,,,,,target_lost_timeout,camera_ok frames=1070 fps=6.7 size=640x480,3229,89,0
+2026-04-17T10:03:36.595,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1071 fps=6.7 size=640x480,3229,89,0
+2026-04-17T10:03:36.604,target_detected,0,red,True,-320.00,190.00,63.00,red err_x=-320 err_y=190 r=63,camera_ok frames=1071 fps=6.7 size=640x480,3230,90,0
+2026-04-17T10:03:36.654,target_detected,0,red,True,-302.00,182.00,61.00,red err_x=-302 err_y=182 r=61,camera_ok frames=1071 fps=6.7 size=640x480,3231,91,0
+2026-04-17T10:03:36.709,target_detected,0,red,True,-240.00,156.00,61.00,red err_x=-240 err_y=156 r=61,camera_ok frames=1071 fps=6.7 size=640x480,3232,92,0
+2026-04-17T10:03:36.747,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1072 fps=6.7 size=640x480,3232,92,0
+2026-04-17T10:03:36.762,target_detected,0,red,True,-130.00,109.00,61.00,red err_x=-130 err_y=109 r=61,camera_ok frames=1072 fps=6.7 size=640x480,3233,93,0
+2026-04-17T10:03:36.808,target_detected,0,red,True,-17.00,50.00,60.00,red err_x=-17 err_y=50 r=60,camera_ok frames=1072 fps=6.7 size=640x480,3234,94,0
+2026-04-17T10:03:36.808,center_window_entered,0,red,True,-17.00,50.00,60.00,stable_timer_started,camera_ok frames=1072 fps=6.7 size=640x480,3234,94,0
+2026-04-17T10:03:36.853,target_detected,0,red,True,43.00,17.00,60.00,red err_x=43 err_y=17 r=60,camera_ok frames=1072 fps=6.7 size=640x480,3235,95,0
+2026-04-17T10:03:36.908,target_detected,0,red,True,60.00,7.00,60.00,red err_x=60 err_y=7 r=60,camera_ok frames=1072 fps=6.7 size=640x480,3236,96,0
+2026-04-17T10:03:36.914,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1073 fps=6.7 size=640x480,3236,96,0
+2026-04-17T10:03:36.953,target_detected,0,red,True,66.00,-11.00,59.00,red err_x=66 err_y=-11 r=59,camera_ok frames=1073 fps=6.7 size=640x480,3237,97,0
+2026-04-17T10:03:37.002,target_detected,0,red,True,56.00,-14.00,59.00,red err_x=56 err_y=-14 r=59,camera_ok frames=1073 fps=6.7 size=640x480,3238,98,0
+2026-04-17T10:03:37.049,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1074 fps=6.4 size=640x480,3238,98,0
+2026-04-17T10:03:37.054,target_detected,0,red,True,42.00,-9.00,59.00,red err_x=42 err_y=-9 r=59,camera_ok frames=1074 fps=6.4 size=640x480,3239,99,0
+2026-04-17T10:03:37.103,target_detected,0,red,True,37.00,-16.00,59.00,red err_x=37 err_y=-16 r=59,camera_ok frames=1074 fps=6.4 size=640x480,3240,100,0
+2026-04-17T10:03:37.153,target_detected,0,red,True,31.00,-16.00,59.00,red err_x=31 err_y=-16 r=59,camera_ok frames=1074 fps=6.4 size=640x480,3241,101,0
+2026-04-17T10:03:37.199,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1075 fps=6.4 size=640x480,3241,101,0
+2026-04-17T10:03:37.204,target_detected,0,red,True,24.00,-13.00,59.00,red err_x=24 err_y=-13 r=59,camera_ok frames=1075 fps=6.4 size=640x480,3242,102,0
+2026-04-17T10:03:37.254,target_detected,0,red,True,30.00,-23.00,59.00,red err_x=30 err_y=-23 r=59,camera_ok frames=1075 fps=6.4 size=640x480,3243,103,0
+2026-04-17T10:03:37.303,target_detected,0,red,True,32.00,-27.00,59.00,red err_x=32 err_y=-27 r=59,camera_ok frames=1075 fps=6.4 size=640x480,3244,104,0
+2026-04-17T10:03:37.354,target_detected,0,red,True,33.00,-28.00,59.00,red err_x=33 err_y=-28 r=59,camera_ok frames=1075 fps=6.4 size=640x480,3245,105,0
+2026-04-17T10:03:37.355,drop_event,0,red,True,33.00,-28.00,59.00,DROP at red,camera_ok frames=1075 fps=6.4 size=640x480,3245,105,1
+2026-04-17T10:03:37.363,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1076 fps=6.4 size=640x480,3245,105,1
+2026-04-17T10:03:37.402,no_target,1,yellow,False,,,,no_target_yellow,camera_ok frames=1076 fps=6.4 size=640x480,3246,105,1
+2026-04-17T10:03:37.510,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1077 fps=6.4 size=640x480,3248,105,1
+2026-04-17T10:03:37.665,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1078 fps=6.4 size=640x480,3251,105,1
+2026-04-17T10:03:37.809,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1079 fps=6.4 size=640x480,3254,105,1
+2026-04-17T10:03:37.958,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1080 fps=6.4 size=640x480,3257,105,1
+2026-04-17T10:03:38.108,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1081 fps=6.6 size=640x480,3260,105,1
+2026-04-17T10:03:38.267,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1082 fps=6.6 size=640x480,3263,105,1
+2026-04-17T10:03:38.433,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1083 fps=6.6 size=640x480,3266,105,1
+2026-04-17T10:03:38.559,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1084 fps=6.6 size=640x480,3269,105,1
+2026-04-17T10:03:38.707,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1085 fps=6.6 size=640x480,3272,105,1
+2026-04-17T10:03:38.861,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1086 fps=6.6 size=640x480,3275,105,1
+2026-04-17T10:03:39.009,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1087 fps=6.6 size=640x480,3278,105,1
+2026-04-17T10:03:39.158,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1088 fps=6.7 size=640x480,3281,105,1
+2026-04-17T10:03:39.308,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1089 fps=6.7 size=640x480,3284,105,1
+2026-04-17T10:03:39.460,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1090 fps=6.7 size=640x480,3287,105,1
+2026-04-17T10:03:39.607,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1091 fps=6.7 size=640x480,3290,105,1
+2026-04-17T10:03:39.758,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1092 fps=6.7 size=640x480,3293,105,1
+2026-04-17T10:03:39.912,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1093 fps=6.7 size=640x480,3296,105,1
+2026-04-17T10:03:40.072,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1094 fps=6.7 size=640x480,3299,105,1
+2026-04-17T10:03:40.212,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1095 fps=6.7 size=640x480,3302,105,1
+2026-04-17T10:03:40.360,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1096 fps=6.7 size=640x480,3305,105,1
+2026-04-17T10:03:40.513,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1097 fps=6.7 size=640x480,3308,105,1
+2026-04-17T10:03:40.660,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1098 fps=6.7 size=640x480,3311,105,1
+2026-04-17T10:03:40.824,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1099 fps=6.7 size=640x480,3314,105,1
+2026-04-17T10:03:40.969,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1100 fps=6.7 size=640x480,3317,105,1
+2026-04-17T10:03:41.113,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1101 fps=6.7 size=640x480,3320,105,1
+2026-04-17T10:03:41.261,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1102 fps=6.7 size=640x480,3323,105,1
+2026-04-17T10:03:41.412,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1103 fps=6.7 size=640x480,3326,105,1
+2026-04-17T10:03:41.568,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1104 fps=6.7 size=640x480,3329,105,1
+2026-04-17T10:03:41.713,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1105 fps=6.7 size=640x480,3332,105,1
+2026-04-17T10:03:41.864,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1106 fps=6.7 size=640x480,3335,105,1
+2026-04-17T10:03:42.014,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1107 fps=6.7 size=640x480,3338,105,1
+2026-04-17T10:03:42.164,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1108 fps=6.7 size=640x480,3341,105,1
+2026-04-17T10:03:42.316,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1109 fps=6.6 size=640x480,3344,105,1
+2026-04-17T10:03:42.469,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1110 fps=6.6 size=640x480,3347,105,1
+2026-04-17T10:03:42.631,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1111 fps=6.6 size=640x480,3350,105,1
+2026-04-17T10:03:42.781,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1112 fps=6.6 size=640x480,3353,105,1
+2026-04-17T10:03:42.934,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1113 fps=6.6 size=640x480,3356,105,1
+2026-04-17T10:03:43.084,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1114 fps=6.6 size=640x480,3359,105,1
+2026-04-17T10:03:43.233,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1115 fps=6.6 size=640x480,3362,105,1
+2026-04-17T10:03:43.388,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1116 fps=6.6 size=640x480,3365,105,1
+2026-04-17T10:03:43.538,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1117 fps=6.6 size=640x480,3368,105,1
+2026-04-17T10:03:43.688,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1118 fps=6.6 size=640x480,3371,105,1
+2026-04-17T10:03:43.838,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1119 fps=6.6 size=640x480,3374,105,1
+2026-04-17T10:03:43.990,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1120 fps=6.6 size=640x480,3377,105,1
+2026-04-17T10:03:44.138,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1121 fps=6.6 size=640x480,3380,105,1
+2026-04-17T10:03:44.153,target_detected,1,yellow,True,-320.00,190.00,36.00,yellow err_x=-320 err_y=190 r=36,camera_ok frames=1121 fps=6.6 size=640x480,3381,106,1
+2026-04-17T10:03:44.203,target_detected,1,yellow,True,-293.00,190.00,36.00,yellow err_x=-293 err_y=190 r=36,camera_ok frames=1121 fps=6.6 size=640x480,3382,107,1
+2026-04-17T10:03:44.255,target_detected,1,yellow,True,-205.00,187.00,36.00,yellow err_x=-205 err_y=187 r=36,camera_ok frames=1121 fps=6.6 size=640x480,3383,108,1
+2026-04-17T10:03:44.292,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1122 fps=6.6 size=640x480,3383,108,1
+2026-04-17T10:03:44.302,target_detected,1,yellow,True,-46.00,181.00,36.00,yellow err_x=-46 err_y=181 r=36,camera_ok frames=1122 fps=6.6 size=640x480,3384,109,1
+2026-04-17T10:03:44.353,target_detected,1,yellow,True,95.00,173.00,36.00,yellow err_x=95 err_y=173 r=36,camera_ok frames=1122 fps=6.6 size=640x480,3385,110,1
+2026-04-17T10:03:44.403,target_detected,1,yellow,True,167.00,168.00,36.00,yellow err_x=167 err_y=168 r=36,camera_ok frames=1122 fps=6.6 size=640x480,3386,111,1
+2026-04-17T10:03:44.442,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1123 fps=6.6 size=640x480,3386,111,1
+2026-04-17T10:03:44.455,target_detected,1,yellow,True,185.00,167.00,36.00,yellow err_x=185 err_y=167 r=36,camera_ok frames=1123 fps=6.6 size=640x480,3387,112,1
+2026-04-17T10:03:44.506,target_detected,1,yellow,True,172.00,165.00,36.00,yellow err_x=172 err_y=165 r=36,camera_ok frames=1123 fps=6.6 size=640x480,3388,113,1
+2026-04-17T10:03:44.554,target_detected,1,yellow,True,149.00,164.00,36.00,yellow err_x=149 err_y=164 r=36,camera_ok frames=1123 fps=6.6 size=640x480,3389,114,1
+2026-04-17T10:03:44.593,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1124 fps=6.6 size=640x480,3389,114,1
+2026-04-17T10:03:44.606,target_detected,1,yellow,True,126.00,165.00,36.00,yellow err_x=126 err_y=165 r=36,camera_ok frames=1124 fps=6.6 size=640x480,3390,115,1
+2026-04-17T10:03:44.661,target_detected,1,yellow,True,106.00,164.00,36.00,yellow err_x=106 err_y=164 r=36,camera_ok frames=1124 fps=6.6 size=640x480,3391,116,1
+2026-04-17T10:03:44.705,target_detected,1,yellow,True,91.00,164.00,36.00,yellow err_x=91 err_y=164 r=36,camera_ok frames=1124 fps=6.6 size=640x480,3392,117,1
+2026-04-17T10:03:44.744,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1125 fps=6.6 size=640x480,3392,117,1
+2026-04-17T10:03:44.754,target_detected,1,yellow,True,85.00,162.00,36.00,yellow err_x=85 err_y=162 r=36,camera_ok frames=1125 fps=6.6 size=640x480,3393,118,1
+2026-04-17T10:03:44.806,target_detected,1,yellow,True,81.00,161.00,36.00,yellow err_x=81 err_y=161 r=36,camera_ok frames=1125 fps=6.6 size=640x480,3394,119,1
+2026-04-17T10:03:44.854,target_detected,1,yellow,True,79.00,161.00,36.00,yellow err_x=79 err_y=161 r=36,camera_ok frames=1125 fps=6.6 size=640x480,3395,120,1
+2026-04-17T10:03:44.892,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1126 fps=6.6 size=640x480,3395,120,1
+2026-04-17T10:03:44.953,target_detected,1,yellow,True,85.00,158.00,37.00,yellow err_x=85 err_y=158 r=37,camera_ok frames=1126 fps=6.6 size=640x480,3397,122,1
+2026-04-17T10:03:45.007,target_detected,1,yellow,True,88.00,156.00,37.00,yellow err_x=88 err_y=156 r=37,camera_ok frames=1126 fps=6.6 size=640x480,3398,123,1
+2026-04-17T10:03:45.041,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1127 fps=6.6 size=640x480,3398,123,1
+2026-04-17T10:03:45.053,target_detected,1,yellow,True,90.00,156.00,37.00,yellow err_x=90 err_y=156 r=37,camera_ok frames=1127 fps=6.6 size=640x480,3399,124,1
+2026-04-17T10:03:45.107,target_detected,1,yellow,True,93.00,151.00,36.00,yellow err_x=93 err_y=151 r=36,camera_ok frames=1127 fps=6.6 size=640x480,3400,125,1
+2026-04-17T10:03:45.153,target_detected,1,yellow,True,95.00,149.00,36.00,yellow err_x=95 err_y=149 r=36,camera_ok frames=1127 fps=6.6 size=640x480,3401,126,1
+2026-04-17T10:03:45.191,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1128 fps=6.6 size=640x480,3401,126,1
+2026-04-17T10:03:45.203,target_detected,1,yellow,True,95.00,148.00,36.00,yellow err_x=95 err_y=148 r=36,camera_ok frames=1128 fps=6.6 size=640x480,3402,127,1
+2026-04-17T10:03:45.252,target_detected,1,yellow,True,95.00,142.00,36.00,yellow err_x=95 err_y=142 r=36,camera_ok frames=1128 fps=6.6 size=640x480,3403,128,1
+2026-04-17T10:03:45.302,target_detected,1,yellow,True,94.00,140.00,36.00,yellow err_x=94 err_y=140 r=36,camera_ok frames=1128 fps=6.6 size=640x480,3404,129,1
+2026-04-17T10:03:45.348,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1129 fps=6.6 size=640x480,3404,129,1
+2026-04-17T10:03:45.353,target_detected,1,yellow,True,94.00,139.00,36.00,yellow err_x=94 err_y=139 r=36,camera_ok frames=1129 fps=6.6 size=640x480,3405,130,1
+2026-04-17T10:03:45.403,target_detected,1,yellow,True,93.00,112.00,36.00,yellow err_x=93 err_y=112 r=36,camera_ok frames=1129 fps=6.6 size=640x480,3406,131,1
+2026-04-17T10:03:45.452,target_detected,1,yellow,True,93.00,98.00,36.00,yellow err_x=93 err_y=98 r=36,camera_ok frames=1129 fps=6.6 size=640x480,3407,132,1
+2026-04-17T10:03:45.505,target_detected,1,yellow,True,93.00,93.00,36.00,yellow err_x=93 err_y=93 r=36,camera_ok frames=1129 fps=6.6 size=640x480,3408,133,1
+2026-04-17T10:03:45.523,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1130 fps=6.6 size=640x480,3408,133,1
+2026-04-17T10:03:45.559,target_detected,1,yellow,True,93.00,74.00,35.00,yellow err_x=93 err_y=74 r=35,camera_ok frames=1130 fps=6.6 size=640x480,3409,134,1
+2026-04-17T10:03:45.604,target_detected,1,yellow,True,94.00,66.00,35.00,yellow err_x=94 err_y=66 r=35,camera_ok frames=1130 fps=6.6 size=640x480,3410,135,1
+2026-04-17T10:03:45.657,target_detected,1,yellow,True,94.00,65.00,35.00,yellow err_x=94 err_y=65 r=35,camera_ok frames=1130 fps=6.6 size=640x480,3411,136,1
+2026-04-17T10:03:45.662,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1131 fps=6.6 size=640x480,3411,136,1
+2026-04-17T10:03:45.704,target_detected,1,yellow,True,93.00,67.00,35.00,yellow err_x=93 err_y=67 r=35,camera_ok frames=1131 fps=6.6 size=640x480,3412,137,1
+2026-04-17T10:03:45.753,target_detected,1,yellow,True,93.00,71.00,35.00,yellow err_x=93 err_y=71 r=35,camera_ok frames=1131 fps=6.6 size=640x480,3413,138,1
+2026-04-17T10:03:45.803,target_detected,1,yellow,True,92.00,74.00,35.00,yellow err_x=92 err_y=74 r=35,camera_ok frames=1131 fps=6.6 size=640x480,3414,139,1
+2026-04-17T10:03:45.808,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1132 fps=6.6 size=640x480,3414,139,1
+2026-04-17T10:03:45.854,target_detected,1,yellow,True,98.00,112.00,37.00,yellow err_x=98 err_y=112 r=37,camera_ok frames=1132 fps=6.6 size=640x480,3415,140,1
+2026-04-17T10:03:45.903,target_detected,1,yellow,True,101.00,132.00,37.00,yellow err_x=101 err_y=132 r=37,camera_ok frames=1132 fps=6.6 size=640x480,3416,141,1
+2026-04-17T10:03:45.952,target_detected,1,yellow,True,102.00,141.00,37.00,yellow err_x=102 err_y=141 r=37,camera_ok frames=1132 fps=6.6 size=640x480,3417,142,1
+2026-04-17T10:03:45.958,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1133 fps=6.6 size=640x480,3417,142,1
+2026-04-17T10:03:46.002,target_detected,1,yellow,True,100.00,173.00,38.00,yellow err_x=100 err_y=173 r=38,camera_ok frames=1133 fps=6.6 size=640x480,3418,143,1
+2026-04-17T10:03:46.052,target_detected,1,yellow,True,99.00,187.00,38.00,yellow err_x=99 err_y=187 r=38,camera_ok frames=1133 fps=6.6 size=640x480,3419,144,1
+2026-04-17T10:03:46.102,target_detected,1,yellow,True,98.00,190.00,38.00,yellow err_x=98 err_y=190 r=38,camera_ok frames=1133 fps=6.6 size=640x480,3420,145,1
+2026-04-17T10:03:46.109,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1134 fps=6.6 size=640x480,3420,145,1
+2026-04-17T10:03:46.152,target_detected,1,yellow,True,98.00,202.00,38.00,yellow err_x=98 err_y=202 r=38,camera_ok frames=1134 fps=6.6 size=640x480,3421,146,1
+2026-04-17T10:03:46.203,target_detected,1,yellow,True,98.00,215.00,38.00,yellow err_x=98 err_y=215 r=38,camera_ok frames=1134 fps=6.6 size=640x480,3422,147,1
+2026-04-17T10:03:46.252,target_detected,1,yellow,True,98.00,227.00,38.00,yellow err_x=98 err_y=227 r=38,camera_ok frames=1134 fps=6.6 size=640x480,3423,148,1
+2026-04-17T10:03:46.258,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1135 fps=6.6 size=640x480,3423,148,1
+2026-04-17T10:03:46.302,target_detected,1,yellow,True,98.00,240.00,38.00,yellow err_x=98 err_y=240 r=38,camera_ok frames=1135 fps=6.6 size=640x480,3424,149,1
+2026-04-17T10:03:46.352,target_detected,1,yellow,True,98.00,252.00,38.00,yellow err_x=98 err_y=252 r=38,camera_ok frames=1135 fps=6.6 size=640x480,3425,150,1
+2026-04-17T10:03:46.404,target_detected,1,yellow,True,98.00,265.00,38.00,yellow err_x=98 err_y=265 r=38,camera_ok frames=1135 fps=6.6 size=640x480,3426,151,1
+2026-04-17T10:03:46.415,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1136 fps=6.6 size=640x480,3426,151,1
+2026-04-17T10:03:46.454,target_detected,1,yellow,True,65.00,160.00,39.00,yellow err_x=65 err_y=160 r=39,camera_ok frames=1136 fps=6.6 size=640x480,3427,152,1
+2026-04-17T10:03:46.504,target_detected,1,yellow,True,63.00,156.00,39.00,yellow err_x=63 err_y=156 r=39,camera_ok frames=1136 fps=6.6 size=640x480,3428,153,1
+2026-04-17T10:03:46.552,target_detected,1,yellow,True,63.00,154.00,39.00,yellow err_x=63 err_y=154 r=39,camera_ok frames=1136 fps=6.6 size=640x480,3429,154,1
+2026-04-17T10:03:46.559,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1137 fps=6.6 size=640x480,3429,154,1
+2026-04-17T10:03:46.609,target_detected,1,yellow,True,60.00,151.00,39.00,yellow err_x=60 err_y=151 r=39,camera_ok frames=1137 fps=6.6 size=640x480,3430,155,1
+2026-04-17T10:03:46.654,target_detected,1,yellow,True,57.00,148.00,39.00,yellow err_x=57 err_y=148 r=39,camera_ok frames=1137 fps=6.6 size=640x480,3431,156,1
+2026-04-17T10:03:46.702,target_detected,1,yellow,True,54.00,145.00,39.00,yellow err_x=54 err_y=145 r=39,camera_ok frames=1137 fps=6.6 size=640x480,3432,157,1
+2026-04-17T10:03:46.710,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1138 fps=6.6 size=640x480,3432,157,1
+2026-04-17T10:03:46.756,target_detected,1,yellow,True,51.00,142.00,39.00,yellow err_x=51 err_y=142 r=39,camera_ok frames=1138 fps=6.6 size=640x480,3433,158,1
+2026-04-17T10:03:46.804,target_detected,1,yellow,True,48.00,139.00,39.00,yellow err_x=48 err_y=139 r=39,camera_ok frames=1138 fps=6.6 size=640x480,3434,159,1
+2026-04-17T10:03:46.853,target_detected,1,yellow,True,45.00,136.00,39.00,yellow err_x=45 err_y=136 r=39,camera_ok frames=1138 fps=6.6 size=640x480,3435,160,1
+2026-04-17T10:03:46.861,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1139 fps=6.6 size=640x480,3435,160,1
+2026-04-17T10:03:46.903,target_detected,1,yellow,True,42.00,133.00,39.00,yellow err_x=42 err_y=133 r=39,camera_ok frames=1139 fps=6.6 size=640x480,3436,161,1
+2026-04-17T10:03:46.952,target_detected,1,yellow,True,39.00,130.00,39.00,yellow err_x=39 err_y=130 r=39,camera_ok frames=1139 fps=6.6 size=640x480,3437,162,1
+2026-04-17T10:03:47.007,target_detected,1,yellow,True,36.00,127.00,39.00,yellow err_x=36 err_y=127 r=39,camera_ok frames=1139 fps=6.6 size=640x480,3438,163,1
+2026-04-17T10:03:47.013,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1140 fps=6.6 size=640x480,3438,163,1
+2026-04-17T10:03:47.052,target_detected,1,yellow,True,33.00,124.00,39.00,yellow err_x=33 err_y=124 r=39,camera_ok frames=1140 fps=6.6 size=640x480,3439,164,1
+2026-04-17T10:03:47.102,target_detected,1,yellow,True,30.00,121.00,39.00,yellow err_x=30 err_y=121 r=39,camera_ok frames=1140 fps=6.6 size=640x480,3440,165,1
+2026-04-17T10:03:47.152,target_detected,1,yellow,True,27.00,118.00,39.00,yellow err_x=27 err_y=118 r=39,camera_ok frames=1140 fps=6.6 size=640x480,3441,166,1
+2026-04-17T10:03:47.162,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1141 fps=6.6 size=640x480,3441,166,1
+2026-04-17T10:03:47.204,target_detected,1,yellow,True,24.00,115.00,39.00,yellow err_x=24 err_y=115 r=39,camera_ok frames=1141 fps=6.6 size=640x480,3442,167,1
+2026-04-17T10:03:47.258,target_detected,1,yellow,True,21.00,112.00,39.00,yellow err_x=21 err_y=112 r=39,camera_ok frames=1141 fps=6.6 size=640x480,3443,168,1
+2026-04-17T10:03:47.303,target_detected,1,yellow,True,18.00,109.00,39.00,yellow err_x=18 err_y=109 r=39,camera_ok frames=1141 fps=6.6 size=640x480,3444,169,1
+2026-04-17T10:03:47.318,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1142 fps=6.6 size=640x480,3444,169,1
+2026-04-17T10:03:47.354,target_detected,1,yellow,True,16.00,106.00,39.00,yellow err_x=16 err_y=106 r=39,camera_ok frames=1142 fps=6.6 size=640x480,3445,170,1
+2026-04-17T10:03:47.413,target_detected,1,yellow,True,13.00,103.00,39.00,yellow err_x=13 err_y=103 r=39,camera_ok frames=1142 fps=6.6 size=640x480,3446,171,1
+2026-04-17T10:03:47.452,target_detected,1,yellow,True,10.00,100.00,39.00,yellow err_x=10 err_y=100 r=39,camera_ok frames=1142 fps=6.6 size=640x480,3447,172,1
+2026-04-17T10:03:47.464,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1143 fps=6.6 size=640x480,3447,172,1
+2026-04-17T10:03:47.507,target_detected,1,yellow,True,7.00,97.00,39.00,yellow err_x=7 err_y=97 r=39,camera_ok frames=1143 fps=6.6 size=640x480,3448,173,1
+2026-04-17T10:03:47.554,target_detected,1,yellow,True,4.00,94.00,39.00,yellow err_x=4 err_y=94 r=39,camera_ok frames=1143 fps=6.6 size=640x480,3449,174,1
+2026-04-17T10:03:47.603,target_detected,1,yellow,True,1.00,91.00,39.00,yellow err_x=1 err_y=91 r=39,camera_ok frames=1143 fps=6.6 size=640x480,3450,175,1
+2026-04-17T10:03:47.617,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1144 fps=6.6 size=640x480,3450,175,1
+2026-04-17T10:03:47.653,target_lost_timeout,1,yellow,,,,,target_lost_timeout,camera_ok frames=1144 fps=6.6 size=640x480,3451,175,1
+2026-04-17T10:03:47.705,target_detected,1,yellow,True,-320.00,190.00,37.00,yellow err_x=-320 err_y=190 r=37,camera_ok frames=1144 fps=6.6 size=640x480,3452,176,1
+2026-04-17T10:03:47.752,target_detected,1,yellow,True,-301.00,180.00,37.00,yellow err_x=-301 err_y=180 r=37,camera_ok frames=1144 fps=6.6 size=640x480,3453,177,1
+2026-04-17T10:03:47.779,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1145 fps=6.6 size=640x480,3453,177,1
+2026-04-17T10:03:47.807,target_detected,1,yellow,True,-241.00,142.00,37.00,yellow err_x=-241 err_y=142 r=37,camera_ok frames=1145 fps=6.6 size=640x480,3454,178,1
+2026-04-17T10:03:47.853,target_detected,1,yellow,True,-132.00,74.00,37.00,yellow err_x=-132 err_y=74 r=37,camera_ok frames=1145 fps=6.6 size=640x480,3455,179,1
+2026-04-17T10:03:47.907,target_detected,1,yellow,True,-33.00,12.00,37.00,yellow err_x=-33 err_y=12 r=37,camera_ok frames=1145 fps=6.6 size=640x480,3456,180,1
+2026-04-17T10:03:47.907,center_window_entered,1,yellow,True,-33.00,12.00,37.00,stable_timer_started,camera_ok frames=1145 fps=6.6 size=640x480,3456,180,1
+2026-04-17T10:03:47.949,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1146 fps=6.6 size=640x480,3456,180,1
+2026-04-17T10:03:47.962,target_detected,1,yellow,True,19.00,-21.00,37.00,yellow err_x=19 err_y=-21 r=37,camera_ok frames=1146 fps=6.6 size=640x480,3457,181,1
+2026-04-17T10:03:48.002,target_detected,1,yellow,True,31.00,-45.00,37.00,yellow err_x=31 err_y=-45 r=37,camera_ok frames=1146 fps=6.6 size=640x480,3458,182,1
+2026-04-17T10:03:48.054,target_detected,1,yellow,True,23.00,-49.00,37.00,yellow err_x=23 err_y=-49 r=37,camera_ok frames=1146 fps=6.6 size=640x480,3459,183,1
+2026-04-17T10:03:48.108,target_detected,1,yellow,True,8.00,-43.00,37.00,yellow err_x=8 err_y=-43 r=37,camera_ok frames=1146 fps=6.6 size=640x480,3460,184,1
+2026-04-17T10:03:48.119,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1147 fps=6.6 size=640x480,3460,184,1
+2026-04-17T10:03:48.155,target_detected,1,yellow,True,-8.00,-41.00,37.00,yellow err_x=-8 err_y=-41 r=37,camera_ok frames=1147 fps=6.6 size=640x480,3461,185,1
+2026-04-17T10:03:48.202,target_detected,1,yellow,True,-21.00,-36.00,37.00,yellow err_x=-21 err_y=-36 r=37,camera_ok frames=1147 fps=6.6 size=640x480,3462,186,1
+2026-04-17T10:03:48.270,target_detected,1,yellow,True,-31.00,-30.00,37.00,yellow err_x=-31 err_y=-30 r=37,camera_ok frames=1147 fps=6.6 size=640x480,3463,187,1
+2026-04-17T10:03:48.288,camera_info,1,yellow,,,,,camera_info_update,camera_ok frames=1148 fps=6.6 size=640x480,3463,187,1
+2026-04-17T10:03:48.309,target_detected,1,yellow,True,-35.00,-26.00,37.00,yellow err_x=-35 err_y=-26 r=37,camera_ok frames=1148 fps=6.6 size=640x480,3464,188,1
+2026-04-17T10:03:48.355,target_detected,1,yellow,True,-37.00,-23.00,37.00,yellow err_x=-37 err_y=-23 r=37,camera_ok frames=1148 fps=6.6 size=640x480,3465,189,1
+2026-04-17T10:03:48.413,target_detected,1,yellow,True,-39.00,-21.00,37.00,yellow err_x=-39 err_y=-21 r=37,camera_ok frames=1148 fps=6.6 size=640x480,3466,190,1
+2026-04-17T10:03:48.415,drop_event,1,yellow,True,-39.00,-21.00,37.00,DROP at yellow,camera_ok frames=1148 fps=6.6 size=640x480,3466,190,2
+2026-04-17T10:03:48.437,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1149 fps=6.6 size=640x480,3466,190,2
+2026-04-17T10:03:48.473,no_target,2,blue,False,,,,no_target_blue,camera_ok frames=1149 fps=6.6 size=640x480,3467,190,2
+2026-04-17T10:03:48.564,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1150 fps=6.6 size=640x480,3469,190,2
+2026-04-17T10:03:48.713,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1151 fps=6.4 size=640x480,3472,190,2
+2026-04-17T10:03:48.864,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1152 fps=6.4 size=640x480,3475,190,2
+2026-04-17T10:03:49.027,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1153 fps=6.4 size=640x480,3478,190,2
+2026-04-17T10:03:49.167,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1154 fps=6.4 size=640x480,3481,190,2
+2026-04-17T10:03:49.316,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1155 fps=6.4 size=640x480,3484,190,2
+2026-04-17T10:03:49.465,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1156 fps=6.4 size=640x480,3487,190,2
+2026-04-17T10:03:49.619,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1157 fps=6.4 size=640x480,3490,190,2
+2026-04-17T10:03:49.767,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1158 fps=6.6 size=640x480,3493,190,2
+2026-04-17T10:03:49.924,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1159 fps=6.6 size=640x480,3496,190,2
+2026-04-17T10:03:50.069,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1160 fps=6.6 size=640x480,3499,190,2
+2026-04-17T10:03:50.224,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1161 fps=6.6 size=640x480,3502,190,2
+2026-04-17T10:03:50.372,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1162 fps=6.6 size=640x480,3505,190,2
+2026-04-17T10:03:50.529,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1163 fps=6.6 size=640x480,3508,190,2
+2026-04-17T10:03:50.669,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1164 fps=6.6 size=640x480,3511,190,2
+2026-04-17T10:03:50.819,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1165 fps=6.7 size=640x480,3514,190,2
+2026-04-17T10:03:50.969,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1166 fps=6.7 size=640x480,3517,190,2
+2026-04-17T10:03:51.118,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1167 fps=6.7 size=640x480,3520,190,2
+2026-04-17T10:03:51.273,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1168 fps=6.7 size=640x480,3523,190,2
+2026-04-17T10:03:51.424,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1169 fps=6.7 size=640x480,3526,190,2
+2026-04-17T10:03:51.568,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1170 fps=6.7 size=640x480,3529,190,2
+2026-04-17T10:03:51.729,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1171 fps=6.7 size=640x480,3532,190,2
+2026-04-17T10:03:51.874,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1172 fps=6.7 size=640x480,3535,190,2
+2026-04-17T10:03:52.031,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1173 fps=6.7 size=640x480,3538,190,2
+2026-04-17T10:03:52.174,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1174 fps=6.7 size=640x480,3541,190,2
+2026-04-17T10:03:52.326,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1175 fps=6.7 size=640x480,3544,190,2
+2026-04-17T10:03:52.475,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1176 fps=6.7 size=640x480,3547,190,2
+2026-04-17T10:03:52.622,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1177 fps=6.7 size=640x480,3550,190,2
+2026-04-17T10:03:52.773,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1178 fps=6.7 size=640x480,3553,190,2
+2026-04-17T10:03:52.922,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1179 fps=6.6 size=640x480,3556,190,2
+2026-04-17T10:03:53.075,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1180 fps=6.6 size=640x480,3559,190,2
+2026-04-17T10:03:53.224,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1181 fps=6.6 size=640x480,3562,190,2
+2026-04-17T10:03:53.373,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1182 fps=6.6 size=640x480,3565,190,2
+2026-04-17T10:03:53.523,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1183 fps=6.6 size=640x480,3568,190,2
+2026-04-17T10:03:53.674,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1184 fps=6.6 size=640x480,3571,190,2
+2026-04-17T10:03:53.826,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1185 fps=6.6 size=640x480,3574,190,2
+2026-04-17T10:03:53.974,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1186 fps=6.7 size=640x480,3577,190,2
+2026-04-17T10:03:54.125,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1187 fps=6.7 size=640x480,3580,190,2
+2026-04-17T10:03:54.276,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1188 fps=6.7 size=640x480,3583,190,2
+2026-04-17T10:03:54.427,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1189 fps=6.7 size=640x480,3586,190,2
+2026-04-17T10:03:54.588,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1190 fps=6.7 size=640x480,3589,190,2
+2026-04-17T10:03:54.743,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1191 fps=6.7 size=640x480,3592,190,2
+2026-04-17T10:03:54.896,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1192 fps=6.7 size=640x480,3595,190,2
+2026-04-17T10:03:55.045,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1193 fps=6.5 size=640x480,3598,190,2
+2026-04-17T10:03:55.196,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1194 fps=6.5 size=640x480,3601,190,2
+2026-04-17T10:03:55.372,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1195 fps=6.5 size=640x480,3605,190,2
+2026-04-17T10:03:55.497,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1196 fps=6.5 size=640x480,3607,190,2
+2026-04-17T10:03:55.647,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1197 fps=6.5 size=640x480,3610,190,2
+2026-04-17T10:03:55.798,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1198 fps=6.5 size=640x480,3613,190,2
+2026-04-17T10:03:55.949,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1199 fps=6.5 size=640x480,3616,190,2
+2026-04-17T10:03:56.114,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1200 fps=6.6 size=640x480,3620,190,2
+2026-04-17T10:03:56.262,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1201 fps=6.6 size=640x480,3623,190,2
+2026-04-17T10:03:56.417,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1202 fps=6.6 size=640x480,3626,190,2
+2026-04-17T10:03:56.559,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1203 fps=6.6 size=640x480,3629,190,2
+2026-04-17T10:03:56.709,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1204 fps=6.6 size=640x480,3632,190,2
+2026-04-17T10:03:56.861,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1205 fps=6.6 size=640x480,3635,190,2
+2026-04-17T10:03:57.010,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1206 fps=6.6 size=640x480,3638,190,2
+2026-04-17T10:03:57.159,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1207 fps=6.6 size=640x480,3641,190,2
+2026-04-17T10:03:57.310,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1208 fps=6.6 size=640x480,3644,190,2
+2026-04-17T10:03:57.463,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1209 fps=6.6 size=640x480,3647,190,2
+2026-04-17T10:03:57.615,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1210 fps=6.6 size=640x480,3650,190,2
+2026-04-17T10:03:57.776,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1211 fps=6.6 size=640x480,3653,190,2
+2026-04-17T10:03:57.923,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1212 fps=6.6 size=640x480,3656,190,2
+2026-04-17T10:03:58.075,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1213 fps=6.6 size=640x480,3659,190,2
+2026-04-17T10:03:58.222,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1214 fps=6.6 size=640x480,3662,190,2
+2026-04-17T10:03:58.382,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1215 fps=6.6 size=640x480,3665,190,2
+2026-04-17T10:03:58.523,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1216 fps=6.6 size=640x480,3668,190,2
+2026-04-17T10:03:58.673,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1217 fps=6.6 size=640x480,3671,190,2
+2026-04-17T10:03:58.829,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1218 fps=6.6 size=640x480,3674,190,2
+2026-04-17T10:03:58.975,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1219 fps=6.6 size=640x480,3677,190,2
+2026-04-17T10:03:59.122,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1220 fps=6.6 size=640x480,3680,190,2
+2026-04-17T10:03:59.273,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1221 fps=6.7 size=640x480,3683,190,2
+2026-04-17T10:03:59.429,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1222 fps=6.7 size=640x480,3686,190,2
+2026-04-17T10:03:59.583,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1223 fps=6.7 size=640x480,3689,190,2
+2026-04-17T10:03:59.732,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1224 fps=6.7 size=640x480,3692,190,2
+2026-04-17T10:03:59.882,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1225 fps=6.7 size=640x480,3695,190,2
+2026-04-17T10:04:00.066,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1226 fps=6.7 size=640x480,3699,190,2
+2026-04-17T10:04:00.216,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1227 fps=6.7 size=640x480,3702,190,2
+2026-04-17T10:04:00.368,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1228 fps=6.4 size=640x480,3705,190,2
+2026-04-17T10:04:00.521,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1229 fps=6.4 size=640x480,3708,190,2
+2026-04-17T10:04:00.671,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1230 fps=6.4 size=640x480,3711,190,2
+2026-04-17T10:04:00.821,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1231 fps=6.4 size=640x480,3714,190,2
+2026-04-17T10:04:00.972,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1232 fps=6.4 size=640x480,3717,190,2
+2026-04-17T10:04:01.135,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1233 fps=6.4 size=640x480,3720,190,2
+2026-04-17T10:04:01.278,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1234 fps=6.4 size=640x480,3723,190,2
+2026-04-17T10:04:01.428,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1235 fps=6.6 size=640x480,3726,190,2
+2026-04-17T10:04:01.580,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1236 fps=6.6 size=640x480,3729,190,2
+2026-04-17T10:04:01.731,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1237 fps=6.6 size=640x480,3732,190,2
+2026-04-17T10:04:01.879,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1238 fps=6.6 size=640x480,3735,190,2
+2026-04-17T10:04:02.032,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1239 fps=6.6 size=640x480,3738,190,2
+2026-04-17T10:04:02.179,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1240 fps=6.6 size=640x480,3741,190,2
+2026-04-17T10:04:02.328,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1241 fps=6.6 size=640x480,3744,190,2
+2026-04-17T10:04:02.480,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1242 fps=6.7 size=640x480,3747,190,2
+2026-04-17T10:04:02.631,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1243 fps=6.7 size=640x480,3750,190,2
+2026-04-17T10:04:02.783,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1244 fps=6.7 size=640x480,3753,190,2
+2026-04-17T10:04:02.930,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1245 fps=6.7 size=640x480,3756,190,2
+2026-04-17T10:04:03.087,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1246 fps=6.7 size=640x480,3759,190,2
+2026-04-17T10:04:03.230,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1247 fps=6.7 size=640x480,3762,190,2
+2026-04-17T10:04:03.380,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1248 fps=6.7 size=640x480,3765,190,2
+2026-04-17T10:04:03.529,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1249 fps=6.7 size=640x480,3768,190,2
+2026-04-17T10:04:03.681,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1250 fps=6.7 size=640x480,3771,190,2
+2026-04-17T10:04:03.828,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1251 fps=6.7 size=640x480,3774,190,2
+2026-04-17T10:04:03.985,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1252 fps=6.7 size=640x480,3777,190,2
+2026-04-17T10:04:04.135,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1253 fps=6.7 size=640x480,3780,190,2
+2026-04-17T10:04:04.287,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1254 fps=6.7 size=640x480,3783,190,2
+2026-04-17T10:04:04.437,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1255 fps=6.7 size=640x480,3786,190,2
+2026-04-17T10:04:04.586,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1256 fps=6.6 size=640x480,3789,190,2
+2026-04-17T10:04:04.737,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1257 fps=6.6 size=640x480,3792,190,2
+2026-04-17T10:04:04.887,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1258 fps=6.6 size=640x480,3795,190,2
+2026-04-17T10:04:05.036,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1259 fps=6.6 size=640x480,3798,190,2
+2026-04-17T10:04:05.187,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1260 fps=6.6 size=640x480,3801,190,2
+2026-04-17T10:04:05.338,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1261 fps=6.6 size=640x480,3804,190,2
+2026-04-17T10:04:05.494,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1262 fps=6.6 size=640x480,3807,190,2
+2026-04-17T10:04:05.645,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1263 fps=6.6 size=640x480,3810,190,2
+2026-04-17T10:04:05.812,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1264 fps=6.6 size=640x480,3814,190,2
+2026-04-17T10:04:05.960,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1265 fps=6.6 size=640x480,3817,190,2
+2026-04-17T10:04:06.109,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1266 fps=6.6 size=640x480,3820,190,2
+2026-04-17T10:04:06.267,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1267 fps=6.6 size=640x480,3823,190,2
+2026-04-17T10:04:06.414,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1268 fps=6.6 size=640x480,3826,190,2
+2026-04-17T10:04:06.577,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1269 fps=6.6 size=640x480,3829,190,2
+2026-04-17T10:04:06.715,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1270 fps=6.5 size=640x480,3832,190,2
+2026-04-17T10:04:06.867,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1271 fps=6.5 size=640x480,3835,190,2
+2026-04-17T10:04:07.015,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1272 fps=6.5 size=640x480,3838,190,2
+2026-04-17T10:04:07.171,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1273 fps=6.5 size=640x480,3841,190,2
+2026-04-17T10:04:07.319,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1274 fps=6.5 size=640x480,3844,190,2
+2026-04-17T10:04:07.470,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1275 fps=6.5 size=640x480,3847,190,2
+2026-04-17T10:04:07.629,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1276 fps=6.5 size=640x480,3850,190,2
+2026-04-17T10:04:07.768,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1277 fps=6.7 size=640x480,3853,190,2
+2026-04-17T10:04:07.933,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1278 fps=6.7 size=640x480,3856,190,2
+2026-04-17T10:04:08.069,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1279 fps=6.7 size=640x480,3859,190,2
+2026-04-17T10:04:08.217,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1280 fps=6.7 size=640x480,3862,190,2
+2026-04-17T10:04:08.368,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1281 fps=6.7 size=640x480,3865,190,2
+2026-04-17T10:04:08.516,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1282 fps=6.7 size=640x480,3868,190,2
+2026-04-17T10:04:08.668,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1283 fps=6.7 size=640x480,3871,190,2
+2026-04-17T10:04:08.819,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1284 fps=6.7 size=640x480,3874,190,2
+2026-04-17T10:04:08.969,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1285 fps=6.7 size=640x480,3877,190,2
+2026-04-17T10:04:09.120,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1286 fps=6.7 size=640x480,3880,190,2
+2026-04-17T10:04:09.269,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1287 fps=6.7 size=640x480,3883,190,2
+2026-04-17T10:04:09.420,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1288 fps=6.7 size=640x480,3886,190,2
+2026-04-17T10:04:09.568,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1289 fps=6.7 size=640x480,3889,190,2
+2026-04-17T10:04:09.718,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1290 fps=6.7 size=640x480,3892,190,2
+2026-04-17T10:04:09.868,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1291 fps=6.7 size=640x480,3895,190,2
+2026-04-17T10:04:10.020,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1292 fps=6.7 size=640x480,3898,190,2
+2026-04-17T10:04:10.170,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1293 fps=6.7 size=640x480,3901,190,2
+2026-04-17T10:04:10.321,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1294 fps=6.7 size=640x480,3904,190,2
+2026-04-17T10:04:10.471,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1295 fps=6.7 size=640x480,3907,190,2
+2026-04-17T10:04:10.623,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1296 fps=6.7 size=640x480,3910,190,2
+2026-04-17T10:04:10.773,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1297 fps=6.7 size=640x480,3913,190,2
+2026-04-17T10:04:10.927,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1298 fps=6.7 size=640x480,3916,190,2
+2026-04-17T10:04:11.071,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1299 fps=6.7 size=640x480,3919,190,2
+2026-04-17T10:04:11.225,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1300 fps=6.7 size=640x480,3922,190,2
+2026-04-17T10:04:11.373,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1301 fps=6.7 size=640x480,3925,190,2
+2026-04-17T10:04:11.525,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1302 fps=6.7 size=640x480,3928,190,2
+2026-04-17T10:04:11.676,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1303 fps=6.7 size=640x480,3931,190,2
+2026-04-17T10:04:11.826,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1304 fps=6.7 size=640x480,3934,190,2
+2026-04-17T10:04:11.979,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1305 fps=6.6 size=640x480,3937,190,2
+2026-04-17T10:04:12.145,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1306 fps=6.6 size=640x480,3940,190,2
+2026-04-17T10:04:12.297,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1307 fps=6.6 size=640x480,3943,190,2
+2026-04-17T10:04:12.470,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1308 fps=6.6 size=640x480,3947,190,2
+2026-04-17T10:04:12.610,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1309 fps=6.6 size=640x480,3950,190,2
+2026-04-17T10:04:12.766,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1310 fps=6.6 size=640x480,3953,190,2
+2026-04-17T10:04:12.914,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1311 fps=6.6 size=640x480,3956,190,2
+2026-04-17T10:04:13.059,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1312 fps=6.5 size=640x480,3959,190,2
+2026-04-17T10:04:13.211,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1313 fps=6.5 size=640x480,3962,190,2
+2026-04-17T10:04:13.370,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1314 fps=6.5 size=640x480,3965,190,2
+2026-04-17T10:04:13.511,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1315 fps=6.5 size=640x480,3968,190,2
+2026-04-17T10:04:13.662,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1316 fps=6.5 size=640x480,3971,190,2
+2026-04-17T10:04:13.811,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1317 fps=6.5 size=640x480,3974,190,2
+2026-04-17T10:04:13.980,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1318 fps=6.5 size=640x480,3977,190,2
+2026-04-17T10:04:14.131,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1319 fps=6.5 size=640x480,3980,190,2
+2026-04-17T10:04:14.286,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1320 fps=6.5 size=640x480,3983,190,2
+2026-04-17T10:04:14.435,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1321 fps=6.5 size=640x480,3986,190,2
+2026-04-17T10:04:14.584,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1322 fps=6.5 size=640x480,3989,190,2
+2026-04-17T10:04:14.733,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1323 fps=6.5 size=640x480,3992,190,2
+2026-04-17T10:04:14.883,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1324 fps=6.5 size=640x480,3995,190,2
+2026-04-17T10:04:15.036,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1325 fps=6.5 size=640x480,3998,190,2
+2026-04-17T10:04:15.185,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1326 fps=6.6 size=640x480,4001,190,2
+2026-04-17T10:04:15.335,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1327 fps=6.6 size=640x480,4004,190,2
+2026-04-17T10:04:15.484,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1328 fps=6.6 size=640x480,4007,190,2
+2026-04-17T10:04:15.632,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1329 fps=6.6 size=640x480,4010,190,2
+2026-04-17T10:04:15.782,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1330 fps=6.6 size=640x480,4013,190,2
+2026-04-17T10:04:15.934,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1331 fps=6.6 size=640x480,4016,190,2
+2026-04-17T10:04:16.083,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1332 fps=6.6 size=640x480,4019,190,2
+2026-04-17T10:04:16.233,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1333 fps=6.7 size=640x480,4022,190,2
+2026-04-17T10:04:16.394,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1334 fps=6.7 size=640x480,4025,190,2
+2026-04-17T10:04:16.545,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1335 fps=6.7 size=640x480,4028,190,2
+2026-04-17T10:04:16.696,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1336 fps=6.7 size=640x480,4031,190,2
+2026-04-17T10:04:16.847,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1337 fps=6.7 size=640x480,4034,190,2
+2026-04-17T10:04:16.996,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1338 fps=6.7 size=640x480,4037,190,2
+2026-04-17T10:04:17.147,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1339 fps=6.7 size=640x480,4040,190,2
+2026-04-17T10:04:17.298,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1340 fps=6.6 size=640x480,4043,190,2
+2026-04-17T10:04:17.449,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1341 fps=6.6 size=640x480,4046,190,2
+2026-04-17T10:04:17.599,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1342 fps=6.6 size=640x480,4049,190,2
+2026-04-17T10:04:17.749,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1343 fps=6.6 size=640x480,4052,190,2
+2026-04-17T10:04:17.899,camera_info,2,blue,,,,,camera_info_update,camera_ok frames=1344 fps=6.6 size=640x480,4055,190,2
+2026-04-17T10:04:18.043,node_stopping,2,blue,,,,,destroy_node,camera_ok frames=1344 fps=6.6 size=640x480,4058,190,2

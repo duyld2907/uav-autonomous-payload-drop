@@ -1,0 +1,48 @@
+[0.948s] Invoking command in '/ws/build/uav_control': PYTHONPATH=/ws/build/uav_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/install/uav_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /ws/build/uav_control/build
+[1.242s] running develop
+[1.373s] Removing /ws/install/uav_control/lib/python3.10/site-packages/uav-control.egg-link (link to .)
+[1.471s] Invoked command in '/ws/build/uav_control' returned '0': PYTHONPATH=/ws/build/uav_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/install/uav_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /ws/build/uav_control/build
+[1.476s] Invoking command in '/ws/src/uav_control': PYTHONPATH=/ws/build/uav_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/install/uav_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/uav_control build --build-base /ws/build/uav_control/build install --record /ws/build/uav_control/install.log --single-version-externally-managed install_data --force
+[1.763s] running egg_info
+[1.764s] writing ../../build/uav_control/uav_control.egg-info/PKG-INFO
+[1.773s] writing dependency_links to ../../build/uav_control/uav_control.egg-info/dependency_links.txt
+[1.773s] writing entry points to ../../build/uav_control/uav_control.egg-info/entry_points.txt
+[1.774s] writing requirements to ../../build/uav_control/uav_control.egg-info/requires.txt
+[1.774s] writing top-level names to ../../build/uav_control/uav_control.egg-info/top_level.txt
+[1.777s] reading manifest file '../../build/uav_control/uav_control.egg-info/SOURCES.txt'
+[1.779s] writing manifest file '../../build/uav_control/uav_control.egg-info/SOURCES.txt'
+[1.779s] running build
+[1.780s] running build_py
+[1.780s] creating /ws/build/uav_control/build
+[1.781s] creating /ws/build/uav_control/build/lib
+[1.781s] creating /ws/build/uav_control/build/lib/uav_control
+[1.781s] copying uav_control/vision_node.py -> /ws/build/uav_control/build/lib/uav_control
+[1.782s] copying uav_control/camera_node.py -> /ws/build/uav_control/build/lib/uav_control
+[1.782s] copying uav_control/__init__.py -> /ws/build/uav_control/build/lib/uav_control
+[1.782s] copying uav_control/mavlink_interface.py -> /ws/build/uav_control/build/lib/uav_control
+[1.782s] copying uav_control/auto_control_node.py -> /ws/build/uav_control/build/lib/uav_control
+[1.783s] running install
+[1.783s] running install_lib
+[1.788s] creating /ws/install/uav_control/lib/python3.10/site-packages/uav_control
+[1.788s] copying /ws/build/uav_control/build/lib/uav_control/vision_node.py -> /ws/install/uav_control/lib/python3.10/site-packages/uav_control
+[1.789s] copying /ws/build/uav_control/build/lib/uav_control/camera_node.py -> /ws/install/uav_control/lib/python3.10/site-packages/uav_control
+[1.789s] copying /ws/build/uav_control/build/lib/uav_control/__init__.py -> /ws/install/uav_control/lib/python3.10/site-packages/uav_control
+[1.790s] copying /ws/build/uav_control/build/lib/uav_control/mavlink_interface.py -> /ws/install/uav_control/lib/python3.10/site-packages/uav_control
+[1.790s] copying /ws/build/uav_control/build/lib/uav_control/auto_control_node.py -> /ws/install/uav_control/lib/python3.10/site-packages/uav_control
+[1.791s] byte-compiling /ws/install/uav_control/lib/python3.10/site-packages/uav_control/vision_node.py to vision_node.cpython-310.pyc
+[1.803s] byte-compiling /ws/install/uav_control/lib/python3.10/site-packages/uav_control/camera_node.py to camera_node.cpython-310.pyc
+[1.804s] byte-compiling /ws/install/uav_control/lib/python3.10/site-packages/uav_control/__init__.py to __init__.cpython-310.pyc
+[1.805s] byte-compiling /ws/install/uav_control/lib/python3.10/site-packages/uav_control/mavlink_interface.py to mavlink_interface.cpython-310.pyc
+[1.809s] byte-compiling /ws/install/uav_control/lib/python3.10/site-packages/uav_control/auto_control_node.py to auto_control_node.cpython-310.pyc
+[1.818s] running install_data
+[1.818s] copying resource/uav_control -> /ws/install/uav_control/share/ament_index/resource_index/packages
+[1.819s] copying package.xml -> /ws/install/uav_control/share/uav_control
+[1.819s] copying launch/auto_control.launch.py -> /ws/install/uav_control/share/uav_control/launch
+[1.819s] running install_egg_info
+[1.821s] Copying ../../build/uav_control/uav_control.egg-info to /ws/install/uav_control/lib/python3.10/site-packages/uav_control-0.0.0-py3.10.egg-info
+[1.822s] running install_scripts
+[1.857s] Installing auto_control_node script to /ws/install/uav_control/lib/uav_control
+[1.858s] Installing camera_node script to /ws/install/uav_control/lib/uav_control
+[1.859s] Installing vision_node script to /ws/install/uav_control/lib/uav_control
+[1.860s] writing list of installed files to '/ws/build/uav_control/install.log'
+[1.942s] Invoked command in '/ws/src/uav_control' returned '0': PYTHONPATH=/ws/build/uav_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/ws/install/uav_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/uav_control build --build-base /ws/build/uav_control/build install --record /ws/build/uav_control/install.log --single-version-externally-managed install_data --force

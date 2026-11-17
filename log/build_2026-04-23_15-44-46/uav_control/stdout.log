@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing uav_control.egg-info/PKG-INFO
+writing dependency_links to uav_control.egg-info/dependency_links.txt
+writing entry points to uav_control.egg-info/entry_points.txt
+writing requirements to uav_control.egg-info/requires.txt
+writing top-level names to uav_control.egg-info/top_level.txt
+reading manifest file 'uav_control.egg-info/SOURCES.txt'
+writing manifest file 'uav_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /ws/install/uav_control/lib/python3.10/site-packages/uav-control.egg-link (link to .)
+Installing auto_control_node script to /ws/install/uav_control/lib/uav_control
+Installing camera_node script to /ws/install/uav_control/lib/uav_control
+Installing servo script to /ws/install/uav_control/lib/uav_control
+Installing vision_node script to /ws/install/uav_control/lib/uav_control
+
+Installed /ws/build/uav_control
+running symlink_data

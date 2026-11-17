@@ -1,0 +1,1 @@
+/ws/build/uav_control/launch/auto_control.launch.py

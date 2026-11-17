@@ -1,0 +1,237 @@
+timestamp,event,seq_index,current_color,target_found,err_x,err_y,radius,status,camera_info,frame_counter,detect_counter,drop_counter
+2026-04-17T09:33:13.184,node_started,0,red,,,,,vision_node_started,camera_info_unknown,0,0,0
+2026-04-17T09:33:13.215,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:14.215,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:15.216,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:16.263,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:17.269,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:18.315,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:19.365,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:20.415,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:21.463,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:22.465,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:23.466,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:24.468,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:25.513,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:26.516,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:27.565,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:28.568,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:29.567,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:30.619,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:31.664,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:32.665,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:33.665,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:34.714,waiting_for_image,0,red,,,,,no_frame_yet,camera_info_unknown,0,0,0
+2026-04-17T09:33:35.095,camera_info,0,red,,,,,camera_info_update,camera_ok frames=1 fps=0.0 size=640x480,0,0,0
+2026-04-17T09:33:35.124,target_detected,0,red,True,-320.00,190.00,91.00,red err_x=-320 err_y=190 r=91,camera_ok frames=1 fps=0.0 size=640x480,1,1,0
+2026-04-17T09:33:35.158,video_recording_started,0,red,,,,,/ws/logs/vision_debug.avi,camera_ok frames=1 fps=0.0 size=640x480,1,1,0
+2026-04-17T09:33:35.182,debug_view_unavailable,0,red,,,,,"OpenCV(4.13.0) /io/opencv/modules/highgui/src/window.cpp:1301: error: (-2:Unspecified error) The function is not implemented. Rebuild the library with Windows, GTK+ 2.x or Cocoa support. If you are on Ubuntu or Debian, install libgtk2.0-dev and pkg-config, then re-run cmake or configure script in function 'cvShowImage'
+",camera_ok frames=1 fps=0.0 size=640x480,1,1,0
+2026-04-17T09:33:35.192,target_detected,0,red,True,-308.00,169.00,91.00,red err_x=-308 err_y=169 r=91,camera_ok frames=1 fps=0.0 size=640x480,2,2,0
+2026-04-17T09:33:35.215,target_detected,0,red,True,-266.00,101.00,91.00,red err_x=-266 err_y=101 r=91,camera_ok frames=1 fps=0.0 size=640x480,3,3,0
+2026-04-17T09:33:35.243,camera_info,0,red,,,,,camera_info_update,camera_ok frames=2 fps=0.0 size=640x480,3,3,0
+2026-04-17T09:33:35.264,target_detected,0,red,True,-192.00,-21.00,91.00,red err_x=-192 err_y=-21 r=91,camera_ok frames=2 fps=0.0 size=640x480,4,4,0
+2026-04-17T09:33:35.321,target_detected,0,red,True,-124.00,-133.00,91.00,red err_x=-124 err_y=-133 r=91,camera_ok frames=2 fps=0.0 size=640x480,5,5,0
+2026-04-17T09:33:35.368,target_detected,0,red,True,-89.00,-192.00,91.00,red err_x=-89 err_y=-192 r=91,camera_ok frames=2 fps=0.0 size=640x480,6,6,0
+2026-04-17T09:33:35.388,camera_info,0,red,,,,,camera_info_update,camera_ok frames=3 fps=0.0 size=640x480,6,6,0
+2026-04-17T09:33:35.418,target_detected,0,red,True,-80.00,-208.00,91.00,red err_x=-80 err_y=-208 r=91,camera_ok frames=3 fps=0.0 size=640x480,7,7,0
+2026-04-17T09:33:35.471,target_detected,0,red,True,-85.00,-201.00,91.00,red err_x=-85 err_y=-201 r=91,camera_ok frames=3 fps=0.0 size=640x480,8,8,0
+2026-04-17T09:33:35.520,target_detected,0,red,True,-95.00,-184.00,91.00,red err_x=-95 err_y=-184 r=91,camera_ok frames=3 fps=0.0 size=640x480,9,9,0
+2026-04-17T09:33:35.535,camera_info,0,red,,,,,camera_info_update,camera_ok frames=4 fps=3.5 size=640x480,9,9,0
+2026-04-17T09:33:35.571,target_detected,0,red,True,-106.00,-165.00,93.00,red err_x=-106 err_y=-165 r=93,camera_ok frames=4 fps=3.5 size=640x480,10,10,0
+2026-04-17T09:33:35.615,target_detected,0,red,True,-115.00,-150.00,93.00,red err_x=-115 err_y=-150 r=93,camera_ok frames=4 fps=3.5 size=640x480,11,11,0
+2026-04-17T09:33:35.665,target_detected,0,red,True,-122.00,-138.00,93.00,red err_x=-122 err_y=-138 r=93,camera_ok frames=4 fps=3.5 size=640x480,12,12,0
+2026-04-17T09:33:35.682,camera_info,0,red,,,,,camera_info_update,camera_ok frames=5 fps=3.5 size=640x480,12,12,0
+2026-04-17T09:33:35.716,target_detected,0,red,True,-128.00,-131.00,92.00,red err_x=-128 err_y=-131 r=92,camera_ok frames=5 fps=3.5 size=640x480,13,13,0
+2026-04-17T09:33:35.764,target_detected,0,red,True,-131.00,-127.00,92.00,red err_x=-131 err_y=-127 r=92,camera_ok frames=5 fps=3.5 size=640x480,14,14,0
+2026-04-17T09:33:35.815,target_detected,0,red,True,-133.00,-125.00,92.00,red err_x=-133 err_y=-125 r=92,camera_ok frames=5 fps=3.5 size=640x480,15,15,0
+2026-04-17T09:33:35.829,camera_info,0,red,,,,,camera_info_update,camera_ok frames=6 fps=3.5 size=640x480,15,15,0
+2026-04-17T09:33:35.976,camera_info,0,red,,,,,camera_info_update,camera_ok frames=7 fps=3.5 size=640x480,18,18,0
+2026-04-17T09:33:36.014,target_detected,0,red,True,-132.00,-126.00,91.00,red err_x=-132 err_y=-126 r=91,camera_ok frames=7 fps=3.5 size=640x480,19,19,0
+2026-04-17T09:33:36.064,target_detected,0,red,True,-132.00,-127.00,91.00,red err_x=-132 err_y=-127 r=91,camera_ok frames=7 fps=3.5 size=640x480,20,20,0
+2026-04-17T09:33:36.123,camera_info,0,red,,,,,camera_info_update,camera_ok frames=8 fps=3.5 size=640x480,21,21,0
+2026-04-17T09:33:36.165,target_detected,0,red,True,-130.00,-125.00,92.00,red err_x=-130 err_y=-125 r=92,camera_ok frames=8 fps=3.5 size=640x480,22,22,0
+2026-04-17T09:33:36.215,target_detected,0,red,True,-129.00,-123.00,92.00,red err_x=-129 err_y=-123 r=92,camera_ok frames=8 fps=3.5 size=640x480,23,23,0
+2026-04-17T09:33:36.270,camera_info,0,red,,,,,camera_info_update,camera_ok frames=9 fps=3.5 size=640x480,24,24,0
+2026-04-17T09:33:36.314,target_detected,0,red,True,-129.00,-123.00,91.00,red err_x=-129 err_y=-123 r=91,camera_ok frames=9 fps=3.5 size=640x480,25,25,0
+2026-04-17T09:33:36.365,target_detected,0,red,True,-129.00,-124.00,91.00,red err_x=-129 err_y=-124 r=91,camera_ok frames=9 fps=3.5 size=640x480,26,26,0
+2026-04-17T09:33:36.418,camera_info,0,red,,,,,camera_info_update,camera_ok frames=10 fps=3.5 size=640x480,27,27,0
+2026-04-17T09:33:36.568,target_detected,0,red,True,-129.00,-125.00,91.00,red err_x=-129 err_y=-125 r=91,camera_ok frames=10 fps=3.5 size=640x480,30,30,0
+2026-04-17T09:33:36.576,camera_info,0,red,,,,,camera_info_update,camera_ok frames=11 fps=6.8 size=640x480,30,30,0
+2026-04-17T09:33:36.720,target_detected,0,red,True,-130.00,-125.00,91.00,red err_x=-130 err_y=-125 r=91,camera_ok frames=11 fps=6.8 size=640x480,33,33,0
+2026-04-17T09:33:36.737,camera_info,0,red,,,,,camera_info_update,camera_ok frames=12 fps=6.8 size=640x480,33,33,0
+2026-04-17T09:33:36.859,camera_info,0,red,,,,,camera_info_update,camera_ok frames=13 fps=6.8 size=640x480,35,35,0
+2026-04-17T09:33:37.006,camera_info,0,red,,,,,camera_info_update,camera_ok frames=14 fps=6.8 size=640x480,38,38,0
+2026-04-17T09:33:37.019,target_detected,0,red,True,-130.00,-124.00,91.00,red err_x=-130 err_y=-124 r=91,camera_ok frames=14 fps=6.8 size=640x480,39,39,0
+2026-04-17T09:33:37.155,camera_info,0,red,,,,,camera_info_update,camera_ok frames=15 fps=6.8 size=640x480,41,41,0
+2026-04-17T09:33:37.170,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=15 fps=6.8 size=640x480,42,42,0
+2026-04-17T09:33:37.301,camera_info,0,red,,,,,camera_info_update,camera_ok frames=16 fps=6.8 size=640x480,44,44,0
+2026-04-17T09:33:37.450,camera_info,0,red,,,,,camera_info_update,camera_ok frames=17 fps=6.8 size=640x480,47,47,0
+2026-04-17T09:33:37.468,target_detected,0,red,True,-129.00,-125.00,91.00,red err_x=-129 err_y=-125 r=91,camera_ok frames=17 fps=6.8 size=640x480,48,48,0
+2026-04-17T09:33:37.598,camera_info,0,red,,,,,camera_info_update,camera_ok frames=18 fps=6.8 size=640x480,50,50,0
+2026-04-17T09:33:37.614,target_detected,0,red,True,-130.00,-125.00,92.00,red err_x=-130 err_y=-125 r=92,camera_ok frames=18 fps=6.8 size=640x480,51,51,0
+2026-04-17T09:33:37.665,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=18 fps=6.8 size=640x480,52,52,0
+2026-04-17T09:33:37.745,camera_info,0,red,,,,,camera_info_update,camera_ok frames=19 fps=6.8 size=640x480,53,53,0
+2026-04-17T09:33:37.893,camera_info,0,red,,,,,camera_info_update,camera_ok frames=20 fps=6.8 size=640x480,56,56,0
+2026-04-17T09:33:38.039,camera_info,0,red,,,,,camera_info_update,camera_ok frames=21 fps=6.8 size=640x480,59,59,0
+2026-04-17T09:33:38.188,camera_info,0,red,,,,,camera_info_update,camera_ok frames=22 fps=6.8 size=640x480,62,62,0
+2026-04-17T09:33:38.265,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=22 fps=6.8 size=640x480,64,64,0
+2026-04-17T09:33:38.335,camera_info,0,red,,,,,camera_info_update,camera_ok frames=23 fps=6.8 size=640x480,65,65,0
+2026-04-17T09:33:38.485,camera_info,0,red,,,,,camera_info_update,camera_ok frames=24 fps=6.8 size=640x480,68,68,0
+2026-04-17T09:33:38.632,camera_info,0,red,,,,,camera_info_update,camera_ok frames=25 fps=6.8 size=640x480,71,71,0
+2026-04-17T09:33:38.665,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=25 fps=6.8 size=640x480,72,72,0
+2026-04-17T09:33:38.716,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=25 fps=6.8 size=640x480,73,73,0
+2026-04-17T09:33:38.778,camera_info,0,red,,,,,camera_info_update,camera_ok frames=26 fps=6.8 size=640x480,74,74,0
+2026-04-17T09:33:38.814,target_detected,0,red,True,-129.00,-124.00,91.00,red err_x=-129 err_y=-124 r=91,camera_ok frames=26 fps=6.8 size=640x480,75,75,0
+2026-04-17T09:33:38.924,camera_info,0,red,,,,,camera_info_update,camera_ok frames=27 fps=6.8 size=640x480,77,77,0
+2026-04-17T09:33:38.964,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=27 fps=6.8 size=640x480,78,78,0
+2026-04-17T09:33:39.078,camera_info,0,red,,,,,camera_info_update,camera_ok frames=28 fps=6.8 size=640x480,80,80,0
+2026-04-17T09:33:39.222,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=28 fps=6.8 size=640x480,83,83,0
+2026-04-17T09:33:39.232,camera_info,0,red,,,,,camera_info_update,camera_ok frames=29 fps=6.8 size=640x480,83,83,0
+2026-04-17T09:33:39.265,target_detected,0,red,True,-129.00,-125.00,91.00,red err_x=-129 err_y=-125 r=91,camera_ok frames=29 fps=6.8 size=640x480,84,84,0
+2026-04-17T09:33:39.382,camera_info,0,red,,,,,camera_info_update,camera_ok frames=30 fps=6.8 size=640x480,86,86,0
+2026-04-17T09:33:39.418,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=30 fps=6.8 size=640x480,87,87,0
+2026-04-17T09:33:39.532,camera_info,0,red,,,,,camera_info_update,camera_ok frames=31 fps=6.8 size=640x480,89,89,0
+2026-04-17T09:33:39.615,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=31 fps=6.8 size=640x480,91,91,0
+2026-04-17T09:33:39.668,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=31 fps=6.8 size=640x480,92,92,0
+2026-04-17T09:33:39.678,camera_info,0,red,,,,,camera_info_update,camera_ok frames=32 fps=6.8 size=640x480,92,92,0
+2026-04-17T09:33:39.764,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=32 fps=6.8 size=640x480,94,94,0
+2026-04-17T09:33:39.811,camera_info,0,red,,,,,camera_info_update,camera_ok frames=33 fps=6.8 size=640x480,94,94,0
+2026-04-17T09:33:39.959,camera_info,0,red,,,,,camera_info_update,camera_ok frames=34 fps=6.8 size=640x480,97,97,0
+2026-04-17T09:33:39.968,target_detected,0,red,True,-129.00,-124.00,91.00,red err_x=-129 err_y=-124 r=91,camera_ok frames=34 fps=6.8 size=640x480,98,98,0
+2026-04-17T09:33:40.103,camera_info,0,red,,,,,camera_info_update,camera_ok frames=35 fps=6.8 size=640x480,100,100,0
+2026-04-17T09:33:40.171,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=35 fps=6.8 size=640x480,102,102,0
+2026-04-17T09:33:40.250,camera_info,0,red,,,,,camera_info_update,camera_ok frames=36 fps=6.8 size=640x480,103,103,0
+2026-04-17T09:33:40.267,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=36 fps=6.8 size=640x480,104,104,0
+2026-04-17T09:33:40.398,camera_info,0,red,,,,,camera_info_update,camera_ok frames=37 fps=6.8 size=640x480,106,106,0
+2026-04-17T09:33:40.549,camera_info,0,red,,,,,camera_info_update,camera_ok frames=38 fps=6.8 size=640x480,109,109,0
+2026-04-17T09:33:40.615,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=38 fps=6.8 size=640x480,111,111,0
+2026-04-17T09:33:40.693,camera_info,0,red,,,,,camera_info_update,camera_ok frames=39 fps=6.8 size=640x480,112,112,0
+2026-04-17T09:33:40.714,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=39 fps=6.8 size=640x480,113,113,0
+2026-04-17T09:33:40.814,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=39 fps=6.8 size=640x480,115,115,0
+2026-04-17T09:33:40.842,camera_info,0,red,,,,,camera_info_update,camera_ok frames=40 fps=6.8 size=640x480,115,115,0
+2026-04-17T09:33:40.990,camera_info,0,red,,,,,camera_info_update,camera_ok frames=41 fps=6.8 size=640x480,118,118,0
+2026-04-17T09:33:41.137,camera_info,0,red,,,,,camera_info_update,camera_ok frames=42 fps=6.8 size=640x480,121,121,0
+2026-04-17T09:33:41.269,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=42 fps=6.8 size=640x480,124,124,0
+2026-04-17T09:33:41.284,camera_info,0,red,,,,,camera_info_update,camera_ok frames=43 fps=6.8 size=640x480,124,124,0
+2026-04-17T09:33:41.433,camera_info,0,red,,,,,camera_info_update,camera_ok frames=44 fps=6.8 size=640x480,127,127,0
+2026-04-17T09:33:41.518,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=44 fps=6.8 size=640x480,129,129,0
+2026-04-17T09:33:41.584,camera_info,0,red,,,,,camera_info_update,camera_ok frames=45 fps=6.8 size=640x480,130,130,0
+2026-04-17T09:33:41.618,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=45 fps=6.8 size=640x480,131,131,0
+2026-04-17T09:33:41.718,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=45 fps=6.8 size=640x480,133,133,0
+2026-04-17T09:33:41.735,camera_info,0,red,,,,,camera_info_update,camera_ok frames=46 fps=6.8 size=640x480,133,133,0
+2026-04-17T09:33:41.768,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=46 fps=6.8 size=640x480,134,134,0
+2026-04-17T09:33:41.868,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=46 fps=6.8 size=640x480,136,136,0
+2026-04-17T09:33:41.883,camera_info,0,red,,,,,camera_info_update,camera_ok frames=47 fps=6.8 size=640x480,136,136,0
+2026-04-17T09:33:41.919,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=47 fps=6.8 size=640x480,137,137,0
+2026-04-17T09:33:42.018,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=47 fps=6.8 size=640x480,139,139,0
+2026-04-17T09:33:42.037,camera_info,0,red,,,,,camera_info_update,camera_ok frames=48 fps=6.8 size=640x480,139,139,0
+2026-04-17T09:33:42.071,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=48 fps=6.8 size=640x480,140,140,0
+2026-04-17T09:33:42.169,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=48 fps=6.8 size=640x480,142,142,0
+2026-04-17T09:33:42.185,camera_info,0,red,,,,,camera_info_update,camera_ok frames=49 fps=6.8 size=640x480,142,142,0
+2026-04-17T09:33:42.219,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=49 fps=6.8 size=640x480,143,143,0
+2026-04-17T09:33:42.318,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=49 fps=6.8 size=640x480,145,145,0
+2026-04-17T09:33:42.337,camera_info,0,red,,,,,camera_info_update,camera_ok frames=50 fps=6.8 size=640x480,145,145,0
+2026-04-17T09:33:42.487,camera_info,0,red,,,,,camera_info_update,camera_ok frames=51 fps=6.8 size=640x480,148,148,0
+2026-04-17T09:33:42.518,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=51 fps=6.8 size=640x480,149,149,0
+2026-04-17T09:33:42.568,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=51 fps=6.8 size=640x480,150,150,0
+2026-04-17T09:33:42.610,camera_info,0,red,,,,,camera_info_update,camera_ok frames=52 fps=6.8 size=640x480,150,150,0
+2026-04-17T09:33:42.668,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=52 fps=6.8 size=640x480,152,152,0
+2026-04-17T09:33:42.760,camera_info,0,red,,,,,camera_info_update,camera_ok frames=53 fps=6.8 size=640x480,153,153,0
+2026-04-17T09:33:42.764,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=53 fps=6.8 size=640x480,154,154,0
+2026-04-17T09:33:42.910,camera_info,0,red,,,,,camera_info_update,camera_ok frames=54 fps=6.8 size=640x480,156,156,0
+2026-04-17T09:33:43.058,camera_info,0,red,,,,,camera_info_update,camera_ok frames=55 fps=6.8 size=640x480,159,159,0
+2026-04-17T09:33:43.205,camera_info,0,red,,,,,camera_info_update,camera_ok frames=56 fps=6.8 size=640x480,162,162,0
+2026-04-17T09:33:43.215,target_detected,0,red,True,-129.00,-125.00,91.00,red err_x=-129 err_y=-125 r=91,camera_ok frames=56 fps=6.8 size=640x480,163,163,0
+2026-04-17T09:33:43.353,camera_info,0,red,,,,,camera_info_update,camera_ok frames=57 fps=6.8 size=640x480,165,165,0
+2026-04-17T09:33:43.364,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=57 fps=6.8 size=640x480,166,166,0
+2026-04-17T09:33:43.414,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=57 fps=6.8 size=640x480,167,167,0
+2026-04-17T09:33:43.503,camera_info,0,red,,,,,camera_info_update,camera_ok frames=58 fps=6.8 size=640x480,168,168,0
+2026-04-17T09:33:43.648,camera_info,0,red,,,,,camera_info_update,camera_ok frames=59 fps=6.8 size=640x480,171,171,0
+2026-04-17T09:33:43.799,camera_info,0,red,,,,,camera_info_update,camera_ok frames=60 fps=6.7 size=640x480,174,174,0
+2026-04-17T09:33:43.915,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=60 fps=6.7 size=640x480,177,177,0
+2026-04-17T09:33:43.946,camera_info,0,red,,,,,camera_info_update,camera_ok frames=61 fps=6.7 size=640x480,177,177,0
+2026-04-17T09:33:44.014,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=61 fps=6.7 size=640x480,179,179,0
+2026-04-17T09:33:44.092,camera_info,0,red,,,,,camera_info_update,camera_ok frames=62 fps=6.7 size=640x480,180,180,0
+2026-04-17T09:33:44.115,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=62 fps=6.7 size=640x480,181,181,0
+2026-04-17T09:33:44.223,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=62 fps=6.7 size=640x480,183,183,0
+2026-04-17T09:33:44.239,camera_info,0,red,,,,,camera_info_update,camera_ok frames=63 fps=6.7 size=640x480,183,183,0
+2026-04-17T09:33:44.267,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=63 fps=6.7 size=640x480,184,184,0
+2026-04-17T09:33:44.371,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=63 fps=6.7 size=640x480,186,186,0
+2026-04-17T09:33:44.387,camera_info,0,red,,,,,camera_info_update,camera_ok frames=64 fps=6.7 size=640x480,186,186,0
+2026-04-17T09:33:44.415,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=64 fps=6.7 size=640x480,187,187,0
+2026-04-17T09:33:44.519,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=64 fps=6.7 size=640x480,189,189,0
+2026-04-17T09:33:44.539,camera_info,0,red,,,,,camera_info_update,camera_ok frames=65 fps=6.7 size=640x480,189,189,0
+2026-04-17T09:33:44.564,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=65 fps=6.7 size=640x480,190,190,0
+2026-04-17T09:33:44.669,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=65 fps=6.7 size=640x480,192,192,0
+2026-04-17T09:33:44.686,camera_info,0,red,,,,,camera_info_update,camera_ok frames=66 fps=6.7 size=640x480,192,192,0
+2026-04-17T09:33:44.836,camera_info,0,red,,,,,camera_info_update,camera_ok frames=67 fps=6.8 size=640x480,195,195,0
+2026-04-17T09:33:44.988,camera_info,0,red,,,,,camera_info_update,camera_ok frames=68 fps=6.8 size=640x480,198,198,0
+2026-04-17T09:33:45.117,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=68 fps=6.8 size=640x480,201,201,0
+2026-04-17T09:33:45.137,camera_info,0,red,,,,,camera_info_update,camera_ok frames=69 fps=6.8 size=640x480,201,201,0
+2026-04-17T09:33:45.287,camera_info,0,red,,,,,camera_info_update,camera_ok frames=70 fps=6.8 size=640x480,204,204,0
+2026-04-17T09:33:45.433,camera_info,0,red,,,,,camera_info_update,camera_ok frames=71 fps=6.8 size=640x480,207,207,0
+2026-04-17T09:33:45.582,camera_info,0,red,,,,,camera_info_update,camera_ok frames=72 fps=6.8 size=640x480,210,210,0
+2026-04-17T09:33:45.664,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=72 fps=6.8 size=640x480,212,212,0
+2026-04-17T09:33:45.731,camera_info,0,red,,,,,camera_info_update,camera_ok frames=73 fps=6.8 size=640x480,213,213,0
+2026-04-17T09:33:45.768,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=73 fps=6.8 size=640x480,214,214,0
+2026-04-17T09:33:45.868,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=73 fps=6.8 size=640x480,216,216,0
+2026-04-17T09:33:45.880,camera_info,0,red,,,,,camera_info_update,camera_ok frames=74 fps=6.7 size=640x480,216,216,0
+2026-04-17T09:33:45.915,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=74 fps=6.7 size=640x480,217,217,0
+2026-04-17T09:33:46.014,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=74 fps=6.7 size=640x480,219,219,0
+2026-04-17T09:33:46.029,camera_info,0,red,,,,,camera_info_update,camera_ok frames=75 fps=6.7 size=640x480,219,219,0
+2026-04-17T09:33:46.177,camera_info,0,red,,,,,camera_info_update,camera_ok frames=76 fps=6.7 size=640x480,222,222,0
+2026-04-17T09:33:46.217,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=76 fps=6.7 size=640x480,223,223,0
+2026-04-17T09:33:46.268,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=76 fps=6.7 size=640x480,224,224,0
+2026-04-17T09:33:46.325,camera_info,0,red,,,,,camera_info_update,camera_ok frames=77 fps=6.7 size=640x480,225,225,0
+2026-04-17T09:33:46.474,camera_info,0,red,,,,,camera_info_update,camera_ok frames=78 fps=6.7 size=640x480,228,228,0
+2026-04-17T09:33:46.515,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=78 fps=6.7 size=640x480,229,229,0
+2026-04-17T09:33:46.571,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=78 fps=6.7 size=640x480,230,230,0
+2026-04-17T09:33:46.624,camera_info,0,red,,,,,camera_info_update,camera_ok frames=79 fps=6.7 size=640x480,231,231,0
+2026-04-17T09:33:46.665,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=79 fps=6.7 size=640x480,232,232,0
+2026-04-17T09:33:46.766,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=79 fps=6.7 size=640x480,234,234,0
+2026-04-17T09:33:46.776,camera_info,0,red,,,,,camera_info_update,camera_ok frames=80 fps=6.7 size=640x480,234,234,0
+2026-04-17T09:33:46.817,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=80 fps=6.7 size=640x480,235,235,0
+2026-04-17T09:33:46.915,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=80 fps=6.7 size=640x480,237,237,0
+2026-04-17T09:33:46.921,camera_info,0,red,,,,,camera_info_update,camera_ok frames=81 fps=6.7 size=640x480,237,237,0
+2026-04-17T09:33:46.964,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=81 fps=6.7 size=640x480,238,238,0
+2026-04-17T09:33:47.070,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=81 fps=6.7 size=640x480,240,240,0
+2026-04-17T09:33:47.087,camera_info,0,red,,,,,camera_info_update,camera_ok frames=82 fps=6.7 size=640x480,240,240,0
+2026-04-17T09:33:47.236,camera_info,0,red,,,,,camera_info_update,camera_ok frames=83 fps=6.7 size=640x480,243,243,0
+2026-04-17T09:33:47.384,camera_info,0,red,,,,,camera_info_update,camera_ok frames=84 fps=6.7 size=640x480,246,246,0
+2026-04-17T09:33:47.518,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=84 fps=6.7 size=640x480,249,249,0
+2026-04-17T09:33:47.536,camera_info,0,red,,,,,camera_info_update,camera_ok frames=85 fps=6.7 size=640x480,249,249,0
+2026-04-17T09:33:47.670,camera_info,0,red,,,,,camera_info_update,camera_ok frames=86 fps=6.7 size=640x480,252,252,0
+2026-04-17T09:33:47.765,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=86 fps=6.7 size=640x480,254,254,0
+2026-04-17T09:33:47.819,camera_info,0,red,,,,,camera_info_update,camera_ok frames=87 fps=6.7 size=640x480,255,255,0
+2026-04-17T09:33:47.864,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=87 fps=6.7 size=640x480,256,256,0
+2026-04-17T09:33:47.966,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=87 fps=6.7 size=640x480,258,258,0
+2026-04-17T09:33:47.970,camera_info,0,red,,,,,camera_info_update,camera_ok frames=88 fps=6.7 size=640x480,258,258,0
+2026-04-17T09:33:48.014,target_detected,0,red,True,-129.00,-124.00,91.00,red err_x=-129 err_y=-124 r=91,camera_ok frames=88 fps=6.7 size=640x480,259,259,0
+2026-04-17T09:33:48.135,camera_info,0,red,,,,,camera_info_update,camera_ok frames=89 fps=6.7 size=640x480,261,261,0
+2026-04-17T09:33:48.169,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=89 fps=6.7 size=640x480,262,262,0
+2026-04-17T09:33:48.287,camera_info,0,red,,,,,camera_info_update,camera_ok frames=90 fps=6.7 size=640x480,264,264,0
+2026-04-17T09:33:48.318,target_detected,0,red,True,-129.00,-123.00,92.00,red err_x=-129 err_y=-123 r=92,camera_ok frames=90 fps=6.7 size=640x480,265,265,0
+2026-04-17T09:33:48.418,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=90 fps=6.7 size=640x480,267,267,0
+2026-04-17T09:33:48.435,camera_info,0,red,,,,,camera_info_update,camera_ok frames=91 fps=6.7 size=640x480,267,267,0
+2026-04-17T09:33:48.518,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=91 fps=6.7 size=640x480,269,269,0
+2026-04-17T09:33:48.560,camera_info,0,red,,,,,camera_info_update,camera_ok frames=92 fps=6.7 size=640x480,269,269,0
+2026-04-17T09:33:48.708,camera_info,0,red,,,,,camera_info_update,camera_ok frames=93 fps=6.7 size=640x480,272,272,0
+2026-04-17T09:33:48.715,target_detected,0,red,True,-129.00,-125.00,91.00,red err_x=-129 err_y=-125 r=91,camera_ok frames=93 fps=6.7 size=640x480,273,273,0
+2026-04-17T09:33:48.856,camera_info,0,red,,,,,camera_info_update,camera_ok frames=94 fps=6.7 size=640x480,275,275,0
+2026-04-17T09:33:48.868,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=94 fps=6.7 size=640x480,276,276,0
+2026-04-17T09:33:48.967,target_detected,0,red,True,-129.00,-124.00,92.00,red err_x=-129 err_y=-124 r=92,camera_ok frames=94 fps=6.7 size=640x480,278,278,0
+2026-04-17T09:33:49.004,camera_info,0,red,,,,,camera_info_update,camera_ok frames=95 fps=6.8 size=640x480,278,278,0
+2026-04-17T09:33:49.152,camera_info,0,red,,,,,camera_info_update,camera_ok frames=96 fps=6.8 size=640x480,281,281,0
+2026-04-17T09:33:49.298,camera_info,0,red,,,,,camera_info_update,camera_ok frames=97 fps=6.8 size=640x480,284,284,0
+2026-04-17T09:33:49.316,target_detected,0,red,True,-129.00,-124.00,91.00,red err_x=-129 err_y=-124 r=91,camera_ok frames=97 fps=6.8 size=640x480,285,285,0
+2026-04-17T09:33:49.450,camera_info,0,red,,,,,camera_info_update,camera_ok frames=98 fps=6.8 size=640x480,287,287,0
+2026-04-17T09:33:49.465,target_detected,0,red,True,-129.00,-125.00,92.00,red err_x=-129 err_y=-125 r=92,camera_ok frames=98 fps=6.8 size=640x480,288,288,0
+2026-04-17T09:33:49.596,camera_info,0,red,,,,,camera_info_update,camera_ok frames=99 fps=6.8 size=640x480,290,290,0
+2026-04-17T09:33:49.744,camera_info,0,red,,,,,camera_info_update,camera_ok frames=100 fps=6.8 size=640x480,293,293,0
+2026-04-17T09:33:49.892,camera_info,0,red,,,,,camera_info_update,camera_ok frames=101 fps=6.8 size=640x480,296,296,0
+2026-04-17T09:33:50.044,camera_info,0,red,,,,,camera_info_update,camera_ok frames=102 fps=6.7 size=640x480,299,299,0
+2026-04-17T09:33:50.203,camera_info,0,red,,,,,camera_info_update,camera_ok frames=103 fps=6.7 size=640x480,302,302,0
+2026-04-17T09:33:50.319,target_detected,0,red,True,-129.00,-126.00,92.00,red err_x=-129 err_y=-126 r=92,camera_ok frames=103 fps=6.7 size=640x480,305,305,0
+2026-04-17T09:33:50.351,camera_info,0,red,,,,,camera_info_update,camera_ok frames=104 fps=6.7 size=640x480,305,305,0
+2026-04-17T09:33:50.358,node_stopping,0,red,,,,,destroy_node,camera_ok frames=104 fps=6.7 size=640x480,305,305,0
